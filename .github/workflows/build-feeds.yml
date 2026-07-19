@@ -3,7 +3,7 @@ name: Build feeds
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: '0 2 * * *'
 
 permissions:
   contents: write
