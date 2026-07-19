@@ -1,0 +1,15 @@
+# Local environment and secrets
+.env
+.env.*
+config/
+storage/
+*.log
+
+# Temporary generated files
+docs/*.tmp
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
