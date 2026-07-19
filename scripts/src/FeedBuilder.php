@@ -120,6 +120,24 @@ final class FeedBuilder
                             );
                         }
 
+                        if ($productId !== '') {
+                            $this->appendTextElement(
+                                $document,
+                                $product,
+                                'picture_url',
+                                'https://polycomp.bg/poly/image/'
+                                . $productId
+                                . '?scale=false'
+                            );
+                            $this->appendTextElement(
+                                $document,
+                                $product,
+                                'document_url',
+                                'https://polycomp.bg/poly/document/'
+                                . $productId
+                            );
+                        }
+
                         $root->appendChild($product);
                         $productCount++;
                     }
@@ -127,6 +145,10 @@ final class FeedBuilder
             }
         }
 
+        $root->setAttribute(
+            'generated_at',
+            gmdate('Y-m-d\TH:i:s\Z')
+        );
         $root->setAttribute('count', (string) $productCount);
         $root->setAttribute(
             'duplicates_skipped',
