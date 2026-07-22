@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-21T05:15:48Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-22T05:14:47Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -11767,6 +11767,7 @@
     <catalog_num>57116_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571160</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Manicure/Pedicure</description>
