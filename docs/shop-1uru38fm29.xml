@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-22T05:14:47Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-23T05:19:46Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -148,7 +148,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за затопляне на храна</articlekind>
     <articlekindUid>0006303338385</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>95402_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125954024</ean_barcode>
@@ -10803,7 +10803,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10260_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102609</ean_barcode>
