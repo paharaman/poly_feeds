@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-23T05:19:46Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-24T05:15:55Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4396,6 +4396,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125645021</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -5720,6 +5721,7 @@
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -8027,6 +8029,7 @@
     <catalog_num>64814_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Vibration</description>
@@ -8240,6 +8243,7 @@
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1 EMS belt for core abdominal muscles and lower back muscles</description>
@@ -12065,6 +12069,7 @@
     <catalog_num>57101_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571016</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>LED/UV</description>
