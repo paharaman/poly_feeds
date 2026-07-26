@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-25T04:59:58Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-26T05:25:49Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -9239,6 +9239,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125105211</ean_barcode>
+    <expectedDelivery>26.07.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4 x classic clean brush head; Compatible with all Philips Sonicare toothbrushes except Philips One and Kids</description>
