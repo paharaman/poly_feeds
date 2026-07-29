@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-28T04:58:44Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-29T05:16:37Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4393,7 +4393,6 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>64502_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125645021</ean_barcode>
     <characteristics>
@@ -4435,13 +4434,13 @@
     <model>Beurer FM 39 Shiatsu foot massager; Soothing Shiatsu foot massage; Heat function</model>
     <name>Масажор</name>
     <picture_name>0006303339215</picture_name>
-    <price>51.25</price>
-    <price_dds>61.5</price_dds>
-    <realPrice_BGL>46.125</realPrice_BGL>
-    <realPrice_BGL_dds>55.35</realPrice_BGL_dds>
+    <price>51.26492</price>
+    <price_dds>61.517904</price_dds>
+    <realPrice_BGL>46.138428</realPrice_BGL>
+    <realPrice_BGL_dds>55.3661136</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>46.125</realPrice>
+    <realPrice>46.138428</realPrice>
     <small_picture>/poly/image/0006303339215</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -7294,6 +7293,79 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307186201?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307186201</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Масажори</articlekind>
+    <articlekindUid>0006303338359</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>10027_BEU_64814_BEU</catalog_num>
+    <code>PRM</code>
+    <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Shiatsu massage</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dual use for the feet and the back</description>
+        <name>Употреба</name>
+      </characteristic>
+      <characteristic>
+        <description>3 selectable speed levels of shiatsu massage</description>
+        <name>Регулируем интензитет</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Електроди</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Automatic switch-off after 15 minutes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Optional heat function to relieve tension; 18 Shiatsu massage heads; Cosy surface made of breathable mesh material; Removable and washable cover; Change in massage head direction of rotation for more variety</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307281956</id>
+    <kkprice>91.65833</kkprice>
+    <model>Beurer FM 70 Soothing Shiatsu foot and back massage + Beurer MG 10 massage ball</model>
+    <name>Масажор</name>
+    <picture_name>0006307281956</picture_name>
+    <price>59.99</price>
+    <price_dds>71.988</price_dds>
+    <realPrice_BGL>59.99</realPrice_BGL>
+    <realPrice_BGL_dds>71.988</realPrice_BGL_dds>
+    <kkprice_BGL>91.65833</kkprice_BGL>
+    <kkprice_BGL_dds>109.989996</kkprice_BGL_dds>
+    <realPrice>59.99</realPrice>
+    <small_picture>/poly/image/0006307281956</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>90191090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307281956?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307281956</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -13000,96 +13072,23 @@
       </characteristic>
     </characteristics>
     <id>0006306015381</id>
-    <kkprice>17.075</kkprice>
+    <kkprice>17.49167</kkprice>
     <model>Beurer HC 17 Hair dryer, 1 300 W, ergonomic folding handle, 2 heat settings, 2 blower settings, slim professional nozzle, overheating protection</model>
     <name>Сешоар</name>
     <picture_name>0006306015381</picture_name>
-    <price>13.49</price>
-    <price_dds>16.188</price_dds>
-    <realPrice_BGL>12.141</realPrice_BGL>
-    <realPrice_BGL_dds>14.5692</realPrice_BGL_dds>
-    <kkprice_BGL>17.075</kkprice_BGL>
-    <kkprice_BGL_dds>20.49</kkprice_BGL_dds>
-    <realPrice>12.141</realPrice>
+    <price>13.71</price>
+    <price_dds>16.452</price_dds>
+    <realPrice_BGL>12.339</realPrice_BGL>
+    <realPrice_BGL_dds>14.8068</realPrice_BGL_dds>
+    <kkprice_BGL>17.49167</kkprice_BGL>
+    <kkprice_BGL_dds>20.990004</kkprice_BGL_dds>
+    <realPrice>12.339</realPrice>
     <small_picture>/poly/image/0006306015381</small_picture>
     <stokaType>1</stokaType>
-    <taxCode>L85163100</taxCode>
+    <taxCode>85163100</taxCode>
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306015381?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306015381</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Сешоари</articlekind>
-    <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>10072_BEU_10074_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>1300 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>2 heat settings</description>
-        <name>Степени на температура</name>
-      </characteristic>
-      <characteristic>
-        <description>2 blower settings</description>
-        <name>Скорости</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Йонизираща функция</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Функция студен въздух</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Концентратор на въздух</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дифузер за обем</name>
-      </characteristic>
-      <characteristic>
-        <description>Grey</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Space saving due to foldable handle; Slim professional nozzle; Automatic overheating protection; Hanging loop – for easy storage; Product dimensions (L x W x H): 14.0 x 7.2 x 22.2 cm</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307202920</id>
-    <kkprice>33.325</kkprice>
-    <model>Beurer HC 17 Hair dryer &amp; Beurer HS 15 Hair straightener</model>
-    <name>Сешоар</name>
-    <picture_name>0006307202920</picture_name>
-    <price>19.99</price>
-    <price_dds>23.988</price_dds>
-    <realPrice_BGL>19.99</realPrice_BGL>
-    <realPrice_BGL_dds>23.988</realPrice_BGL_dds>
-    <kkprice_BGL>33.325</kkprice_BGL>
-    <kkprice_BGL_dds>39.99</kkprice_BGL_dds>
-    <realPrice>19.99</realPrice>
-    <small_picture>/poly/image/0006307202920</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>L85163100</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307202920?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307202920</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
