@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-29T05:16:37Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-30T04:53:09Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -10653,7 +10653,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>57614_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125576141</ean_barcode>
