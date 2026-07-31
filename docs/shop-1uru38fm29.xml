@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-30T04:53:09Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-07-31T05:30:29Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3893,7 +3893,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64533_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -9302,9 +9302,8 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>10521_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125105211</ean_barcode>
     <characteristics>
