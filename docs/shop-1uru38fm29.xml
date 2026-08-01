@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-07-31T05:30:29Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-08-01T05:21:47Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -287,7 +287,7 @@
     <catalog_num>95308_BEU_79506_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -492,6 +492,78 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307155413?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307155413</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Електронни кантари</articlekind>
+    <articlekindUid>0006302560952</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>10054_BEU</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>4211125100544</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Diagnostic</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>180.0 kg</description>
+        <name>Капацитет, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Graduation: – 0.1% for body fat, body water and muscle content – 100 g for body weight</description>
+        <name>Точност, g</name>
+      </characteristic>
+      <characteristic>
+        <description>XL display- Digit size 38 mm</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Quick Start, Automatic switch-on and switch-off, overload indicator</description>
+        <name>Автоматично включване/изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Body weight, body fat, body water, muscle percentage, BMI, visceral fat and metabolic age</description>
+        <name>Други функции</name>
+      </characteristic>
+      <characteristic>
+        <description>Glass</description>
+        <name>Материал</name>
+      </characteristic>
+      <characteristic>
+        <description>Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Digit size: 34 mm; 5 activity levels; User memory spaces: 10; 2 x 3 V CR2032 batteries</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306101456</id>
+    <kkprice>28.325</kkprice>
+    <model>Beurer BF 183 diagnostic bathroom scale; Extra large LCD display; Weight, body fat, body water, muscle percentage, bone mass, AMR calorie display; 180 kg</model>
+    <name>Везна</name>
+    <picture_name>0006306101456</picture_name>
+    <price>22.15</price>
+    <price_dds>26.58</price_dds>
+    <realPrice_BGL>19.935</realPrice_BGL>
+    <realPrice_BGL_dds>23.922</realPrice_BGL_dds>
+    <kkprice_BGL>28.325</kkprice_BGL>
+    <kkprice_BGL_dds>33.99</kkprice_BGL_dds>
+    <realPrice>19.935</realPrice>
+    <small_picture>/poly/image/0006306101456</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>84231090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306101456?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306101456</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -3678,7 +3750,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
@@ -3824,7 +3896,7 @@
     <catalog_num>10420_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6121,7 +6193,7 @@
     <catalog_num>20077_BEU_10681_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7308,7 +7380,7 @@
     <catalog_num>10027_BEU_64814_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7381,7 +7453,7 @@
     <catalog_num>10265_BEU_10256_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7454,7 +7526,7 @@
     <catalog_num>10556_BEU_10501_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7527,7 +7599,7 @@
     <catalog_num>20079_BEU_10681_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7596,7 +7668,7 @@
     <catalog_num>69307_BEU_69309_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -9007,7 +9079,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Парни изпарители</articlekind>
     <articlekindUid>0006303974310</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>60132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125601324</ean_barcode>
@@ -9906,7 +9978,7 @@
     <catalog_num>10492_BEU_10156_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -9983,7 +10055,7 @@
     <catalog_num>10492_BEU_10158_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -10136,7 +10208,7 @@
     <catalog_num>10078_BEU_10158_BEU_10156_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -11045,7 +11117,7 @@
     <catalog_num>10057_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -13614,7 +13686,7 @@
     <catalog_num>10484_BEU_10539_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -14715,7 +14787,7 @@
     <catalog_num>60550_BEU_60551_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -14870,7 +14942,7 @@
     <catalog_num>60503_BEU_58417_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -14935,7 +15007,7 @@
     <catalog_num>60555_BEU_60558_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -15016,7 +15088,7 @@
     <catalog_num>60555_BEU_60556_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -15097,7 +15169,7 @@
     <catalog_num>10194_BEU_59107_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -15178,7 +15250,7 @@
     <catalog_num>10058_BEU_10505_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -15263,7 +15335,7 @@
     <catalog_num>10254_BEU_10505_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.07.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
