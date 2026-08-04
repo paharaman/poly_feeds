@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-03T05:35:53Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-04T04:58:22Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -354,8 +354,9 @@
     <articlekindUid>0006303364914</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10034_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100346</ean_barcode>
     <characteristics>
       <characteristic>
@@ -404,13 +405,13 @@
     <model>Beurer LA 35 Aroma diffuser, Micro-fine ultrasonic atomisation, Two-level LED light, up to 20 m2, 12W, fabric cover, automatic switch-off</model>
     <name>Ароматизатор</name>
     <picture_name>0006306121208</picture_name>
-    <price>34.37</price>
-    <price_dds>41.244</price_dds>
-    <realPrice_BGL>30.933</realPrice_BGL>
-    <realPrice_BGL_dds>37.1196</realPrice_BGL_dds>
+    <price>27.5</price>
+    <price_dds>33</price_dds>
+    <realPrice_BGL>27.5</realPrice_BGL>
+    <realPrice_BGL_dds>33</realPrice_BGL_dds>
     <kkprice_BGL>43.325</kkprice_BGL>
     <kkprice_BGL_dds>51.99</kkprice_BGL_dds>
-    <realPrice>30.933</realPrice>
+    <realPrice>27.5</realPrice>
     <small_picture>/poly/image/0006306121208</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -577,7 +578,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>76030_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125760304</ean_barcode>
     <characteristics>
       <characteristic>
@@ -622,13 +625,13 @@
     <model>Beurer BG 13 Diagnostic Bathroom Scale; XL display;body weight, body fat, body water, muscle percentage,bone mass, 10 users; 150 kg</model>
     <name>Везна</name>
     <picture_name>0006303462708</picture_name>
-    <price>20.34905</price>
-    <price_dds>24.41886</price_dds>
-    <realPrice_BGL>18.314145</realPrice_BGL>
-    <realPrice_BGL_dds>21.976974</realPrice_BGL_dds>
+    <price>16.29</price>
+    <price_dds>19.548</price_dds>
+    <realPrice_BGL>16.29</realPrice_BGL>
+    <realPrice_BGL_dds>19.548</realPrice_BGL_dds>
     <kkprice_BGL>25.40833</kkprice_BGL>
     <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
-    <realPrice>18.314145</realPrice>
+    <realPrice>16.29</realPrice>
     <small_picture>/poly/image/0006303462708</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -648,7 +651,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>74909_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125749095</ean_barcode>
     <characteristics>
       <characteristic>
@@ -693,13 +698,13 @@
     <model>Beurer BF 180 diagnostic bathroom scale; Blue illuminated LCD display; Digit size: 34 mm; Weight, body fat, body water, muscle percentage, bone mass and BMR calorie display, With BMI calculation; 180 kg</model>
     <name>Везна</name>
     <picture_name>0006303934415</picture_name>
-    <price>20.21</price>
-    <price_dds>24.252</price_dds>
-    <realPrice_BGL>18.189</realPrice_BGL>
-    <realPrice_BGL_dds>21.8268</realPrice_BGL_dds>
+    <price>16.18</price>
+    <price_dds>19.416</price_dds>
+    <realPrice_BGL>16.18</realPrice_BGL>
+    <realPrice_BGL_dds>19.416</realPrice_BGL_dds>
     <kkprice_BGL>25.40833</kkprice_BGL>
     <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
-    <realPrice>18.189</realPrice>
+    <realPrice>16.18</realPrice>
     <small_picture>/poly/image/0006303934415</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -719,7 +724,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>74816_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125748166</ean_barcode>
     <characteristics>
       <characteristic>
@@ -764,13 +771,13 @@
     <model>Beurer BF 195 diagnostic bathroom scale; round LCD display; Weight, body fat, body water, muscle percentage, bone mass, AMR calorie display; 180 kg</model>
     <name>Везна</name>
     <picture_name>0006303339099</picture_name>
-    <price>28.37</price>
-    <price_dds>34.044</price_dds>
-    <realPrice_BGL>25.533</realPrice_BGL>
-    <realPrice_BGL_dds>30.6396</realPrice_BGL_dds>
+    <price>22.7</price>
+    <price_dds>27.24</price_dds>
+    <realPrice_BGL>22.7</realPrice_BGL>
+    <realPrice_BGL_dds>27.24</realPrice_BGL_dds>
     <kkprice_BGL>35.825</kkprice_BGL>
     <kkprice_BGL_dds>42.99</kkprice_BGL_dds>
-    <realPrice>25.533</realPrice>
+    <realPrice>22.7</realPrice>
     <small_picture>/poly/image/0006303339099</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -790,7 +797,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>76011_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125760113</ean_barcode>
     <characteristics>
       <characteristic>
@@ -835,13 +844,13 @@
     <model>Beurer BF 500 BT diagnostic bathroom scale in black, titanium-coated stainless steel electrodes, extra-large magic display 40mm, Weight, body fat, body water, muscle percentage, bone mass, AMR/BMR calorie display; BMI calculation; Bluetooth; 180 kg / 100</model>
     <name>Везна</name>
     <picture_name>0006303995806</picture_name>
-    <price>33.86978</price>
-    <price_dds>40.643736</price_dds>
-    <realPrice_BGL>30.482802</realPrice_BGL>
-    <realPrice_BGL_dds>36.5793624</realPrice_BGL_dds>
+    <price>27.1</price>
+    <price_dds>32.52</price_dds>
+    <realPrice_BGL>27.1</realPrice_BGL>
+    <realPrice_BGL_dds>32.52</realPrice_BGL_dds>
     <kkprice_BGL>42.49167</kkprice_BGL>
     <kkprice_BGL_dds>50.990004</kkprice_BGL_dds>
-    <realPrice>30.482802</realPrice>
+    <realPrice>27.1</realPrice>
     <small_picture>/poly/image/0006303995806</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -861,7 +870,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>10379_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125103798</ean_barcode>
     <characteristics>
       <characteristic>
@@ -906,13 +917,13 @@
     <model>Beurer BF 990 WIFI/Bluetooth 8-electrode diagnostic bathroom scale with extendable handpiece for full body analysis; 5 activity levels; 8 user memories; 180 kg</model>
     <name>Везна</name>
     <picture_name>0006307179691</picture_name>
-    <price>88.6</price>
-    <price_dds>106.32</price_dds>
-    <realPrice_BGL>79.74</realPrice_BGL>
-    <realPrice_BGL_dds>95.688</realPrice_BGL_dds>
+    <price>70.89</price>
+    <price_dds>85.068</price_dds>
+    <realPrice_BGL>70.89</realPrice_BGL>
+    <realPrice_BGL_dds>85.068</realPrice_BGL_dds>
     <kkprice_BGL>110.825</kkprice_BGL>
     <kkprice_BGL_dds>132.99</kkprice_BGL_dds>
-    <realPrice>79.74</realPrice>
+    <realPrice>70.89</realPrice>
     <small_picture>/poly/image/0006307179691</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -932,7 +943,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>10506_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105068</ean_barcode>
     <characteristics>
       <characteristic>
@@ -977,13 +990,13 @@
     <model>Beurer BF 451 BT SignatureLine, Weight, BMI, body fat, body water, skeletal muscle percentage; Magic LED display; Modern dot-matrix look; Bluetooth; 180 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006307140975</picture_name>
-    <price>29.63</price>
-    <price_dds>35.556</price_dds>
-    <realPrice_BGL>26.667</realPrice_BGL>
-    <realPrice_BGL_dds>32.0004</realPrice_BGL_dds>
+    <price>23.71</price>
+    <price_dds>28.452</price_dds>
+    <realPrice_BGL>23.71</realPrice_BGL>
+    <realPrice_BGL_dds>28.452</realPrice_BGL_dds>
     <kkprice_BGL>37.49167</kkprice_BGL>
     <kkprice_BGL_dds>44.990004</kkprice_BGL_dds>
-    <realPrice>26.667</realPrice>
+    <realPrice>23.71</realPrice>
     <small_picture>/poly/image/0006307140975</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1003,8 +1016,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>74938_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125749385</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1049,13 +1063,13 @@
     <model>Beurer BF 720 BT diagnostic bathroom scale in black, Weight, body fat, body water, muscle percentage, bone mass, AMR/BMR calorie display; BMI calculation; Black LCD display; white illumination with display of user's initials; Bluetooth; 180 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006303884310</picture_name>
-    <price>39.09</price>
-    <price_dds>46.908</price_dds>
-    <realPrice_BGL>35.181</realPrice_BGL>
-    <realPrice_BGL_dds>42.2172</realPrice_BGL_dds>
+    <price>31.27</price>
+    <price_dds>37.524</price_dds>
+    <realPrice_BGL>31.27</realPrice_BGL>
+    <realPrice_BGL_dds>37.524</realPrice_BGL_dds>
     <kkprice_BGL>49.15833</kkprice_BGL>
     <kkprice_BGL_dds>58.989996</kkprice_BGL_dds>
-    <realPrice>35.181</realPrice>
+    <realPrice>31.27</realPrice>
     <small_picture>/poly/image/0006303884310</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1075,7 +1089,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>74860_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125748609</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1120,13 +1136,13 @@
     <model>Beurer BF 1000 Super Precision, diagnostic bathroom scale, Weight, body fat, body water, muscle percentage, bone mass, AMR/BMR calorie display; Bluetooth; 200 kg / 50 g</model>
     <name>Везна</name>
     <picture_name>0006303844074</picture_name>
-    <price>285.57745</price>
-    <price_dds>342.69294</price_dds>
-    <realPrice_BGL>257.019705</realPrice_BGL>
-    <realPrice_BGL_dds>308.423646</realPrice_BGL_dds>
+    <price>228.49</price>
+    <price_dds>274.188</price_dds>
+    <realPrice_BGL>228.49</realPrice_BGL>
+    <realPrice_BGL_dds>274.188</realPrice_BGL_dds>
     <kkprice_BGL>357.5</kkprice_BGL>
     <kkprice_BGL_dds>429</kkprice_BGL_dds>
-    <realPrice>257.019705</realPrice>
+    <realPrice>228.49</realPrice>
     <small_picture>/poly/image/0006303844074</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1146,7 +1162,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70905_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125709051</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1191,13 +1209,13 @@
     <model>Beurer DS 61 nutritional analysis scale; Nutritional and energy values for 950 saved foods (kcal, kJ, fat, bread units, protein, carbohydrates and cholesterol) and space for 50 customisablememory spaces; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339132</picture_name>
-    <price>30.92</price>
-    <price_dds>37.104</price_dds>
-    <realPrice_BGL>27.828</realPrice_BGL>
-    <realPrice_BGL_dds>33.3936</realPrice_BGL_dds>
+    <price>24.74</price>
+    <price_dds>29.688</price_dds>
+    <realPrice_BGL>24.74</realPrice_BGL>
+    <realPrice_BGL_dds>29.688</realPrice_BGL_dds>
     <kkprice_BGL>39.15833</kkprice_BGL>
     <kkprice_BGL_dds>46.989996</kkprice_BGL_dds>
-    <realPrice>27.828</realPrice>
+    <realPrice>24.74</realPrice>
     <small_picture>/poly/image/0006303339132</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1217,7 +1235,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>75621_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125756215</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1262,13 +1282,13 @@
     <model>Beurer GS 10 Glass bathroom scale  black; Automatic switch-off, overload indicator; 180 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006303339081</picture_name>
-    <price>15.53</price>
-    <price_dds>18.636</price_dds>
-    <realPrice_BGL>13.977</realPrice_BGL>
-    <realPrice_BGL_dds>16.7724</realPrice_BGL_dds>
+    <price>12.43</price>
+    <price_dds>14.916</price_dds>
+    <realPrice_BGL>12.43</realPrice_BGL>
+    <realPrice_BGL_dds>14.916</realPrice_BGL_dds>
     <kkprice_BGL>19.575</kkprice_BGL>
     <kkprice_BGL_dds>23.49</kkprice_BGL_dds>
-    <realPrice>13.977</realPrice>
+    <realPrice>12.43</realPrice>
     <small_picture>/poly/image/0006303339081</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1288,7 +1308,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>75630_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125756307</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1333,13 +1355,13 @@
     <model>Beurer GS 10 Glass bathroom scale Gray; Automatic switch-off, overload indicator; 180 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006303500520</picture_name>
-    <price>15.55</price>
-    <price_dds>18.66</price_dds>
-    <realPrice_BGL>13.995</realPrice_BGL>
-    <realPrice_BGL_dds>16.794</realPrice_BGL_dds>
+    <price>12.45</price>
+    <price_dds>14.94</price_dds>
+    <realPrice_BGL>12.45</realPrice_BGL>
+    <realPrice_BGL_dds>14.94</realPrice_BGL_dds>
     <kkprice_BGL>19.575</kkprice_BGL>
     <kkprice_BGL_dds>23.49</kkprice_BGL_dds>
-    <realPrice>13.995</realPrice>
+    <realPrice>12.45</realPrice>
     <small_picture>/poly/image/0006303500520</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1359,7 +1381,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>10041_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100414</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1404,13 +1428,13 @@
     <model>Beurer GS 120 Kompakt Glass bathroom scale  black; Automatic switch-off, overload indicator; 150 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006306048503</picture_name>
-    <price>12.26</price>
-    <price_dds>14.712</price_dds>
-    <realPrice_BGL>11.034</realPrice_BGL>
-    <realPrice_BGL_dds>13.2408</realPrice_BGL_dds>
+    <price>9.82</price>
+    <price_dds>11.784</price_dds>
+    <realPrice_BGL>9.82</realPrice_BGL>
+    <realPrice_BGL_dds>11.784</realPrice_BGL_dds>
     <kkprice_BGL>15.40833</kkprice_BGL>
     <kkprice_BGL_dds>18.489996</kkprice_BGL_dds>
-    <realPrice>11.034</realPrice>
+    <realPrice>9.82</realPrice>
     <small_picture>/poly/image/0006306048503</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1430,7 +1454,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>75732_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125757328</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1475,13 +1501,13 @@
     <model>Beurer GS 235 Black Glass bathroom scale non-slip surface; Automatic switch-off, overload indicator; height 2.7 cm; 180 kg / 100 g  5 years warranty</model>
     <name>Везна</name>
     <picture_name>0006303748527</picture_name>
-    <price>23.38</price>
-    <price_dds>28.056</price_dds>
-    <realPrice_BGL>21.042</realPrice_BGL>
-    <realPrice_BGL_dds>25.2504</realPrice_BGL_dds>
+    <price>18.7</price>
+    <price_dds>22.44</price_dds>
+    <realPrice_BGL>18.7</realPrice_BGL>
+    <realPrice_BGL_dds>22.44</realPrice_BGL_dds>
     <kkprice_BGL>29.575</kkprice_BGL>
     <kkprice_BGL_dds>35.49</kkprice_BGL_dds>
-    <realPrice>21.042</realPrice>
+    <realPrice>18.7</realPrice>
     <small_picture>/poly/image/0006303748527</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1501,7 +1527,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>75733_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125757335</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1542,13 +1570,13 @@
     <model>Beurer GS 225 White Glass bathroom scale, Magic LED display; Automatic switch-off, overload indicator; height 2.7 cm; 180 kg / 100 g  5 years warranty; White</model>
     <name>Везна</name>
     <picture_name>0006307117232</picture_name>
-    <price>22.28615</price>
-    <price_dds>26.74338</price_dds>
-    <realPrice_BGL>20.057535</realPrice_BGL>
-    <realPrice_BGL_dds>24.069042</realPrice_BGL_dds>
+    <price>17.84</price>
+    <price_dds>21.408</price_dds>
+    <realPrice_BGL>17.84</realPrice_BGL>
+    <realPrice_BGL_dds>21.408</realPrice_BGL_dds>
     <kkprice_BGL>27.90833</kkprice_BGL>
     <kkprice_BGL_dds>33.489996</kkprice_BGL_dds>
-    <realPrice>20.057535</realPrice>
+    <realPrice>17.84</realPrice>
     <small_picture>/poly/image/0006307117232</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1568,7 +1596,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70406_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704063</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1613,13 +1643,13 @@
     <model>Beurer KS 19 fresh kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339117</picture_name>
-    <price>14.2</price>
-    <price_dds>17.04</price_dds>
-    <realPrice_BGL>12.78</realPrice_BGL>
-    <realPrice_BGL_dds>15.336</realPrice_BGL_dds>
+    <price>10.66</price>
+    <price_dds>12.792</price_dds>
+    <realPrice_BGL>10.66</realPrice_BGL>
+    <realPrice_BGL_dds>12.792</realPrice_BGL_dds>
     <kkprice_BGL>18.325</kkprice_BGL>
     <kkprice_BGL_dds>21.99</kkprice_BGL_dds>
-    <realPrice>12.78</realPrice>
+    <realPrice>10.66</realPrice>
     <small_picture>/poly/image/0006303339117</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1639,7 +1669,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70404_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704049</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1684,13 +1716,13 @@
     <model>Beurer KS 19 black kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339120</picture_name>
-    <price>14.4022</price>
-    <price_dds>17.28264</price_dds>
-    <realPrice_BGL>12.96198</realPrice_BGL>
-    <realPrice_BGL_dds>15.554376</realPrice_BGL_dds>
+    <price>11.52</price>
+    <price_dds>13.824</price_dds>
+    <realPrice_BGL>11.52</realPrice_BGL>
+    <realPrice_BGL_dds>13.824</realPrice_BGL_dds>
     <kkprice_BGL>18.325</kkprice_BGL>
     <kkprice_BGL_dds>21.99</kkprice_BGL_dds>
-    <realPrice>12.96198</realPrice>
+    <realPrice>11.52</realPrice>
     <small_picture>/poly/image/0006303339120</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1710,7 +1742,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70405_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704056</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1755,13 +1789,13 @@
     <model>Beurer KS 19 berry kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303413731</picture_name>
-    <price>14.2</price>
-    <price_dds>17.04</price_dds>
-    <realPrice_BGL>12.78</realPrice_BGL>
-    <realPrice_BGL_dds>15.336</realPrice_BGL_dds>
+    <price>10.66</price>
+    <price_dds>12.792</price_dds>
+    <realPrice_BGL>10.66</realPrice_BGL>
+    <realPrice_BGL_dds>12.792</realPrice_BGL_dds>
     <kkprice_BGL>18.325</kkprice_BGL>
     <kkprice_BGL_dds>21.99</kkprice_BGL_dds>
-    <realPrice>12.78</realPrice>
+    <realPrice>10.66</realPrice>
     <small_picture>/poly/image/0006303413731</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1781,7 +1815,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>10681_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125106812</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1826,13 +1862,13 @@
     <model>Beurer KS 19 Pure White kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006307241964</picture_name>
-    <price>14.4022</price>
-    <price_dds>17.28264</price_dds>
-    <realPrice_BGL>12.96198</realPrice_BGL>
-    <realPrice_BGL_dds>15.554376</realPrice_BGL_dds>
+    <price>11.52</price>
+    <price_dds>13.824</price_dds>
+    <realPrice_BGL>11.52</realPrice_BGL>
+    <realPrice_BGL_dds>13.824</realPrice_BGL_dds>
     <kkprice_BGL>18.325</kkprice_BGL>
     <kkprice_BGL_dds>21.99</kkprice_BGL_dds>
-    <realPrice>12.96198</realPrice>
+    <realPrice>11.52</realPrice>
     <small_picture>/poly/image/0006307241964</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1852,7 +1888,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>10682_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125106829</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1897,13 +1935,13 @@
     <model>Beurer KS 19 Vintage kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006307241971</picture_name>
-    <price>14.4022</price>
-    <price_dds>17.28264</price_dds>
-    <realPrice_BGL>12.96198</realPrice_BGL>
-    <realPrice_BGL_dds>15.554376</realPrice_BGL_dds>
+    <price>11.52</price>
+    <price_dds>13.824</price_dds>
+    <realPrice_BGL>11.52</realPrice_BGL>
+    <realPrice_BGL_dds>13.824</realPrice_BGL_dds>
     <kkprice_BGL>18.325</kkprice_BGL>
     <kkprice_BGL_dds>21.99</kkprice_BGL_dds>
-    <realPrice>12.96198</realPrice>
+    <realPrice>11.52</realPrice>
     <small_picture>/poly/image/0006307241971</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1923,7 +1961,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70410_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704100</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1968,13 +2008,13 @@
     <model>Beurer KS 22 kitchen scale; Stainless steel weighing surface; 3 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339126</picture_name>
-    <price>13.5405</price>
-    <price_dds>16.2486</price_dds>
-    <realPrice_BGL>12.18645</realPrice_BGL>
-    <realPrice_BGL_dds>14.62374</realPrice_BGL_dds>
+    <price>10.83</price>
+    <price_dds>12.996</price_dds>
+    <realPrice_BGL>10.83</realPrice_BGL>
+    <realPrice_BGL_dds>12.996</realPrice_BGL_dds>
     <kkprice_BGL>17.075</kkprice_BGL>
     <kkprice_BGL_dds>20.49</kkprice_BGL_dds>
-    <realPrice>12.18645</realPrice>
+    <realPrice>10.83</realPrice>
     <small_picture>/poly/image/0006303339126</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1994,7 +2034,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70415_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704155</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2035,13 +2077,13 @@
     <model>Beurer KS 25 kitchen scale; Bowl with 1.2 litre capacity;3 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339129</picture_name>
-    <price>18.33787</price>
-    <price_dds>22.005444</price_dds>
-    <realPrice_BGL>16.504083</realPrice_BGL>
-    <realPrice_BGL_dds>19.8048996</realPrice_BGL_dds>
+    <price>14.67</price>
+    <price_dds>17.604</price_dds>
+    <realPrice_BGL>14.67</realPrice_BGL>
+    <realPrice_BGL_dds>17.604</realPrice_BGL_dds>
     <kkprice_BGL>22.90833</kkprice_BGL>
     <kkprice_BGL_dds>27.489996</kkprice_BGL_dds>
-    <realPrice>16.504083</realPrice>
+    <realPrice>14.67</realPrice>
     <small_picture>/poly/image/0006303339129</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -2061,7 +2103,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70312_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125703127</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2106,13 +2150,13 @@
     <model>Beurer KS 34 XL kitchen scale; Stainless steel weighing surface; Magic LED; 15 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303695751</picture_name>
-    <price>25.89</price>
-    <price_dds>31.068</price_dds>
-    <realPrice_BGL>23.301</realPrice_BGL>
-    <realPrice_BGL_dds>27.9612</realPrice_BGL_dds>
+    <price>20.72</price>
+    <price_dds>24.864</price_dds>
+    <realPrice_BGL>20.72</realPrice_BGL>
+    <realPrice_BGL_dds>24.864</realPrice_BGL_dds>
     <kkprice_BGL>32.49167</kkprice_BGL>
     <kkprice_BGL_dds>38.990004</kkprice_BGL_dds>
-    <realPrice>23.301</realPrice>
+    <realPrice>20.72</realPrice>
     <small_picture>/poly/image/0006303695751</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -2132,7 +2176,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70445_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704452</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2173,13 +2219,13 @@
     <model>Beurer KS 36, precision kitchen scale, Weight capacity 2kg/ Graduation 0.1 g &lt; 500 g. </model>
     <name>Везна</name>
     <picture_name>0006303767224</picture_name>
-    <price>25.98663</price>
-    <price_dds>31.183956</price_dds>
-    <realPrice_BGL>23.387967</realPrice_BGL>
-    <realPrice_BGL_dds>28.0655604</realPrice_BGL_dds>
+    <price>20.79</price>
+    <price_dds>24.948</price_dds>
+    <realPrice_BGL>20.79</realPrice_BGL>
+    <realPrice_BGL_dds>24.948</realPrice_BGL_dds>
     <kkprice_BGL>32.49167</kkprice_BGL>
     <kkprice_BGL_dds>38.990004</kkprice_BGL_dds>
-    <realPrice>23.387967</realPrice>
+    <realPrice>20.79</realPrice>
     <small_picture>/poly/image/0006303767224</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -2199,7 +2245,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>73210_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125732103</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2244,13 +2292,13 @@
     <model>Beurer LS 10 luggage scale; with torch; overload indicator; 50 kg</model>
     <name>Везна</name>
     <picture_name>0006303339111</picture_name>
-    <price>15.60953</price>
-    <price_dds>18.731436</price_dds>
-    <realPrice_BGL>14.048577</realPrice_BGL>
-    <realPrice_BGL_dds>16.8582924</realPrice_BGL_dds>
+    <price>12.49</price>
+    <price_dds>14.988</price_dds>
+    <realPrice_BGL>12.49</realPrice_BGL>
+    <realPrice_BGL_dds>14.988</realPrice_BGL_dds>
     <kkprice_BGL>19.575</kkprice_BGL>
     <kkprice_BGL_dds>23.49</kkprice_BGL_dds>
-    <realPrice>14.048577</realPrice>
+    <realPrice>12.49</realPrice>
     <small_picture>/poly/image/0006303339111</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84238220</taxCode>
@@ -2270,7 +2318,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>73212_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125732127</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2315,13 +2365,13 @@
     <model>Beurer LS 06 luggage scale; blue illuminated display; 1 m tape measure; 40 kg</model>
     <name>Везна</name>
     <picture_name>0006303440408</picture_name>
-    <price>11.1205</price>
-    <price_dds>13.3446</price_dds>
-    <realPrice_BGL>10.00845</realPrice_BGL>
-    <realPrice_BGL_dds>12.01014</realPrice_BGL_dds>
+    <price>8.9</price>
+    <price_dds>10.68</price_dds>
+    <realPrice_BGL>8.9</realPrice_BGL>
+    <realPrice_BGL_dds>10.68</realPrice_BGL_dds>
     <kkprice_BGL>14.15833</kkprice_BGL>
     <kkprice_BGL_dds>16.989996</kkprice_BGL_dds>
-    <realPrice>10.00845</realPrice>
+    <realPrice>8.9</realPrice>
     <small_picture>/poly/image/0006303440408</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84238220</taxCode>
@@ -2341,7 +2391,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
     <catalog_num>75415_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125754150</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2386,13 +2438,13 @@
     <model>Beurer PS 240 personal bathroom scale; rubber-coated standing surface; 180 kg / 50 g</model>
     <name>Везна</name>
     <picture_name>0006303339105</picture_name>
-    <price>28.3657</price>
-    <price_dds>34.03884</price_dds>
-    <realPrice_BGL>25.52913</realPrice_BGL>
-    <realPrice_BGL_dds>30.634956</realPrice_BGL_dds>
+    <price>22.7</price>
+    <price_dds>27.24</price_dds>
+    <realPrice_BGL>22.7</realPrice_BGL>
+    <realPrice_BGL_dds>27.24</realPrice_BGL_dds>
     <kkprice_BGL>35.825</kkprice_BGL>
     <kkprice_BGL_dds>42.99</kkprice_BGL_dds>
-    <realPrice>25.52913</realPrice>
+    <realPrice>22.7</realPrice>
     <small_picture>/poly/image/0006303339105</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -2412,7 +2464,9 @@
     <articlekindUid>0006303332178</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10067_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100674</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2485,13 +2539,13 @@
     <model>Beurer LB 300 plus Air humidifier- Natural cold evaporation technology, 3 fan speeds, up to 300 ml/h, up to 45 m2, WT 3l, Night mode and timer function</model>
     <name>Овлажнител на въздух</name>
     <picture_name>0006306050933</picture_name>
-    <price>155.48902</price>
-    <price_dds>186.586824</price_dds>
-    <realPrice_BGL>139.940118</realPrice_BGL>
-    <realPrice_BGL_dds>167.9281416</realPrice_BGL_dds>
+    <price>124.4</price>
+    <price_dds>149.28</price_dds>
+    <realPrice_BGL>124.4</realPrice_BGL>
+    <realPrice_BGL_dds>149.28</realPrice_BGL_dds>
     <kkprice_BGL>195.83333</kkprice_BGL>
     <kkprice_BGL_dds>234.999996</kkprice_BGL_dds>
-    <realPrice>139.940118</realPrice>
+    <realPrice>124.4</realPrice>
     <small_picture>/poly/image/0006306050933</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -2511,8 +2565,9 @@
     <articlekindUid>0006303338358</articlekindUid>
     <available>на склад</available>
     <catalog_num>61612_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125616120</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2549,13 +2604,13 @@
     <model>Beurer IL 35 infrared lamp, For colds and muscle tension, 5 angle settings, Pressed glass bulb, 3-level electronic timer</model>
     <name>Инфрачервена лампа</name>
     <picture_name>0006303615364</picture_name>
-    <price>61.92</price>
-    <price_dds>74.304</price_dds>
-    <realPrice_BGL>55.728</realPrice_BGL>
-    <realPrice_BGL_dds>66.8736</realPrice_BGL_dds>
+    <price>49.54</price>
+    <price_dds>59.448</price_dds>
+    <realPrice_BGL>49.54</realPrice_BGL>
+    <realPrice_BGL_dds>59.448</realPrice_BGL_dds>
     <kkprice_BGL>77.49167</kkprice_BGL>
     <kkprice_BGL_dds>92.990004</kkprice_BGL_dds>
-    <realPrice>55.728</realPrice>
+    <realPrice>49.54</realPrice>
     <small_picture>/poly/image/0006303615364</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90182000</taxCode>
@@ -2575,7 +2630,9 @@
     <articlekindUid>0006303338358</articlekindUid>
     <available>на склад</available>
     <catalog_num>61695_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125616953</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2612,13 +2669,13 @@
     <model>Beurer IL 60 infrared heat lamp, For colds and muscle tension,  SCHOTT NEXTREMA glass-ceramic cover lens, UV blocker, Adjustable shade from 0-40 degrees, 300W, electronic timer, Medical device</model>
     <name>Инфрачервена лампа</name>
     <picture_name>0006306120965</picture_name>
-    <price>96.74587</price>
-    <price_dds>116.095044</price_dds>
-    <realPrice_BGL>87.071283</realPrice_BGL>
-    <realPrice_BGL_dds>104.4855396</realPrice_BGL_dds>
+    <price>77.4</price>
+    <price_dds>92.88</price_dds>
+    <realPrice_BGL>77.4</realPrice_BGL>
+    <realPrice_BGL_dds>92.88</realPrice_BGL_dds>
     <kkprice_BGL>120.825</kkprice_BGL>
     <kkprice_BGL_dds>144.99</kkprice_BGL_dds>
-    <realPrice>87.071283</realPrice>
+    <realPrice>77.4</realPrice>
     <small_picture>/poly/image/0006306120965</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90182000</taxCode>
@@ -2638,7 +2695,9 @@
     <articlekindUid>0006302095219</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>58928_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125589288</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2683,13 +2742,13 @@
     <model>Beurer WL 75 wake up light, smartphone connection ,radio or alarm, Aux input, charge smarthphones via USB</model>
     <name>Лампа</name>
     <picture_name>0006303339173</picture_name>
-    <price>103.70092</price>
-    <price_dds>124.441104</price_dds>
-    <realPrice_BGL>93.330828</realPrice_BGL>
-    <realPrice_BGL_dds>111.9969936</realPrice_BGL_dds>
+    <price>82.95</price>
+    <price_dds>99.54</price_dds>
+    <realPrice_BGL>82.95</realPrice_BGL>
+    <realPrice_BGL_dds>99.54</realPrice_BGL_dds>
     <kkprice_BGL>129.15833</kkprice_BGL>
     <kkprice_BGL_dds>154.989996</kkprice_BGL_dds>
-    <realPrice>93.330828</realPrice>
+    <realPrice>82.95</realPrice>
     <small_picture>/poly/image/0006303339173</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85279100</taxCode>
@@ -2709,7 +2768,9 @@
     <articlekindUid>0006303482832</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>64017_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125640170</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2746,13 +2807,13 @@
     <model>Beurer MC 3800 HCT Shiatsu massage chair,Shiatsu, tapping, kneading and roll massage,Individually adjustable full-body massage with 4-head massage system,3 automatic massage programs,Leather-effect surface (washable PU),Rotates 180°</model>
     <name>Масажен стол</name>
     <picture_name>0006303483282</picture_name>
-    <price>1517.52154</price>
-    <price_dds>1821.025848</price_dds>
-    <realPrice_BGL>1365.769386</realPrice_BGL>
-    <realPrice_BGL_dds>1638.9232632</realPrice_BGL_dds>
+    <price>1214.02</price>
+    <price_dds>1456.824</price_dds>
+    <realPrice_BGL>1214.02</realPrice_BGL>
+    <realPrice_BGL_dds>1456.824</realPrice_BGL_dds>
     <kkprice_BGL>1899.16667</kkprice_BGL>
     <kkprice_BGL_dds>2279.000004</kkprice_BGL_dds>
-    <realPrice>1365.769386</realPrice>
+    <realPrice>1214.02</realPrice>
     <small_picture>/poly/image/0006303483282</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94029000</taxCode>
@@ -2772,7 +2833,9 @@
     <articlekindUid>0006303482832</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>64015_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125640156</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2809,13 +2872,13 @@
     <model>Beurer MC 5000 HCT deluxe Shiatsu massage chair, body-scan function, Shiatsu, tapping, kneading and roll massage,Spot and partial massage,5 massage types,3 intensity levels for air pressure massage</model>
     <name>Масажен стол</name>
     <picture_name>0006303483225</picture_name>
-    <price>2182.69299</price>
-    <price_dds>2619.231588</price_dds>
-    <realPrice_BGL>1964.423691</realPrice_BGL>
-    <realPrice_BGL_dds>2357.3084292</realPrice_BGL_dds>
+    <price>1746.15</price>
+    <price_dds>2095.38</price_dds>
+    <realPrice_BGL>1746.15</realPrice_BGL>
+    <realPrice_BGL_dds>2095.38</realPrice_BGL_dds>
     <kkprice_BGL>2707.5</kkprice_BGL>
     <kkprice_BGL_dds>3249</kkprice_BGL_dds>
-    <realPrice>1964.423691</realPrice>
+    <realPrice>1746.15</realPrice>
     <small_picture>/poly/image/0006303483225</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94029000</taxCode>
@@ -2835,7 +2898,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10501_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105013</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2880,13 +2945,13 @@
     <model>Beurer MG 18 Mini massager - NEW</model>
     <name>Масажор</name>
     <picture_name>0006307229501</picture_name>
-    <price>11.5469</price>
-    <price_dds>13.85628</price_dds>
-    <realPrice_BGL>10.39221</realPrice_BGL>
-    <realPrice_BGL_dds>12.470652</realPrice_BGL_dds>
+    <price>9.24</price>
+    <price_dds>11.088</price_dds>
+    <realPrice_BGL>9.24</realPrice_BGL>
+    <realPrice_BGL_dds>11.088</realPrice_BGL_dds>
     <kkprice_BGL>14.575</kkprice_BGL>
     <kkprice_BGL_dds>17.49</kkprice_BGL_dds>
-    <realPrice>10.39221</realPrice>
+    <realPrice>9.24</realPrice>
     <small_picture>/poly/image/0006307229501</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -2906,8 +2971,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10256_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125102562</ean_barcode>
     <characteristics>
       <characteristic>
@@ -2952,13 +3018,13 @@
     <model>Beurer MG 24 Massager with heat function</model>
     <name>Масажор</name>
     <picture_name>0006306134665</picture_name>
-    <price>20.78</price>
-    <price_dds>24.936</price_dds>
-    <realPrice_BGL>18.702</realPrice_BGL>
-    <realPrice_BGL_dds>22.4424</realPrice_BGL_dds>
+    <price>15.59</price>
+    <price_dds>18.708</price_dds>
+    <realPrice_BGL>15.59</realPrice_BGL>
+    <realPrice_BGL_dds>18.708</realPrice_BGL_dds>
     <kkprice_BGL>25.825</kkprice_BGL>
     <kkprice_BGL_dds>30.99</kkprice_BGL_dds>
-    <realPrice>18.702</realPrice>
+    <realPrice>15.59</realPrice>
     <small_picture>/poly/image/0006306134665</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -2978,7 +3044,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10502_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105020</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3023,13 +3091,13 @@
     <model>Beurer MG 24 Massager with heat function; Soothing and relaxing vibration massage;3 massage attachments;2 intensity levels;2 pre-set programs</model>
     <name>Масажор</name>
     <picture_name>0006307186183</picture_name>
-    <price>22.64284</price>
-    <price_dds>27.171408</price_dds>
-    <realPrice_BGL>20.378556</realPrice_BGL>
-    <realPrice_BGL_dds>24.4542672</realPrice_BGL_dds>
+    <price>18.11</price>
+    <price_dds>21.732</price_dds>
+    <realPrice_BGL>18.11</realPrice_BGL>
+    <realPrice_BGL_dds>21.732</realPrice_BGL_dds>
     <kkprice_BGL>28.325</kkprice_BGL>
     <kkprice_BGL_dds>33.99</kkprice_BGL_dds>
-    <realPrice>20.378556</realPrice>
+    <realPrice>18.11</realPrice>
     <small_picture>/poly/image/0006307186183</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3049,7 +3117,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10532_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105327</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3094,13 +3164,13 @@
     <model>Beurer MG 44 infrared massager; Soothing vibration massage; Rotating massage head and 3-way adjustable handle; Infrared heat; 3 function levels; 4 interchangeable massage attachments</model>
     <name>Масажор</name>
     <picture_name>0006307229733</picture_name>
-    <price>28.53686</price>
-    <price_dds>34.244232</price_dds>
-    <realPrice_BGL>25.683174</realPrice_BGL>
-    <realPrice_BGL_dds>30.8198088</realPrice_BGL_dds>
+    <price>22.83</price>
+    <price_dds>27.396</price_dds>
+    <realPrice_BGL>22.83</realPrice_BGL>
+    <realPrice_BGL_dds>27.396</realPrice_BGL_dds>
     <kkprice_BGL>35.825</kkprice_BGL>
     <kkprice_BGL_dds>42.99</kkprice_BGL_dds>
-    <realPrice>25.683174</realPrice>
+    <realPrice>22.83</realPrice>
     <small_picture>/poly/image/0006307229733</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3120,7 +3190,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64905_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125649050</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3165,13 +3237,13 @@
     <model>Beurer MG 70 infrared massager; Tapping massage; 2 function levels; 2 interchangeable massage attachments; removable handle</model>
     <name>Масажор</name>
     <picture_name>0006303339191</picture_name>
-    <price>57.25327</price>
-    <price_dds>68.703924</price_dds>
-    <realPrice_BGL>51.527943</realPrice_BGL>
-    <realPrice_BGL_dds>61.8335316</realPrice_BGL_dds>
+    <price>45.81</price>
+    <price_dds>54.972</price_dds>
+    <realPrice_BGL>45.81</realPrice_BGL>
+    <realPrice_BGL_dds>54.972</realPrice_BGL_dds>
     <kkprice_BGL>71.65833</kkprice_BGL>
     <kkprice_BGL_dds>85.989996</kkprice_BGL_dds>
-    <realPrice>51.527943</realPrice>
+    <realPrice>45.81</realPrice>
     <small_picture>/poly/image/0006303339191</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3191,7 +3263,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10218_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125102180</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3236,13 +3310,13 @@
     <model>Beurer MG 79 SENSITIVE Deep tissue massager- 3 intensity levels, 3 massage attachments, Lithium-ion battery life up to 3h, LED lights, storage bag</model>
     <name>Масажор</name>
     <picture_name>0006306101476</picture_name>
-    <price>42.05859</price>
-    <price_dds>50.470308</price_dds>
-    <realPrice_BGL>37.852731</realPrice_BGL>
-    <realPrice_BGL_dds>45.4232772</realPrice_BGL_dds>
+    <price>33.65</price>
+    <price_dds>40.38</price_dds>
+    <realPrice_BGL>33.65</realPrice_BGL>
+    <realPrice_BGL_dds>40.38</realPrice_BGL_dds>
     <kkprice_BGL>52.49167</kkprice_BGL>
     <kkprice_BGL_dds>62.990004</kkprice_BGL_dds>
-    <realPrice>37.852731</realPrice>
+    <realPrice>33.65</realPrice>
     <small_picture>/poly/image/0006306101476</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3262,7 +3336,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10434_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125104344</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3307,13 +3383,13 @@
     <model>Beurer MG 89 MASSAGE GUN CompactPower, Quiet, lightweight &amp; handy deep tissue massager, 5 intensity levels, 3 massage attachments, Up to 4h battery life with LED display</model>
     <name>Масажор</name>
     <picture_name>0006307094378</picture_name>
-    <price>50.89053</price>
-    <price_dds>61.068636</price_dds>
-    <realPrice_BGL>45.801477</realPrice_BGL>
-    <realPrice_BGL_dds>54.9617724</realPrice_BGL_dds>
+    <price>40.71</price>
+    <price_dds>48.852</price_dds>
+    <realPrice_BGL>40.71</realPrice_BGL>
+    <realPrice_BGL_dds>48.852</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>45.801477</realPrice>
+    <realPrice>40.71</realPrice>
     <small_picture>/poly/image/0006307094378</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3333,7 +3409,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10435_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125104351</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3378,13 +3456,13 @@
     <model>Beurer MG 101 SensorBoost, Integrated pressure sensor, Ergonomically shaped, 5 massage attachments, 5 intensity levels, Lithium-ion battery, black</model>
     <name>Масажор</name>
     <picture_name>0006307241918</picture_name>
-    <price>64.29599</price>
-    <price_dds>77.155188</price_dds>
-    <realPrice_BGL>57.866391</realPrice_BGL>
-    <realPrice_BGL_dds>69.4396692</realPrice_BGL_dds>
+    <price>51.44</price>
+    <price_dds>61.728</price_dds>
+    <realPrice_BGL>51.44</realPrice_BGL>
+    <realPrice_BGL_dds>61.728</realPrice_BGL_dds>
     <kkprice_BGL>82.49167</kkprice_BGL>
     <kkprice_BGL_dds>98.990004</kkprice_BGL_dds>
-    <realPrice>57.866391</realPrice>
+    <realPrice>51.44</realPrice>
     <small_picture>/poly/image/0006307241918</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3404,8 +3482,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>65003_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125650032</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3450,13 +3529,13 @@
     <model>Beurer MG 99 deep tissue massager, 5 intensity levels, 4 massage attachments, Lithium-ion battery up to 5h of use</model>
     <name>Масажор</name>
     <picture_name>0006303861035</picture_name>
-    <price>62.85</price>
-    <price_dds>75.42</price_dds>
-    <realPrice_BGL>56.565</realPrice_BGL>
-    <realPrice_BGL_dds>67.878</realPrice_BGL_dds>
+    <price>50.28</price>
+    <price_dds>60.336</price_dds>
+    <realPrice_BGL>50.28</realPrice_BGL>
+    <realPrice_BGL_dds>60.336</realPrice_BGL_dds>
     <kkprice_BGL>79.15833</kkprice_BGL>
     <kkprice_BGL_dds>94.989996</kkprice_BGL_dds>
-    <realPrice>56.565</realPrice>
+    <realPrice>50.28</realPrice>
     <small_picture>/poly/image/0006303861035</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -3476,7 +3555,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64404_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125644048</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3521,13 +3602,13 @@
     <model>Beurer MG 145 Shiatsu massage cushion; massage for the shoulders, neck, back and legs; 4 Shiatsu massage heads; removable cover; machine-washable; light and heat function</model>
     <name>Масажор</name>
     <picture_name>0006303339194</picture_name>
-    <price>42.22779</price>
-    <price_dds>50.673348</price_dds>
-    <realPrice_BGL>38.005011</realPrice_BGL>
-    <realPrice_BGL_dds>45.6060132</realPrice_BGL_dds>
+    <price>33.78</price>
+    <price_dds>40.536</price_dds>
+    <realPrice_BGL>33.78</realPrice_BGL>
+    <realPrice_BGL_dds>40.536</realPrice_BGL_dds>
     <kkprice_BGL>52.49167</kkprice_BGL>
     <kkprice_BGL_dds>62.990004</kkprice_BGL_dds>
-    <realPrice>38.005011</realPrice>
+    <realPrice>33.78</realPrice>
     <small_picture>/poly/image/0006303339194</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3547,7 +3628,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64303_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125643034</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3592,13 +3675,13 @@
     <model>Beurer MG 149 Shiatsu Massage Cushion; for shoulders, neck, back and legs, removable cover machine washable 30 °, 4 massage heads rotating in pairs, light and heat</model>
     <name>Масажор</name>
     <picture_name>0006303462777</picture_name>
-    <price>51.10152</price>
-    <price_dds>61.321824</price_dds>
-    <realPrice_BGL>45.991368</realPrice_BGL>
-    <realPrice_BGL_dds>55.1896416</realPrice_BGL_dds>
+    <price>40.89</price>
+    <price_dds>49.068</price_dds>
+    <realPrice_BGL>40.89</realPrice_BGL>
+    <realPrice_BGL_dds>49.068</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>45.991368</realPrice>
+    <realPrice>40.89</realPrice>
     <small_picture>/poly/image/0006303462777</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3618,7 +3701,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>64413_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3655,13 +3740,13 @@
     <model>Beurer MG 135 Shiatsu massage cushion, Universal cushion shape, washable cover, light and heat function, 4 Shiatsu massage heads - rotating in pairs</model>
     <name>Масажор</name>
     <picture_name>0006303647604</picture_name>
-    <price>58.65205</price>
-    <price_dds>70.38246</price_dds>
-    <realPrice_BGL>52.786845</realPrice_BGL>
-    <realPrice_BGL_dds>63.344214</realPrice_BGL_dds>
+    <price>46.93</price>
+    <price_dds>56.316</price_dds>
+    <realPrice_BGL>46.93</realPrice_BGL>
+    <realPrice_BGL_dds>56.316</realPrice_BGL_dds>
     <kkprice_BGL>73.325</kkprice_BGL>
     <kkprice_BGL_dds>87.99</kkprice_BGL_dds>
-    <realPrice>52.786845</realPrice>
+    <realPrice>46.93</realPrice>
     <small_picture>/poly/image/0006303647604</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3681,7 +3766,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64308_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125643089</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3726,13 +3813,13 @@
     <model>Beurer MG 151 3D Shiatsu massager;for shoulders, neck, back and legs; 3D massage heads; 8 rotating Shiatsu massage heads; Clockwise/anti-clockwise rotation; 3 levels; automatic switch-off; light and heat function</model>
     <name>Масажор</name>
     <picture_name>0006303339203</picture_name>
-    <price>69.59397</price>
-    <price_dds>83.512764</price_dds>
-    <realPrice_BGL>62.634573</realPrice_BGL>
-    <realPrice_BGL_dds>75.1614876</realPrice_BGL_dds>
+    <price>55.68</price>
+    <price_dds>66.816</price_dds>
+    <realPrice_BGL>55.68</realPrice_BGL>
+    <realPrice_BGL_dds>66.816</realPrice_BGL_dds>
     <kkprice_BGL>87.49167</kkprice_BGL>
     <kkprice_BGL_dds>104.990004</kkprice_BGL_dds>
-    <realPrice>62.634573</realPrice>
+    <realPrice>55.68</realPrice>
     <small_picture>/poly/image/0006303339203</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3752,7 +3839,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>64310_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125643102</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3797,13 +3886,13 @@
     <model>Beurer MG 153 4D neck massager, Penetrating kneading massage, 4D massage heads, washable cover, heat function, 2 intensity levels + 1 massage mode</model>
     <name>Масажор</name>
     <picture_name>0006303494380</picture_name>
-    <price>82.79823</price>
-    <price_dds>99.357876</price_dds>
-    <realPrice_BGL>74.518407</realPrice_BGL>
-    <realPrice_BGL_dds>89.4220884</realPrice_BGL_dds>
+    <price>66.25</price>
+    <price_dds>79.5</price_dds>
+    <realPrice_BGL>66.25</realPrice_BGL>
+    <realPrice_BGL_dds>79.5</realPrice_BGL_dds>
     <kkprice_BGL>103.325</kkprice_BGL>
     <kkprice_BGL_dds>123.99</kkprice_BGL_dds>
-    <realPrice>74.518407</realPrice>
+    <realPrice>66.25</realPrice>
     <small_picture>/poly/image/0006303494380</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -3823,7 +3912,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10420_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125104207</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3868,13 +3959,13 @@
     <model>Beurer MG 154 3D Battery-Powered Neck Massager, 4 massage heads + 2 massage fingers;  2 speed; Hands-free; Automatic switch-off; Heat function; Washable removable cover</model>
     <name>Масажор</name>
     <picture_name>0006307032207</picture_name>
-    <price>69.67829</price>
-    <price_dds>83.613948</price_dds>
-    <realPrice_BGL>62.710461</realPrice_BGL>
-    <realPrice_BGL_dds>75.2525532</realPrice_BGL_dds>
+    <price>55.74</price>
+    <price_dds>66.888</price_dds>
+    <realPrice_BGL>55.74</realPrice_BGL>
+    <realPrice_BGL_dds>66.888</realPrice_BGL_dds>
     <kkprice_BGL>87.49167</kkprice_BGL>
     <kkprice_BGL_dds>104.990004</kkprice_BGL_dds>
-    <realPrice>62.710461</realPrice>
+    <realPrice>55.74</realPrice>
     <small_picture>/poly/image/0006307032207</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85437090</taxCode>
@@ -3967,8 +4058,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>64533_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125645335</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4013,13 +4105,13 @@
     <model>Beurer MG 185 deep tissue massager, 9 intensity levels &amp; 3 massage programmes, 5 massage attachments, Lithium-ion battery up to 5.5h of use, storage case</model>
     <name>Масажор</name>
     <picture_name>0006306004152</picture_name>
-    <price>122.77</price>
-    <price_dds>147.324</price_dds>
-    <realPrice_BGL>110.493</realPrice_BGL>
-    <realPrice_BGL_dds>132.5916</realPrice_BGL_dds>
+    <price>98.22</price>
+    <price_dds>117.864</price_dds>
+    <realPrice_BGL>98.22</realPrice_BGL>
+    <realPrice_BGL_dds>117.864</realPrice_BGL_dds>
     <kkprice_BGL>153.325</kkprice_BGL>
     <kkprice_BGL_dds>183.99</kkprice_BGL_dds>
-    <realPrice>110.493</realPrice>
+    <realPrice>98.22</realPrice>
     <small_picture>/poly/image/0006306004152</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -4110,7 +4202,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10268_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125102685</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4155,13 +4249,13 @@
     <model>Beurer MG 195 Hot &amp; Cold massage gun, 7 high-quality massage attachments, 9 intensity levels, Up to 4.5 h running time, LED display, Storage case</model>
     <name>Масажор</name>
     <picture_name>0006307064768</picture_name>
-    <price>118.11243</price>
-    <price_dds>141.734916</price_dds>
-    <realPrice_BGL>106.301187</realPrice_BGL>
-    <realPrice_BGL_dds>127.5614244</realPrice_BGL_dds>
+    <price>94.5</price>
+    <price_dds>113.4</price_dds>
+    <realPrice_BGL>94.5</realPrice_BGL>
+    <realPrice_BGL_dds>113.4</realPrice_BGL_dds>
     <kkprice_BGL>147.49167</kkprice_BGL>
     <kkprice_BGL_dds>176.990004</kkprice_BGL_dds>
-    <realPrice>106.301187</realPrice>
+    <realPrice>94.5</realPrice>
     <small_picture>/poly/image/0006307064768</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -4181,7 +4275,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10265_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125102654</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4226,13 +4322,13 @@
     <model>Beurer MG 202 Shiatsu seat cover, Extra-light &amp; slim back cover; 4-head massage system; Modern design and high-quality material; LED light; One-button operation</model>
     <name>Масажор</name>
     <picture_name>0006306134672</picture_name>
-    <price>69.87309</price>
-    <price_dds>83.847708</price_dds>
-    <realPrice_BGL>62.885781</realPrice_BGL>
-    <realPrice_BGL_dds>75.4629372</realPrice_BGL_dds>
+    <price>55.91</price>
+    <price_dds>67.092</price_dds>
+    <realPrice_BGL>55.91</realPrice_BGL>
+    <realPrice_BGL_dds>67.092</realPrice_BGL_dds>
     <kkprice_BGL>87.49167</kkprice_BGL>
     <kkprice_BGL_dds>104.990004</kkprice_BGL_dds>
-    <realPrice>62.885781</realPrice>
+    <realPrice>55.91</realPrice>
     <small_picture>/poly/image/0006306134672</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#90191090</taxCode>
@@ -4252,7 +4348,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>64349_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125643492</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4297,13 +4395,13 @@
     <model>Beurer MG 280 yoga &amp; stretch mat, For greater flexibility and mobility, With 7 air chambers to imitate yoga and stretching exercises, 4 pre-set programmes, 3 intensity levels</model>
     <name>Масажор</name>
     <picture_name>0006303494353</picture_name>
-    <price>201.45394</price>
-    <price_dds>241.744728</price_dds>
-    <realPrice_BGL>181.308546</realPrice_BGL>
-    <realPrice_BGL_dds>217.5702552</realPrice_BGL_dds>
+    <price>161.19</price>
+    <price_dds>193.428</price_dds>
+    <realPrice_BGL>161.19</realPrice_BGL>
+    <realPrice_BGL_dds>193.428</realPrice_BGL_dds>
     <kkprice_BGL>250</kkprice_BGL>
     <kkprice_BGL_dds>300</kkprice_BGL_dds>
-    <realPrice>181.308546</realPrice>
+    <realPrice>161.19</realPrice>
     <small_picture>/poly/image/0006303494353</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#90191090</taxCode>
@@ -4323,7 +4421,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64809_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125648091</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4368,13 +4468,13 @@
     <model>Beurer MG 320 Shiatsu air compression seat cover; Penetrating 3-in-1 massage with Shiatsu, air pressure  and spot massage; Soothing neck massage</model>
     <name>Масажор</name>
     <picture_name>0006307186033</picture_name>
-    <price>206.33244</price>
-    <price_dds>247.598928</price_dds>
-    <realPrice_BGL>185.699196</realPrice_BGL>
-    <realPrice_BGL_dds>222.8390352</realPrice_BGL_dds>
+    <price>165.1</price>
+    <price_dds>198.12</price_dds>
+    <realPrice_BGL>165.1</realPrice_BGL>
+    <realPrice_BGL_dds>198.12</realPrice_BGL_dds>
     <kkprice_BGL>258.325</kkprice_BGL>
     <kkprice_BGL_dds>309.99</kkprice_BGL_dds>
-    <realPrice>185.699196</realPrice>
+    <realPrice>165.1</realPrice>
     <small_picture>/poly/image/0006307186033</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#90191090</taxCode>
@@ -4394,7 +4494,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10039_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100391</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4439,13 +4541,13 @@
     <model>Beurer MG 330 Shiatsu massage seat cover grey - 4-head massage system, 4D massage heads, Spot function, 2 intensity levels, Ergonomic shell-shaped seat, Solid back cover, Easy-care material</model>
     <name>Масажор</name>
     <picture_name>0006306058347</picture_name>
-    <price>260.5195</price>
-    <price_dds>312.6234</price_dds>
-    <realPrice_BGL>234.46755</realPrice_BGL>
-    <realPrice_BGL_dds>281.36106</realPrice_BGL_dds>
+    <price>208.46</price>
+    <price_dds>250.152</price_dds>
+    <realPrice_BGL>208.46</realPrice_BGL>
+    <realPrice_BGL_dds>250.152</realPrice_BGL_dds>
     <kkprice_BGL>324.16667</kkprice_BGL>
     <kkprice_BGL_dds>389.000004</kkprice_BGL_dds>
-    <realPrice>234.46755</realPrice>
+    <realPrice>208.46</realPrice>
     <small_picture>/poly/image/0006306058347</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -4465,7 +4567,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>64502_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125645021</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4506,13 +4610,13 @@
     <model>Beurer FM 39 Shiatsu foot massager; Soothing Shiatsu foot massage; Heat function</model>
     <name>Масажор</name>
     <picture_name>0006303339215</picture_name>
-    <price>51.26492</price>
-    <price_dds>61.517904</price_dds>
-    <realPrice_BGL>46.138428</realPrice_BGL>
-    <realPrice_BGL_dds>55.3661136</realPrice_BGL_dds>
+    <price>41.01</price>
+    <price_dds>49.212</price_dds>
+    <realPrice_BGL>41.01</realPrice_BGL>
+    <realPrice_BGL_dds>49.212</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>46.138428</realPrice>
+    <realPrice>41.01</realPrice>
     <small_picture>/poly/image/0006303339215</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4532,7 +4636,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10556_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105563</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4577,13 +4683,13 @@
     <model>Beurer FM 28 Compact foot massager 2 in 1: Vibration massager and foot warmer; 3 programs; Operation via USB-C cable; up to size 43; auto switch-off after 20 min</model>
     <name>Масажор</name>
     <picture_name>0006307179669</picture_name>
-    <price>32.49131</price>
-    <price_dds>38.989572</price_dds>
-    <realPrice_BGL>29.242179</realPrice_BGL>
-    <realPrice_BGL_dds>35.0906148</realPrice_BGL_dds>
+    <price>25.99</price>
+    <price_dds>31.188</price_dds>
+    <realPrice_BGL>25.99</realPrice_BGL>
+    <realPrice_BGL_dds>31.188</realPrice_BGL_dds>
     <kkprice_BGL>41.65833</kkprice_BGL>
     <kkprice_BGL_dds>49.989996</kkprice_BGL_dds>
-    <realPrice>29.242179</realPrice>
+    <realPrice>25.99</realPrice>
     <small_picture>/poly/image/0006307179669</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4603,7 +4709,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10027_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100278</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4648,13 +4756,13 @@
     <model>Beurer FM 70 Soothing Shiatsu foot and back massage; Heat function; 18 Shiatsu massage heads; 3 massage speeds; Removable and washable cover</model>
     <name>Масажор</name>
     <picture_name>0006303995827</picture_name>
-    <price>78.19804</price>
-    <price_dds>93.837648</price_dds>
-    <realPrice_BGL>70.378236</realPrice_BGL>
-    <realPrice_BGL_dds>84.4538832</realPrice_BGL_dds>
+    <price>62.57</price>
+    <price_dds>75.084</price_dds>
+    <realPrice_BGL>62.57</realPrice_BGL>
+    <realPrice_BGL_dds>75.084</realPrice_BGL_dds>
     <kkprice_BGL>98.325</kkprice_BGL>
     <kkprice_BGL_dds>117.99</kkprice_BGL_dds>
-    <realPrice>70.378236</realPrice>
+    <realPrice>62.57</realPrice>
     <small_picture>/poly/image/0006303995827</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4674,7 +4782,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>64506_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125645069</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4719,13 +4829,13 @@
     <model>Beurer FM 90 Shiatsu foot massager;Shiatsu and air pressure massage; Heat function; 3 massage programmes; 3 intensity levels of air compression massage; shoe size 46; washable and removable cover</model>
     <name>Масажор</name>
     <picture_name>0006303339221</picture_name>
-    <price>152.05585</price>
-    <price_dds>182.46702</price_dds>
-    <realPrice_BGL>136.850265</realPrice_BGL>
-    <realPrice_BGL_dds>164.220318</realPrice_BGL_dds>
+    <price>121.66</price>
+    <price_dds>145.992</price_dds>
+    <realPrice_BGL>121.66</realPrice_BGL>
+    <realPrice_BGL_dds>145.992</realPrice_BGL_dds>
     <kkprice_BGL>190.83333</kkprice_BGL>
     <kkprice_BGL_dds>228.999996</kkprice_BGL_dds>
-    <realPrice>136.850265</realPrice>
+    <realPrice>121.66</realPrice>
     <small_picture>/poly/image/0006303339221</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4745,7 +4855,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10029_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100308</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4790,13 +4902,13 @@
     <model>Beurer FM 120 Shiatsu foot massager + modern stool; Shiatsu and air pressure massage; Heat function; 3 massage programmes; 3 intensity levels of air compression massage; shoe size 46; washable and removable cover; wireless control</model>
     <name>Масажор</name>
     <picture_name>0006306058331</picture_name>
-    <price>213.7454</price>
-    <price_dds>256.49448</price_dds>
-    <realPrice_BGL>192.37086</realPrice_BGL>
-    <realPrice_BGL_dds>230.845032</realPrice_BGL_dds>
+    <price>171.04</price>
+    <price_dds>205.248</price_dds>
+    <realPrice_BGL>171.04</realPrice_BGL>
+    <realPrice_BGL_dds>205.248</realPrice_BGL_dds>
     <kkprice_BGL>266.65833</kkprice_BGL>
     <kkprice_BGL_dds>319.989996</kkprice_BGL_dds>
-    <realPrice>192.37086</realPrice>
+    <realPrice>171.04</realPrice>
     <small_picture>/poly/image/0006306058331</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191010</taxCode>
@@ -4816,8 +4928,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>63205_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125632052</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4858,13 +4971,13 @@
     <model>Beurer FB 12 foot spa; bubble massage, vibration massage,3 functions; water tempering,draining outlet</model>
     <name>Масажор</name>
     <picture_name>0006303365055</picture_name>
-    <price>34.46</price>
-    <price_dds>41.352</price_dds>
-    <realPrice_BGL>31.014</realPrice_BGL>
-    <realPrice_BGL_dds>37.2168</realPrice_BGL_dds>
+    <price>27.57</price>
+    <price_dds>33.084</price_dds>
+    <realPrice_BGL>27.57</realPrice_BGL>
+    <realPrice_BGL_dds>33.084</realPrice_BGL_dds>
     <kkprice_BGL>43.325</kkprice_BGL>
     <kkprice_BGL_dds>51.99</kkprice_BGL_dds>
-    <realPrice>31.014</realPrice>
+    <realPrice>27.57</realPrice>
     <small_picture>/poly/image/0006303365055</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4884,7 +4997,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>63606_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125636067</ean_barcode>
     <characteristics>
       <characteristic>
@@ -4929,13 +5044,13 @@
     <model>Beurer FB 21 foot spa; 3 attachments; 3 functions; water tempering</model>
     <name>Масажор</name>
     <picture_name>0006303339224</picture_name>
-    <price>45.81684</price>
-    <price_dds>54.980208</price_dds>
-    <realPrice_BGL>41.235156</realPrice_BGL>
-    <realPrice_BGL_dds>49.4821872</realPrice_BGL_dds>
+    <price>36.66</price>
+    <price_dds>43.992</price_dds>
+    <realPrice_BGL>36.66</realPrice_BGL>
+    <realPrice_BGL_dds>43.992</realPrice_BGL_dds>
     <kkprice_BGL>57.49167</kkprice_BGL>
     <kkprice_BGL_dds>68.990004</kkprice_BGL_dds>
-    <realPrice>41.235156</realPrice>
+    <realPrice>36.66</realPrice>
     <small_picture>/poly/image/0006303339224</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -4955,7 +5070,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>63850_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125638504</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5000,13 +5117,13 @@
     <model>Beurer FB 30 foot spa; with folding function; 3 functions</model>
     <name>Масажор</name>
     <picture_name>0006303339227</picture_name>
-    <price>48.29458</price>
-    <price_dds>57.953496</price_dds>
-    <realPrice_BGL>43.465122</realPrice_BGL>
-    <realPrice_BGL_dds>52.1581464</realPrice_BGL_dds>
+    <price>38.64</price>
+    <price_dds>46.368</price_dds>
+    <realPrice_BGL>38.64</realPrice_BGL>
+    <realPrice_BGL_dds>46.368</realPrice_BGL_dds>
     <kkprice_BGL>60.825</kkprice_BGL>
     <kkprice_BGL_dds>72.99</kkprice_BGL_dds>
-    <realPrice>43.465122</realPrice>
+    <realPrice>38.64</realPrice>
     <small_picture>/poly/image/0006303339227</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -5026,7 +5143,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>63705_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125637057</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5071,13 +5190,13 @@
     <model>Beurer FB 35 Foot spa with aromatherapy, Foot spa with pedicure, temperature control, massage &amp; magnetic field application; 3 attachments; 3 functions</model>
     <name>Масажор</name>
     <picture_name>0006307229751</picture_name>
-    <price>56.95</price>
-    <price_dds>68.34</price_dds>
-    <realPrice_BGL>51.255</realPrice_BGL>
-    <realPrice_BGL_dds>61.506</realPrice_BGL_dds>
+    <price>45.56</price>
+    <price_dds>54.672</price_dds>
+    <realPrice_BGL>45.56</realPrice_BGL>
+    <realPrice_BGL_dds>54.672</realPrice_BGL_dds>
     <kkprice_BGL>70.825</kkprice_BGL>
     <kkprice_BGL_dds>84.99</kkprice_BGL_dds>
-    <realPrice>51.255</realPrice>
+    <realPrice>45.56</realPrice>
     <small_picture>/poly/image/0006307229751</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -5097,7 +5216,9 @@
     <articlekindUid>0006303332178</articlekindUid>
     <available>на склад</available>
     <catalog_num>68113_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125681135</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5166,13 +5287,13 @@
     <model>Beurer LB 37 air humidifier white; ultrasound humidification technology; 15 aroma pads; clianing brush; 20 watts; max. 20m2</model>
     <name>Овлажнител на въздух</name>
     <picture_name>0006303340940</picture_name>
-    <price>51.16999</price>
-    <price_dds>61.403988</price_dds>
-    <realPrice_BGL>46.052991</realPrice_BGL>
-    <realPrice_BGL_dds>55.2635892</realPrice_BGL_dds>
+    <price>38.38</price>
+    <price_dds>46.056</price_dds>
+    <realPrice_BGL>38.38</realPrice_BGL>
+    <realPrice_BGL_dds>46.056</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>46.052991</realPrice>
+    <realPrice>38.38</realPrice>
     <small_picture>/poly/image/0006303340940</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -5192,7 +5313,9 @@
     <articlekindUid>0006303332065</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>68013_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125680138</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5241,13 +5364,13 @@
     <model>Beurer LR 401 WIFI / BT Air purifier with fabric cover- App-controlled  "beurer FreshHome" app; CADR  approx. 266 m3/h; Smart Sensor PM 2.5 µg / m3; three-layered filter system; 4 levels + Turbo; Timer; Colored indoor air quality indicator; 69m2</model>
     <name>Пречиствател на въздух</name>
     <picture_name>0006306157031</picture_name>
-    <price>237.69629</price>
-    <price_dds>285.235548</price_dds>
-    <realPrice_BGL>213.926661</realPrice_BGL>
-    <realPrice_BGL_dds>256.7119932</realPrice_BGL_dds>
+    <price>190.18</price>
+    <price_dds>228.216</price_dds>
+    <realPrice_BGL>190.18</realPrice_BGL>
+    <realPrice_BGL_dds>228.216</realPrice_BGL_dds>
     <kkprice_BGL>295.83333</kkprice_BGL>
     <kkprice_BGL_dds>354.999996</kkprice_BGL_dds>
-    <realPrice>213.926661</realPrice>
+    <realPrice>190.18</realPrice>
     <small_picture>/poly/image/0006306157031</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85098000</taxCode>
@@ -5267,8 +5390,9 @@
     <articlekindUid>0006303332065</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>69307_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125693077</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5317,13 +5441,13 @@
     <model>Beurer LR 400 WIFI / BT Air purifier white- App-controlled  "beurer FreshHome" app; CADR  approx. 266 m3/h; Smart Sensor PM 2.5 2g / m2; three-layered filter system; 4 levels + Turbo; Timer; Colored indoor air quality indicator; 69m2</model>
     <name>Пречиствател на въздух</name>
     <picture_name>0006307207850</picture_name>
-    <price>216.15932</price>
-    <price_dds>259.391184</price_dds>
-    <realPrice_BGL>194.543388</realPrice_BGL>
-    <realPrice_BGL_dds>233.4520656</realPrice_BGL_dds>
+    <price>162.14</price>
+    <price_dds>194.568</price_dds>
+    <realPrice_BGL>162.14</realPrice_BGL>
+    <realPrice_BGL_dds>194.568</realPrice_BGL_dds>
     <kkprice_BGL>270.83333</kkprice_BGL>
     <kkprice_BGL_dds>324.999996</kkprice_BGL_dds>
-    <realPrice>194.543388</realPrice>
+    <realPrice>162.14</realPrice>
     <small_picture>/poly/image/0006307207850</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85098000</taxCode>
@@ -5343,7 +5467,9 @@
     <articlekindUid>0006303332239</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10318_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125103187</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5408,13 +5534,13 @@
     <model>Beurer LE 250 Air Dehumidifier; up to 20 litre/day; rooms  40 to 60 cm2; Laundry drying function; Removable tank: 4.0 l; Automatic mode; Night mode; Timer;  2 fan levels; Environmentally friendly refrigerant R290</model>
     <name>Влагоабсорбатор</name>
     <picture_name>0006307022736</picture_name>
-    <price>260.26463</price>
-    <price_dds>312.317556</price_dds>
-    <realPrice_BGL>234.238167</realPrice_BGL>
-    <realPrice_BGL_dds>281.0858004</realPrice_BGL_dds>
+    <price>208.29</price>
+    <price_dds>249.948</price_dds>
+    <realPrice_BGL>208.29</realPrice_BGL>
+    <realPrice_BGL_dds>249.948</realPrice_BGL_dds>
     <kkprice_BGL>324.99167</kkprice_BGL>
     <kkprice_BGL_dds>389.990004</kkprice_BGL_dds>
-    <realPrice>234.238167</realPrice>
+    <realPrice>208.29</realPrice>
     <small_picture>/poly/image/0006307022736</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85098000</taxCode>
@@ -5434,7 +5560,9 @@
     <articlekindUid>0006303332239</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10316_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125103163</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5499,13 +5627,13 @@
     <model>Beurer LE 150 Air Dehumidifier, up to 12 litre/day; rooms  30 m2 (72 m3); Laundry drying function; Removable tank: 2.0 l; Automatic mode; Night mode; Timer;  2 fan levels; Environmentally friendly refrigerant R290</model>
     <name>Влагоабсорбатор</name>
     <picture_name>0006307022847</picture_name>
-    <price>186.65908</price>
-    <price_dds>223.990896</price_dds>
-    <realPrice_BGL>167.993172</realPrice_BGL>
-    <realPrice_BGL_dds>201.5918064</realPrice_BGL_dds>
+    <price>140.05</price>
+    <price_dds>168.06</price_dds>
+    <realPrice_BGL>140.05</realPrice_BGL>
+    <realPrice_BGL_dds>168.06</realPrice_BGL_dds>
     <kkprice_BGL>233.325</kkprice_BGL>
     <kkprice_BGL_dds>279.99</kkprice_BGL_dds>
-    <realPrice>167.993172</realPrice>
+    <realPrice>140.05</realPrice>
     <small_picture>/poly/image/0006307022847</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85098000</taxCode>
@@ -5525,7 +5653,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>53301_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125533014</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5562,13 +5692,13 @@
     <model>Beurer FWM 45 Massage foot warmer; 2 temperature and massage settings; washeble by hand, 16 Watts; 32(L)x26(B)x26(H)</model>
     <name>Термоподложка</name>
     <picture_name>0006303339078</picture_name>
-    <price>45.67769</price>
-    <price_dds>54.813228</price_dds>
-    <realPrice_BGL>41.109921</realPrice_BGL>
-    <realPrice_BGL_dds>49.3319052</realPrice_BGL_dds>
+    <price>34.26</price>
+    <price_dds>41.112</price_dds>
+    <realPrice_BGL>34.26</realPrice_BGL>
+    <realPrice_BGL_dds>41.112</realPrice_BGL_dds>
     <kkprice_BGL>57.49167</kkprice_BGL>
     <kkprice_BGL_dds>68.990004</kkprice_BGL_dds>
-    <realPrice>41.109921</realPrice>
+    <realPrice>34.26</realPrice>
     <small_picture>/poly/image/0006303339078</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5588,7 +5718,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>53106_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125531065</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5629,13 +5761,13 @@
     <model>Beurer FW 20 Cosy foot warmer; Fast heating; 3 temperature settings; BSS; OEKO-TEX; Washable lining; 100 Watts; 32(L)x26(B)x26(H)</model>
     <name>Термоподложка</name>
     <picture_name>0006303934462</picture_name>
-    <price>51.14051</price>
-    <price_dds>61.368612</price_dds>
-    <realPrice_BGL>46.026459</realPrice_BGL>
-    <realPrice_BGL_dds>55.2317508</realPrice_BGL_dds>
+    <price>38.36</price>
+    <price_dds>46.032</price_dds>
+    <realPrice_BGL>38.36</realPrice_BGL>
+    <realPrice_BGL_dds>46.032</realPrice_BGL_dds>
     <kkprice_BGL>64.15833</kkprice_BGL>
     <kkprice_BGL_dds>76.989996</kkprice_BGL_dds>
-    <realPrice>46.026459</realPrice>
+    <realPrice>38.36</realPrice>
     <small_picture>/poly/image/0006303934462</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5655,7 +5787,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>20041_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200411</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5696,13 +5830,13 @@
     <model>Beurer HK 26 Heat Pad; 3 Illuminated temperature settings; Auto switch-off after 90 min;Cotton cover washable on 40°; BSS;40(L)x30(W) cm; white-grey</model>
     <name>Термоподложка</name>
     <picture_name>0006307179425</picture_name>
-    <price>28.54816</price>
-    <price_dds>34.257792</price_dds>
-    <realPrice_BGL>25.693344</realPrice_BGL>
-    <realPrice_BGL_dds>30.8320128</realPrice_BGL_dds>
+    <price>21.41</price>
+    <price_dds>25.692</price_dds>
+    <realPrice_BGL>21.41</realPrice_BGL>
+    <realPrice_BGL_dds>25.692</realPrice_BGL_dds>
     <kkprice_BGL>35.825</kkprice_BGL>
     <kkprice_BGL_dds>42.99</kkprice_BGL_dds>
-    <realPrice>25.693344</realPrice>
+    <realPrice>21.41</realPrice>
     <small_picture>/poly/image/0006307179425</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5722,7 +5856,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>26002_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125260026</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5763,13 +5899,13 @@
     <model>Beurer HK 35 heat pad; 3 temperature settings; automatic switch off after 90 min;cotton cover; washable on 40°; 40(L)x30(W)</model>
     <name>Термоподложка</name>
     <picture_name>0006303462931</picture_name>
-    <price>32.29754</price>
-    <price_dds>38.757048</price_dds>
-    <realPrice_BGL>29.067786</realPrice_BGL>
-    <realPrice_BGL_dds>34.8813432</realPrice_BGL_dds>
+    <price>24.23</price>
+    <price_dds>29.076</price_dds>
+    <realPrice_BGL>24.23</realPrice_BGL>
+    <realPrice_BGL_dds>29.076</realPrice_BGL_dds>
     <kkprice_BGL>40.825</kkprice_BGL>
     <kkprice_BGL_dds>48.99</kkprice_BGL_dds>
-    <realPrice>29.067786</realPrice>
+    <realPrice>24.23</realPrice>
     <small_picture>/poly/image/0006303462931</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5789,7 +5925,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>20043_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200435</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5830,13 +5968,13 @@
     <model>Beurer HK 43 Super Cosy heat pad with super soft surface;3 Illuminated temperature settings;Fast heating;Automatic switch off after 90 min;Cotton cover washable on 30°; BSS; 44(L)x33(W)</model>
     <name>Термоподложка</name>
     <picture_name>0006307179446</picture_name>
-    <price>28.67587</price>
-    <price_dds>34.411044</price_dds>
-    <realPrice_BGL>25.808283</realPrice_BGL>
-    <realPrice_BGL_dds>30.9699396</realPrice_BGL_dds>
+    <price>21.51</price>
+    <price_dds>25.812</price_dds>
+    <realPrice_BGL>21.51</realPrice_BGL>
+    <realPrice_BGL_dds>25.812</realPrice_BGL_dds>
     <kkprice_BGL>35.825</kkprice_BGL>
     <kkprice_BGL_dds>42.99</kkprice_BGL_dds>
-    <realPrice>25.808283</realPrice>
+    <realPrice>21.51</realPrice>
     <small_picture>/poly/image/0006307179446</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5856,7 +5994,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>27501_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125275013</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5897,13 +6037,13 @@
     <model>Beurer HK 48 Cosy Heat Pad; 3 temperature settings; auto switch-off after 90 min; washable on 30°; reversable cushion; with inner pad; removable switch; fleece fibre; 40(L)x30(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006303440234</picture_name>
-    <price>40.88702</price>
-    <price_dds>49.064424</price_dds>
-    <realPrice_BGL>36.798318</realPrice_BGL>
-    <realPrice_BGL_dds>44.1579816</realPrice_BGL_dds>
+    <price>30.67</price>
+    <price_dds>36.804</price_dds>
+    <realPrice_BGL>30.67</realPrice_BGL>
+    <realPrice_BGL_dds>36.804</realPrice_BGL_dds>
     <kkprice_BGL>50.825</kkprice_BGL>
     <kkprice_BGL_dds>60.99</kkprice_BGL_dds>
-    <realPrice>36.798318</realPrice>
+    <realPrice>30.67</realPrice>
     <small_picture>/poly/image/0006303440234</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5923,7 +6063,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20045_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200459</ean_barcode>
     <characteristics>
       <characteristic>
@@ -5964,13 +6106,13 @@
     <model>Beurer HK 60 Cosy Grey Abdominal &amp; Back Heat Pad; 3 temperature settings; auto switch-off after 90 min; washable on 30°;Fast heating; Fleece fibre;BSS;69(L)x28(W) cm: Max waist 102sm</model>
     <name>Термоподложка</name>
     <picture_name>0006307186232</picture_name>
-    <price>45.41258</price>
-    <price_dds>54.495096</price_dds>
-    <realPrice_BGL>40.871322</realPrice_BGL>
-    <realPrice_BGL_dds>49.0455864</realPrice_BGL_dds>
+    <price>34.06</price>
+    <price_dds>40.872</price_dds>
+    <realPrice_BGL>34.06</realPrice_BGL>
+    <realPrice_BGL_dds>40.872</realPrice_BGL_dds>
     <kkprice_BGL>56.65833</kkprice_BGL>
     <kkprice_BGL_dds>67.989996</kkprice_BGL_dds>
-    <realPrice>40.871322</realPrice>
+    <realPrice>34.06</realPrice>
     <small_picture>/poly/image/0006307186232</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -5990,7 +6132,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20056_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200565</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6031,13 +6175,13 @@
     <model>Beurer HK 66 Cosy Grey Shoulder &amp; Neck Heat Pad; 3 temperature settings; auto switch-off after 90 min; washable on 30°; removable switch; fleece fibre;56(L)x52(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006307186244</picture_name>
-    <price>47.84458</price>
-    <price_dds>57.413496</price_dds>
-    <realPrice_BGL>43.060122</realPrice_BGL>
-    <realPrice_BGL_dds>51.6721464</realPrice_BGL_dds>
+    <price>35.89</price>
+    <price_dds>43.068</price_dds>
+    <realPrice_BGL>35.89</realPrice_BGL>
+    <realPrice_BGL_dds>43.068</realPrice_BGL_dds>
     <kkprice_BGL>59.99167</kkprice_BGL>
     <kkprice_BGL_dds>71.990004</kkprice_BGL_dds>
-    <realPrice>43.060122</realPrice>
+    <realPrice>35.89</realPrice>
     <small_picture>/poly/image/0006307186244</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6057,7 +6201,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20046_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200466</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6098,13 +6244,13 @@
     <model>Beurer HK 64 Back &amp; neck heat pad; Soft, cosy material; Automatic switch-off; BSS; Machine-washable at 30°C; Fast heating; 3 Illuminated temperature settings</model>
     <name>Термоподложка</name>
     <picture_name>0006307179487</picture_name>
-    <price>43.51036</price>
-    <price_dds>52.212432</price_dds>
-    <realPrice_BGL>39.159324</realPrice_BGL>
-    <realPrice_BGL_dds>46.9911888</realPrice_BGL_dds>
+    <price>32.63</price>
+    <price_dds>39.156</price_dds>
+    <realPrice_BGL>32.63</realPrice_BGL>
+    <realPrice_BGL_dds>39.156</realPrice_BGL_dds>
     <kkprice_BGL>54.15833</kkprice_BGL>
     <kkprice_BGL_dds>64.989996</kkprice_BGL_dds>
-    <realPrice>39.159324</realPrice>
+    <realPrice>32.63</realPrice>
     <small_picture>/poly/image/0006307179487</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6124,7 +6270,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20077_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200770</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6165,13 +6313,13 @@
     <model>Beurer HK 77 Heaty smokey-taupe;lithium-ion battery; Soft velvet cushion cover machine-washable at 30°C; 3 temperature settings; Fast heating; BSS; 45(L)x45(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006307179639</picture_name>
-    <price>69.00027</price>
-    <price_dds>82.800324</price_dds>
-    <realPrice_BGL>62.100243</realPrice_BGL>
-    <realPrice_BGL_dds>74.5202916</realPrice_BGL_dds>
+    <price>51.75</price>
+    <price_dds>62.1</price_dds>
+    <realPrice_BGL>51.75</realPrice_BGL>
+    <realPrice_BGL_dds>62.1</realPrice_BGL_dds>
     <kkprice_BGL>85.825</kkprice_BGL>
     <kkprice_BGL_dds>102.99</kkprice_BGL_dds>
-    <realPrice>62.100243</realPrice>
+    <realPrice>51.75</realPrice>
     <small_picture>/poly/image/0006307179639</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6260,7 +6408,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20079_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200794</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6301,13 +6451,13 @@
     <model>Beurer HK 77 Heaty cashmere-creme; lithium-ion battery; Soft velvet cushion cover machine-washable at 30°C; 3 temperature settings; Fast heating; BSS; 45(L)x45(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006307185966</picture_name>
-    <price>69.00027</price>
-    <price_dds>82.800324</price_dds>
-    <realPrice_BGL>62.100243</realPrice_BGL>
-    <realPrice_BGL_dds>74.5202916</realPrice_BGL_dds>
+    <price>51.75</price>
+    <price_dds>62.1</price_dds>
+    <realPrice_BGL>51.75</realPrice_BGL>
+    <realPrice_BGL_dds>62.1</realPrice_BGL_dds>
     <kkprice_BGL>85.825</kkprice_BGL>
     <kkprice_BGL_dds>102.99</kkprice_BGL_dds>
-    <realPrice>62.100243</realPrice>
+    <realPrice>51.75</realPrice>
     <small_picture>/poly/image/0006307185966</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6327,7 +6477,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>20080_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200800</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6368,13 +6520,13 @@
     <model>Beurer HK 77 Heaty obsidian-blue; lithium-ion battery; Soft velvet cushion cover machine-washable at 30°C; 3 temperature settings; Fast heating; BSS; 45(L)x45(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006307179655</picture_name>
-    <price>69.00027</price>
-    <price_dds>82.800324</price_dds>
-    <realPrice_BGL>62.100243</realPrice_BGL>
-    <realPrice_BGL_dds>74.5202916</realPrice_BGL_dds>
+    <price>51.75</price>
+    <price_dds>62.1</price_dds>
+    <realPrice_BGL>51.75</realPrice_BGL>
+    <realPrice_BGL_dds>62.1</realPrice_BGL_dds>
     <kkprice_BGL>85.825</kkprice_BGL>
     <kkprice_BGL_dds>102.99</kkprice_BGL_dds>
-    <realPrice>62.100243</realPrice>
+    <realPrice>51.75</realPrice>
     <small_picture>/poly/image/0006307179655</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6394,7 +6546,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>27413_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125274139</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6435,13 +6589,13 @@
     <model>Beurer HK 125 Cosy Heat Pad; 6 temperature settings; auto switch-off after 90 min; washable on 30°;XXL Format : 60x40 cm; LED controller; removable switch; fleece fibre; 60(L)x40(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006303440303</picture_name>
-    <price>50.53215</price>
-    <price_dds>60.63858</price_dds>
-    <realPrice_BGL>45.478935</realPrice_BGL>
-    <realPrice_BGL_dds>54.574722</realPrice_BGL_dds>
+    <price>37.9</price>
+    <price_dds>45.48</price_dds>
+    <realPrice_BGL>37.9</realPrice_BGL>
+    <realPrice_BGL_dds>45.48</realPrice_BGL_dds>
     <kkprice_BGL>63.325</kkprice_BGL>
     <kkprice_BGL_dds>75.99</kkprice_BGL_dds>
-    <realPrice>45.478935</realPrice>
+    <realPrice>37.9</realPrice>
     <small_picture>/poly/image/0006303440303</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6528,7 +6682,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>на склад</available>
     <catalog_num>20049_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125200497</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6569,13 +6725,13 @@
     <model>Beurer HK SE Cosy and soft heat pad;  3 temperature settings, automatic switch off after 90 min; washable on 30°; Gray</model>
     <name>Термоподложка</name>
     <picture_name>0006307241978</picture_name>
-    <price>26.06381</price>
-    <price_dds>31.276572</price_dds>
-    <realPrice_BGL>23.457429</realPrice_BGL>
-    <realPrice_BGL_dds>28.1489148</realPrice_BGL_dds>
+    <price>19.55</price>
+    <price_dds>23.46</price_dds>
+    <realPrice_BGL>19.55</realPrice_BGL>
+    <realPrice_BGL_dds>23.46</realPrice_BGL_dds>
     <kkprice_BGL>33.325</kkprice_BGL>
     <kkprice_BGL_dds>39.99</kkprice_BGL_dds>
-    <realPrice>23.457429</realPrice>
+    <realPrice>19.55</realPrice>
     <small_picture>/poly/image/0006307241978</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6595,7 +6751,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>42400_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125424008</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6636,13 +6794,13 @@
     <model>Beurer HD 75 Cosy Taupe Heated Overblanket; 6 temperature;auto switch-off 3 hours; removable switch; washable at 30°, Oko-Tex 100; 180(L)x130(W)cm</model>
     <name>Термоподложка</name>
     <picture_name>0006303440357</picture_name>
-    <price>60.5553</price>
-    <price_dds>72.66636</price_dds>
-    <realPrice_BGL>54.49977</realPrice_BGL>
-    <realPrice_BGL_dds>65.399724</realPrice_BGL_dds>
+    <price>45.42</price>
+    <price_dds>54.504</price_dds>
+    <realPrice_BGL>45.42</realPrice_BGL>
+    <realPrice_BGL_dds>54.504</realPrice_BGL_dds>
     <kkprice_BGL>75.825</kkprice_BGL>
     <kkprice_BGL_dds>90.99</kkprice_BGL_dds>
-    <realPrice>54.49977</realPrice>
+    <realPrice>45.42</realPrice>
     <small_picture>/poly/image/0006303440357</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6662,7 +6820,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>40053_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125400538</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6703,13 +6863,13 @@
     <model>Beurer HD 65 Dark Grey Heated Overblanket; Soft and cuddly surface; 3 temperature;auto switch-off 3 hours; removable switch; washable at 30°, Oko-Tex 100; 180(L)x130(W)cm</model>
     <name>Термоподложка</name>
     <picture_name>0006307179662</picture_name>
-    <price>43.76081</price>
-    <price_dds>52.512972</price_dds>
-    <realPrice_BGL>39.384729</realPrice_BGL>
-    <realPrice_BGL_dds>47.2616748</realPrice_BGL_dds>
+    <price>32.83</price>
+    <price_dds>39.396</price_dds>
+    <realPrice_BGL>32.83</realPrice_BGL>
+    <realPrice_BGL_dds>39.396</realPrice_BGL_dds>
     <kkprice_BGL>54.99167</kkprice_BGL>
     <kkprice_BGL_dds>65.990004</kkprice_BGL_dds>
-    <realPrice>39.384729</realPrice>
+    <realPrice>32.83</realPrice>
     <small_picture>/poly/image/0006307179662</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6729,7 +6889,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>30406_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125304065</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6770,13 +6932,13 @@
     <model>Beurer TS 19 Compact Heated Underblanket; Breathable; 3 temperature settings; Illuminated temperature settings; Removable switch; Washable on 30°; Oko-Tex 100; BSS; 130(L)x75(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006303935154</picture_name>
-    <price>36.71087</price>
-    <price_dds>44.053044</price_dds>
-    <realPrice_BGL>33.039783</realPrice_BGL>
-    <realPrice_BGL_dds>39.6477396</realPrice_BGL_dds>
+    <price>27.53</price>
+    <price_dds>33.036</price_dds>
+    <realPrice_BGL>27.53</realPrice_BGL>
+    <realPrice_BGL_dds>33.036</realPrice_BGL_dds>
     <kkprice_BGL>45.825</kkprice_BGL>
     <kkprice_BGL_dds>54.99</kkprice_BGL_dds>
-    <realPrice>33.039783</realPrice>
+    <realPrice>27.53</realPrice>
     <small_picture>/poly/image/0006303935154</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6796,7 +6958,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>30083_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125300838</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6837,13 +7001,13 @@
     <model>Beurer TS 17 Heated Underblanket ; Attachemnt to the mattress; Breathable; 3 temperature settings;washable on 30°;150(L)x80(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006306230536</picture_name>
-    <price>30.01679</price>
-    <price_dds>36.020148</price_dds>
-    <realPrice_BGL>27.015111</realPrice_BGL>
-    <realPrice_BGL_dds>32.4181332</realPrice_BGL_dds>
+    <price>22.52</price>
+    <price_dds>27.024</price_dds>
+    <realPrice_BGL>22.52</realPrice_BGL>
+    <realPrice_BGL_dds>27.024</realPrice_BGL_dds>
     <kkprice_BGL>37.49167</kkprice_BGL>
     <kkprice_BGL_dds>44.990004</kkprice_BGL_dds>
-    <realPrice>27.015111</realPrice>
+    <realPrice>22.52</realPrice>
     <small_picture>/poly/image/0006306230536</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6863,7 +7027,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>31481_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125314811</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6904,13 +7070,13 @@
     <model>Beurer TS 23 Compact Heated Underblanket; Printed motif Breathable; 3 temperature settings; washable on 30° Oko-Tex 100;150(L)x80(W) cm</model>
     <name>Термоподложка</name>
     <picture_name>0006303440331</picture_name>
-    <price>43.93013</price>
-    <price_dds>52.716156</price_dds>
-    <realPrice_BGL>39.537117</realPrice_BGL>
-    <realPrice_BGL_dds>47.4445404</realPrice_BGL_dds>
+    <price>32.95</price>
+    <price_dds>39.54</price_dds>
+    <realPrice_BGL>32.95</realPrice_BGL>
+    <realPrice_BGL_dds>39.54</realPrice_BGL_dds>
     <kkprice_BGL>54.99167</kkprice_BGL>
     <kkprice_BGL_dds>65.990004</kkprice_BGL_dds>
-    <realPrice>39.537117</realPrice>
+    <realPrice>32.95</realPrice>
     <small_picture>/poly/image/0006303440331</small_picture>
     <stokaType>1</stokaType>
     <taxCode>94049090</taxCode>
@@ -6930,7 +7096,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>69301_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125693015</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6951,13 +7119,13 @@
     <model>Beurer LR 200/210 replacement set - Prefilter; Combi filter (HEPA + activated carbon); Compatible with the Beurer LR 200 air purifie</model>
     <name>Филтър</name>
     <picture_name>0006303600972</picture_name>
-    <price>25.65428</price>
-    <price_dds>30.785136</price_dds>
-    <realPrice_BGL>23.088852</realPrice_BGL>
-    <realPrice_BGL_dds>27.7066224</realPrice_BGL_dds>
+    <price>20.52</price>
+    <price_dds>24.624</price_dds>
+    <realPrice_BGL>20.52</realPrice_BGL>
+    <realPrice_BGL_dds>24.624</realPrice_BGL_dds>
     <kkprice_BGL>32.075</kkprice_BGL>
     <kkprice_BGL_dds>38.49</kkprice_BGL_dds>
-    <realPrice>23.088852</realPrice>
+    <realPrice>20.52</realPrice>
     <small_picture>/poly/image/0006303600972</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
@@ -6977,7 +7145,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>68007_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125680077</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6998,13 +7168,13 @@
     <model>Beurer LR 220 Filter-set, HEPA filter</model>
     <name>Филтър</name>
     <picture_name>0006303901676</picture_name>
-    <price>26.28772</price>
-    <price_dds>31.545264</price_dds>
-    <realPrice_BGL>23.658948</realPrice_BGL>
-    <realPrice_BGL_dds>28.3907376</realPrice_BGL_dds>
+    <price>18.4</price>
+    <price_dds>22.08</price_dds>
+    <realPrice_BGL>18.4</realPrice_BGL>
+    <realPrice_BGL_dds>22.08</realPrice_BGL_dds>
     <kkprice_BGL>32.90833</kkprice_BGL>
     <kkprice_BGL_dds>39.489996</kkprice_BGL_dds>
-    <realPrice>23.658948</realPrice>
+    <realPrice>18.4</realPrice>
     <small_picture>/poly/image/0006303901676</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
@@ -7024,7 +7194,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>69302_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125693022</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7049,13 +7221,13 @@
     <model>Beurer LR 300/310 replacement set - Prefilter; Combi filter (HEPA 13 + activated carbon); Compatible with the Beurer LR 300 air purifie and LR 310</model>
     <name>Филтър</name>
     <picture_name>0006303628541</picture_name>
-    <price>37.05618</price>
-    <price_dds>44.467416</price_dds>
-    <realPrice_BGL>33.350562</realPrice_BGL>
-    <realPrice_BGL_dds>40.0206744</realPrice_BGL_dds>
+    <price>29.65</price>
+    <price_dds>35.58</price_dds>
+    <realPrice_BGL>29.65</realPrice_BGL>
+    <realPrice_BGL_dds>35.58</realPrice_BGL_dds>
     <kkprice_BGL>46.24167</kkprice_BGL>
     <kkprice_BGL_dds>55.490004</kkprice_BGL_dds>
-    <realPrice>33.350562</realPrice>
+    <realPrice>29.65</realPrice>
     <small_picture>/poly/image/0006303628541</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
@@ -7075,7 +7247,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>163803_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7092,13 +7266,13 @@
     <model>Beurer LB 37 lime filter</model>
     <name>Филтър</name>
     <picture_name>0006303647597</picture_name>
-    <price>7.28455</price>
-    <price_dds>8.74146</price_dds>
-    <realPrice_BGL>6.556095</realPrice_BGL>
-    <realPrice_BGL_dds>7.867314</realPrice_BGL_dds>
+    <price>5.82</price>
+    <price_dds>6.984</price_dds>
+    <realPrice_BGL>5.82</realPrice_BGL>
+    <realPrice_BGL_dds>6.984</realPrice_BGL_dds>
     <kkprice_BGL>9.15833</kkprice_BGL>
     <kkprice_BGL_dds>10.989996</kkprice_BGL_dds>
-    <realPrice>6.556095</realPrice>
+    <realPrice>5.82</realPrice>
     <small_picture>/poly/image/0006303647597</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84219990</taxCode>
@@ -7118,7 +7292,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>66007_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125660079</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7139,13 +7315,13 @@
     <model>Beurer LR 500 replacement set - Prefilter; Combi filter (EPA + activated carbon); Compatible with the Beurer LR 500 air purifie</model>
     <name>Филтър</name>
     <picture_name>0006303399283</picture_name>
-    <price>63.97733</price>
-    <price_dds>76.772796</price_dds>
-    <realPrice_BGL>57.579597</realPrice_BGL>
-    <realPrice_BGL_dds>69.0955164</realPrice_BGL_dds>
+    <price>51.18</price>
+    <price_dds>61.416</price_dds>
+    <realPrice_BGL>51.18</realPrice_BGL>
+    <realPrice_BGL_dds>61.416</realPrice_BGL_dds>
     <kkprice_BGL>79.99167</kkprice_BGL>
     <kkprice_BGL_dds>95.990004</kkprice_BGL_dds>
-    <realPrice>57.579597</realPrice>
+    <realPrice>51.18</realPrice>
     <small_picture>/poly/image/0006303399283</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
@@ -7165,7 +7341,9 @@
     <articlekindUid>0006303338356</articlekindUid>
     <available>на склад</available>
     <catalog_num>67915_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125679156</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7202,13 +7380,13 @@
     <model>Beurer HM 16 thermo hygrometer; Displays temperature and humidity</model>
     <name>Хигрометър</name>
     <picture_name>0006303340972</picture_name>
-    <price>14.03434</price>
-    <price_dds>16.841208</price_dds>
-    <realPrice_BGL>12.630906</realPrice_BGL>
-    <realPrice_BGL_dds>15.1570872</realPrice_BGL_dds>
+    <price>11.22</price>
+    <price_dds>13.464</price_dds>
+    <realPrice_BGL>11.22</realPrice_BGL>
+    <realPrice_BGL_dds>13.464</realPrice_BGL_dds>
     <kkprice_BGL>17.49167</kkprice_BGL>
     <kkprice_BGL_dds>20.990004</kkprice_BGL_dds>
-    <realPrice>12.630906</realPrice>
+    <realPrice>11.22</realPrice>
     <small_picture>/poly/image/0006303340972</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90258040</taxCode>
@@ -7228,7 +7406,9 @@
     <articlekindUid>0006303338356</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>67804_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125678043</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7265,13 +7445,13 @@
     <model>Beurer HM 22 thermo hygrometer; displays temperature, relative humidity, date and time; timer function; sensor buttons</model>
     <name>Хигрометър</name>
     <picture_name>0006303683719</picture_name>
-    <price>17.84383</price>
-    <price_dds>21.412596</price_dds>
-    <realPrice_BGL>16.059447</realPrice_BGL>
-    <realPrice_BGL_dds>19.2713364</realPrice_BGL_dds>
+    <price>14.27</price>
+    <price_dds>17.124</price_dds>
+    <realPrice_BGL>14.27</realPrice_BGL>
+    <realPrice_BGL_dds>17.124</realPrice_BGL_dds>
     <kkprice_BGL>22.49167</kkprice_BGL>
     <kkprice_BGL_dds>26.990004</kkprice_BGL_dds>
-    <realPrice>16.059447</realPrice>
+    <realPrice>14.27</realPrice>
     <small_picture>/poly/image/0006303683719</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90258040</taxCode>
@@ -7334,8 +7514,9 @@
     <articlekindUid>0006301413710</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>69309_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125693091</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7352,13 +7533,13 @@
     <model>Beurer LR 400/401/405 Replacement filter</model>
     <name>Филтър</name>
     <picture_name>0006307186201</picture_name>
-    <price>35.36173</price>
-    <price_dds>42.434076</price_dds>
-    <realPrice_BGL>31.825557</realPrice_BGL>
-    <realPrice_BGL_dds>38.1906684</realPrice_BGL_dds>
+    <price>26.52</price>
+    <price_dds>31.824</price_dds>
+    <realPrice_BGL>26.52</realPrice_BGL>
+    <realPrice_BGL_dds>31.824</realPrice_BGL_dds>
     <kkprice_BGL>44.15833</kkprice_BGL>
     <kkprice_BGL_dds>52.989996</kkprice_BGL_dds>
-    <realPrice>31.825557</realPrice>
+    <realPrice>26.52</realPrice>
     <small_picture>/poly/image/0006307186201</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
