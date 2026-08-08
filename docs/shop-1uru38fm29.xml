@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-07T04:22:11Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-08T03:18:46Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4419,7 +4419,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>64809_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7339,7 +7339,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Хигрометри</articlekind>
     <articlekindUid>0006303338356</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>67915_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
