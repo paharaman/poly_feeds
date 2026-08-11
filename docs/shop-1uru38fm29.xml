@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-10T03:46:50Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-11T03:29:17Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4419,7 +4419,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>64809_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -5923,7 +5923,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>20043_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7192,7 +7192,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>69302_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7339,7 +7339,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Хигрометри</articlekind>
     <articlekindUid>0006303338356</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>67915_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -9177,7 +9177,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>79106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125791063</ean_barcode>
@@ -9555,7 +9555,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10521_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105211</ean_barcode>
@@ -10905,7 +10905,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>57614_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125576141</ean_barcode>
@@ -11127,7 +11127,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10260_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102609</ean_barcode>
@@ -14084,6 +14084,75 @@
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
     <available>oграничено количество</available>
+    <catalog_num>60550_BEU_60551_BEU</catalog_num>
+    <code>PRM</code>
+    <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Facial brush</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>2</description>
+        <name>Настройки на скорост</name>
+      </characteristic>
+      <characteristic>
+        <description>2 x 1.5 V AAA batteries</description>
+        <name>Батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Water-resistant (IPX7) - can be used in the shower and bath</description>
+        <name>Водоустойчивост</name>
+      </characteristic>
+      <characteristic>
+        <description>Incl. soft brush attachment</description>
+        <name>Приставки</name>
+      </characteristic>
+      <characteristic>
+        <description>Battery indicator for nearly empty batteries</description>
+        <name>Индикатори</name>
+      </characteristic>
+      <characteristic>
+        <description>White</description>
+        <name>Цвят</name>
+      </characteristic>
+    </characteristics>
+    <id>0006303602819</id>
+    <kkprice>20.825</kkprice>
+    <model>Beurer FC 45 Facial brush + FC 45 Replacement set 1 pc brush</model>
+    <name>Уред за лице</name>
+    <picture_name>0006303602819</picture_name>
+    <price>12.99</price>
+    <price_dds>15.588</price_dds>
+    <realPrice_BGL>12.99</realPrice_BGL>
+    <realPrice_BGL_dds>15.588</realPrice_BGL_dds>
+    <kkprice_BGL>20.825</kkprice_BGL>
+    <kkprice_BGL_dds>24.99</kkprice_BGL_dds>
+    <realPrice>12.99</realPrice>
+    <small_picture>/poly/image/0006303602819</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006303602819?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006303602819</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Уреди за лице и тяло</articlekind>
+    <articlekindUid>0006303338370</articlekindUid>
+    <available>oграничено количество</available>
     <catalog_num>10019_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100193</ean_barcode>
@@ -14443,6 +14512,71 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303861068?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303861068</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Уреди за лице и тяло</articlekind>
+    <articlekindUid>0006303338370</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>60503_BEU_58417_BEU</catalog_num>
+    <code>PRM</code>
+    <currency>EUR</currency>
+    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Facial Sauna and Steam Inhaler</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>2 output levels</description>
+        <name>Настройки на скорост</name>
+      </characteristic>
+      <characteristic>
+        <description>Facial sauna attachment for cosmetic facial care; Steam attachment for soothing inhalation; Scent container for aroma applications</description>
+        <name>Приставки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Индикатори</name>
+      </characteristic>
+      <characteristic>
+        <description>Intensive skin care, aromatherapy, inhalation; Continuously adjustable steam output</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>White &amp;amp; Pink</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Incl. practical measuring jug</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306004478</id>
+    <kkprice>49.99167</kkprice>
+    <model>Beurer FS 60 Facial Sauna and Steam Inhaler + Beurer FC 41 Deep pore cleanser</model>
+    <name>Сауна</name>
+    <picture_name>0006306004478</picture_name>
+    <price>34.99</price>
+    <price_dds>41.988</price_dds>
+    <realPrice_BGL>34.99</realPrice_BGL>
+    <realPrice_BGL_dds>41.988</realPrice_BGL_dds>
+    <kkprice_BGL>49.99167</kkprice_BGL>
+    <kkprice_BGL_dds>59.990004</kkprice_BGL_dds>
+    <realPrice>34.99</realPrice>
+    <small_picture>/poly/image/0006306004478</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306004478?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306004478</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -14962,75 +15096,6 @@
     <source_subgroup_name>Уреди за красота</source_subgroup_name>
     <articleMainkind>Уреди за здраве и красота</articleMainkind>
     <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Уреди за лице и тяло</articlekind>
-    <articlekindUid>0006303338370</articlekindUid>
-    <available>oграничено количество</available>
-    <catalog_num>60550_BEU_60551_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Facial brush</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>2</description>
-        <name>Настройки на скорост</name>
-      </characteristic>
-      <characteristic>
-        <description>2 x 1.5 V AAA batteries</description>
-        <name>Батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>Water-resistant (IPX7) - can be used in the shower and bath</description>
-        <name>Водоустойчивост</name>
-      </characteristic>
-      <characteristic>
-        <description>Incl. soft brush attachment</description>
-        <name>Приставки</name>
-      </characteristic>
-      <characteristic>
-        <description>Battery indicator for nearly empty batteries</description>
-        <name>Индикатори</name>
-      </characteristic>
-      <characteristic>
-        <description>White</description>
-        <name>Цвят</name>
-      </characteristic>
-    </characteristics>
-    <id>0006303602819</id>
-    <kkprice>20.825</kkprice>
-    <model>Beurer FC 45 Facial brush + FC 45 Replacement set 1 pc brush</model>
-    <name>Уред за лице</name>
-    <picture_name>0006303602819</picture_name>
-    <price>12.99</price>
-    <price_dds>15.588</price_dds>
-    <realPrice_BGL>12.99</realPrice_BGL>
-    <realPrice_BGL_dds>15.588</realPrice_BGL_dds>
-    <kkprice_BGL>20.825</kkprice_BGL>
-    <kkprice_BGL_dds>24.99</kkprice_BGL_dds>
-    <realPrice>12.99</realPrice>
-    <small_picture>/poly/image/0006303602819</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85098000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006303602819?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006303602819</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
     <available>oграничено количество</available>
@@ -15108,71 +15173,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307252092?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307252092</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Уреди за лице и тяло</articlekind>
-    <articlekindUid>0006303338370</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>60503_BEU_58417_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Facial Sauna and Steam Inhaler</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>2 output levels</description>
-        <name>Настройки на скорост</name>
-      </characteristic>
-      <characteristic>
-        <description>Facial sauna attachment for cosmetic facial care; Steam attachment for soothing inhalation; Scent container for aroma applications</description>
-        <name>Приставки</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Индикатори</name>
-      </characteristic>
-      <characteristic>
-        <description>Intensive skin care, aromatherapy, inhalation; Continuously adjustable steam output</description>
-        <name>Функции</name>
-      </characteristic>
-      <characteristic>
-        <description>White &amp;amp; Pink</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Incl. practical measuring jug</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306004478</id>
-    <kkprice>49.99167</kkprice>
-    <model>Beurer FS 60 Facial Sauna and Steam Inhaler + Beurer FC 41 Deep pore cleanser</model>
-    <name>Сауна</name>
-    <picture_name>0006306004478</picture_name>
-    <price>34.99</price>
-    <price_dds>41.988</price_dds>
-    <realPrice_BGL>34.99</realPrice_BGL>
-    <realPrice_BGL_dds>41.988</realPrice_BGL_dds>
-    <kkprice_BGL>49.99167</kkprice_BGL>
-    <kkprice_BGL_dds>59.990004</kkprice_BGL_dds>
-    <realPrice>34.99</realPrice>
-    <small_picture>/poly/image/0006306004478</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85098000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306004478?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306004478</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
