@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-12T03:59:35Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-13T04:04:33Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -10984,7 +10984,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10505_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105051</ean_barcode>
@@ -12162,7 +12162,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>57035_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125570354</ean_barcode>
@@ -15427,7 +15427,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10058_BEU_10505_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -15512,7 +15512,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за бръснене</articlekind>
     <articlekindUid>0006303542328</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10254_BEU_10505_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
