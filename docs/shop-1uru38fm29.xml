@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-13T04:04:33Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-14T04:00:44Z" count="219" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3334,7 +3334,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10434_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -11295,6 +11295,90 @@
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
     <available>на склад</available>
+    <catalog_num>10057_BEU</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>4211125100575</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>yes</description>
+        <name>Приставка за брада</name>
+      </characteristic>
+      <characteristic>
+        <description>Stainless steel</description>
+        <name>Материал на ножчетата</name>
+      </characteristic>
+      <characteristic>
+        <description>2 comb attachments for the beard trimmer attachment with 10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
+        <name>Гребени</name>
+      </characteristic>
+      <characteristic>
+        <description>4 cutting lengths for the hair clipper due to 4 fix comb  attachments: 3, 6, 9, 12 mm, 2-stage fine adjustment: 0.8 and 1.2 mm</description>
+        <name>Дължина на подстригване, mm</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>1.5 h charging time</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>1.5 h operating time</description>
+        <name>Време за работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>Waterproof (IPX7) –  can also be used in the shower or in the bath</description>
+        <name>Работа под течаща вода</name>
+      </characteristic>
+      <characteristic>
+        <description>LED display with battery status in % and charge display</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
+        <name>Степени на рязане</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Incl. hard case, cleaning brush, USB cable and oil</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306179891</id>
+    <kkprice>59.99167</kkprice>
+    <model>Beurer MN9X body groomer, 11 attachments with 16 cutting lengths for trimming and shaving on the entire body, Waterproof (IPX7),  Quick-charge function, LED display, Incl. practical hard case</model>
+    <name>Машинка за подстригване</name>
+    <picture_name>0006306179891</picture_name>
+    <price>48</price>
+    <price_dds>57.6</price_dds>
+    <realPrice_BGL>43.2</realPrice_BGL>
+    <realPrice_BGL_dds>51.84</realPrice_BGL_dds>
+    <kkprice_BGL>59.99167</kkprice_BGL>
+    <kkprice_BGL_dds>71.990004</kkprice_BGL_dds>
+    <realPrice>43.2</realPrice>
+    <small_picture>/poly/image/0006306179891</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85102000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306179891?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306179891</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Машинки за подстригване</articlekind>
+    <articlekindUid>0006302420782</articlekindUid>
+    <available>на склад</available>
     <catalog_num>10057_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -11368,90 +11452,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307202927?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307202927</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Машинки за подстригване</articlekind>
-    <articlekindUid>0006302420782</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>10057_BEU</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>4211125100575</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>yes</description>
-        <name>Приставка за брада</name>
-      </characteristic>
-      <characteristic>
-        <description>Stainless steel</description>
-        <name>Материал на ножчетата</name>
-      </characteristic>
-      <characteristic>
-        <description>2 comb attachments for the beard trimmer attachment with 10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
-        <name>Гребени</name>
-      </characteristic>
-      <characteristic>
-        <description>4 cutting lengths for the hair clipper due to 4 fix comb  attachments: 3, 6, 9, 12 mm, 2-stage fine adjustment: 0.8 and 1.2 mm</description>
-        <name>Дължина на подстригване, mm</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Работа на батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>1.5 h charging time</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>1.5 h operating time</description>
-        <name>Време за работа на батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>Waterproof (IPX7) –  can also be used in the shower or in the bath</description>
-        <name>Работа под течаща вода</name>
-      </characteristic>
-      <characteristic>
-        <description>LED display with battery status in % and charge display</description>
-        <name>LCD дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
-        <name>Степени на рязане</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Incl. hard case, cleaning brush, USB cable and oil</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306179891</id>
-    <kkprice>59.99167</kkprice>
-    <model>Beurer MN9X body groomer, 11 attachments with 16 cutting lengths for trimming and shaving on the entire body, Waterproof (IPX7),  Quick-charge function, LED display, Incl. practical hard case</model>
-    <name>Машинка за подстригване</name>
-    <picture_name>0006306179891</picture_name>
-    <price>48</price>
-    <price_dds>57.6</price_dds>
-    <realPrice_BGL>43.2</realPrice_BGL>
-    <realPrice_BGL_dds>51.84</realPrice_BGL_dds>
-    <kkprice_BGL>59.99167</kkprice_BGL>
-    <kkprice_BGL_dds>71.990004</kkprice_BGL_dds>
-    <realPrice>43.2</realPrice>
-    <small_picture>/poly/image/0006306179891</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85102000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306179891?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306179891</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
