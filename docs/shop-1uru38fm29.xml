@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-14T04:00:44Z" count="219" duplicates_skipped="0">
+<products generated_at="2026-08-15T02:45:58Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4419,7 +4419,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>64809_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7834,83 +7834,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307281982?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307281982</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337965</source_subgroup_id>
-    <source_subgroup_name>Уреди за дома</source_subgroup_name>
-    <articleMainkind>Климатици, уреди за отопление и грижа за въздуха</articleMainkind>
-    <articleMainkindUid>AIR</articleMainkindUid>
-    <articlekind>Пречистватели на въздух</articlekind>
-    <articlekindUid>0006303332065</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>69307_BEU_69309_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>HEPA filter H13, three-layer filter system (Replaceable filter with filter change indicator (recommended replacement after 6 months at the latest)</description>
-        <name>Технология</name>
-      </characteristic>
-      <characteristic>
-        <description>69 m2</description>
-        <name>Ефективна площ</name>
-      </characteristic>
-      <characteristic>
-        <description>266 m3/h</description>
-        <name>Въздушен поток</name>
-      </characteristic>
-      <characteristic>
-        <description>CADR: approx. 266 m3/h</description>
-        <name>CADR</name>
-      </characteristic>
-      <characteristic>
-        <description>4 fan levels + turbo mode</description>
-        <name>Брой скорости</name>
-      </characteristic>
-      <characteristic>
-        <description>Night mode- level 1: &amp;lt; 30 dB, level 2: approx. 34 dB, level 3: approx. 42 dB, level 4-  turbo mode: approx. 52 dB</description>
-        <name>Ниво на шума, dB</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, 1 - 24 hours</description>
-        <name>Таймер</name>
-      </characteristic>
-      <characteristic>
-        <description>Filter change indicator</description>
-        <name>Индикатори</name>
-      </characteristic>
-      <characteristic>
-        <description>White</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Colored indoor air quality indicator, Additional cleaning through switchable ultraviolet light, Smart Sensor - detects fine dust with particle sizes of 2.5 Мm, with smart automatic function: adapts the cleaning performance to the room air</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307291298</id>
-    <kkprice>270.83333</kkprice>
-    <model>Beurer LR 400 WIFI / BT Air purifier white + Beurer LR 400/401/405 Replacement filter</model>
-    <name>Пречиствател на въздух</name>
-    <picture_name>0006307291298</picture_name>
-    <price>165</price>
-    <price_dds>198</price_dds>
-    <realPrice_BGL>165</realPrice_BGL>
-    <realPrice_BGL_dds>198</realPrice_BGL_dds>
-    <kkprice_BGL>270.83333</kkprice_BGL>
-    <kkprice_BGL_dds>324.999996</kkprice_BGL_dds>
-    <realPrice>165</realPrice>
-    <small_picture>/poly/image/0006307291298</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>#85098000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307291298?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307291298</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
