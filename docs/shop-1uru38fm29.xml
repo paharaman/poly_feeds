@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-20T02:51:08Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-08-21T02:56:50Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3837,7 +3837,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>64310_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -5214,7 +5214,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>68113_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -13710,7 +13710,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10484_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -13786,7 +13786,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10484_BEU_10539_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
