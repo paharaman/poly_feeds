@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-21T02:56:50Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-08-22T02:48:35Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -504,7 +504,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>10054_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -795,7 +795,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>76011_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -9478,7 +9478,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10521_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105211</ean_barcode>
@@ -11453,7 +11453,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>10539_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -12085,7 +12085,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>57035_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125570354</ean_barcode>
@@ -13203,7 +13203,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10072_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -13712,7 +13712,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10484_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125104849</ean_barcode>
     <characteristics>
@@ -13762,96 +13761,19 @@
     <model>Beurer HC 150 FusionDry Pro Hair dryer - Powerful, brushless motor, Ergonomic folding handle, Ion function, 3 heat &amp; blower settings, cold air, Extra quiet, EasyClick - Magnetic attachments, LCD display, Bag</model>
     <name>Сешоар</name>
     <picture_name>0006307083317</picture_name>
-    <price>132.03145</price>
-    <price_dds>158.43774</price_dds>
-    <realPrice_BGL>118.828305</realPrice_BGL>
-    <realPrice_BGL_dds>142.593966</realPrice_BGL_dds>
+    <price>132.03395</price>
+    <price_dds>158.44074</price_dds>
+    <realPrice_BGL>118.830555</realPrice_BGL>
+    <realPrice_BGL_dds>142.596666</realPrice_BGL_dds>
     <kkprice_BGL>165.83333</kkprice_BGL>
     <kkprice_BGL_dds>198.999996</kkprice_BGL_dds>
-    <realPrice>118.828305</realPrice>
+    <realPrice>118.830555</realPrice>
     <small_picture>/poly/image/0006307083317</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307083317?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307083317</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Сешоари</articlekind>
-    <articlekindUid>0006302417788</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>10484_BEU_10539_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Powerful 1600 W digital motor</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>3 temperature settings</description>
-        <name>Степени на температура</name>
-      </characteristic>
-      <characteristic>
-        <description>3 blower settings for gentle drying</description>
-        <name>Скорости</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Integrated ionic function for smooth hair</description>
-        <name>Йонизираща функция</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Additional cold air setting for fixing the styling</description>
-        <name>Функция студен въздух</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Концентратор на въздух</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Дифузер за обем</name>
-      </characteristic>
-      <characteristic>
-        <description>1.80 m</description>
-        <name>Дължина на кабела, m</name>
-      </characteristic>
-      <characteristic>
-        <description>Rose gold</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Integrated memory function - used to store preset temperature and fan settings, Removable filter, for easy cleaning, Accessories: Volume diffuser, narrow professional nozzle, round brush, anti-frizz styling brush, storage bag</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307186540</id>
-    <kkprice>165.83333</kkprice>
-    <model>Beurer HC 150 FusionDry Pro Hair dryer + Beurer BS 47 Illuminated cosmetics mirror with practical magnetic holder</model>
-    <name>Сешоар</name>
-    <picture_name>0006307186540</picture_name>
-    <price>109</price>
-    <price_dds>130.8</price_dds>
-    <realPrice_BGL>109</realPrice_BGL>
-    <realPrice_BGL_dds>130.8</realPrice_BGL_dds>
-    <kkprice_BGL>165.83333</kkprice_BGL>
-    <kkprice_BGL_dds>198.999996</kkprice_BGL_dds>
-    <realPrice>109</realPrice>
-    <small_picture>/poly/image/0006307186540</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85163100</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307186540?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307186540</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
