@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-24T02:57:06Z" count="217" duplicates_skipped="0">
+<products generated_at="2026-08-25T02:52:27Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -148,7 +148,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за затопляне на храна</articlekind>
     <articlekindUid>0006303338385</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>95402_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125954024</ean_barcode>
@@ -868,7 +868,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>10379_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -2563,7 +2563,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Инфрачервени лампи</articlekind>
     <articlekindUid>0006303338358</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>61612_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -5785,7 +5785,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>20041_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -8413,7 +8413,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>88106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881061</ean_barcode>
@@ -12010,7 +12010,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>57116_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571160</ean_barcode>
@@ -12374,7 +12374,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>10443_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104436</ean_barcode>
