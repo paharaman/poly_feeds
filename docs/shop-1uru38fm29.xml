@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-25T02:52:27Z" count="217" duplicates_skipped="0">
+<products generated_at="2026-08-26T02:58:46Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -2316,7 +2316,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -3983,7 +3983,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10420_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -11301,7 +11301,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10057_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -14575,7 +14575,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>57503_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
