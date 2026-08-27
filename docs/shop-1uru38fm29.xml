@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-26T02:58:46Z" count="217" duplicates_skipped="0">
+<products generated_at="2026-08-27T12:13:38Z" count="218" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -2316,12 +2316,13 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125732127</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Luggage scale</description>
@@ -2969,7 +2970,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10256_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -3340,6 +3341,7 @@
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125104344</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -3843,6 +3845,7 @@
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125643102</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4D Neck massager</description>
@@ -3983,7 +3986,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10420_BEU_73212_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -4425,6 +4428,7 @@
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125648091</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu, spot and air compression massage</description>
@@ -4623,6 +4627,78 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303339215?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303339215</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Масажори</articlekind>
+    <articlekindUid>0006303338359</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>10695_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125106959</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>2-in-1: Foot and calf massager in one</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Soothing Shiatsu foot massage- Promotes circulation and relieves tired, heavy legs</description>
+        <name>Употреба</name>
+      </characteristic>
+      <characteristic>
+        <description>3 intensity levels</description>
+        <name>Регулируем интензитет</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Електроди</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Automatic switch-off function after approx. 15 minutes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Optional heat function, Suitable for up to EU shoe size 48, Breathable fabric feels pleasant on the skin during the massage, Integrated carrying handle for easy transport, Easy to clean with a slightly damp cloth</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307308481</id>
+    <kkprice>66.65833</kkprice>
+    <model>Beurer FM 42 Foot and calf massager; 2-in-1: Foot and calf massager; Soothing Shiatsu foot massage; Optional heat function; up to EU shoe size 48; 3 intensity levels</model>
+    <name>Масажор</name>
+    <picture_name>0006307308481</picture_name>
+    <price>52.28</price>
+    <price_dds>62.736</price_dds>
+    <realPrice_BGL>47.052</realPrice_BGL>
+    <realPrice_BGL_dds>56.4624</realPrice_BGL_dds>
+    <kkprice_BGL>66.65833</kkprice_BGL>
+    <kkprice_BGL_dds>79.989996</kkprice_BGL_dds>
+    <realPrice>47.052</realPrice>
+    <small_picture>/poly/image/0006307308481</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>90191090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307308481?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307308481</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -7198,6 +7274,7 @@
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125693022</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Air Purifiers</description>
@@ -7345,6 +7422,7 @@
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125679156</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>yes</description>
@@ -7557,7 +7635,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10027_BEU_64814_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7630,7 +7708,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10265_BEU_10256_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -8271,7 +8349,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64814_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -9104,6 +9182,7 @@
     <catalog_num>79106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125791063</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Ovulation (Contact-measurement technology)</description>
@@ -10832,6 +10911,7 @@
     <catalog_num>57614_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125576141</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>42 Tweezers, 2-in-1: epilation and shaving</description>
@@ -11054,6 +11134,7 @@
     <catalog_num>10260_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102609</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>yes</description>
@@ -11290,91 +11371,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306179891?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306179891</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Машинки за подстригване</articlekind>
-    <articlekindUid>0006302420782</articlekindUid>
-    <available>oграничено количество</available>
-    <catalog_num>10057_BEU_73212_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>yes</description>
-        <name>Приставка за брада</name>
-      </characteristic>
-      <characteristic>
-        <description>Stainless steel</description>
-        <name>Материал на ножчетата</name>
-      </characteristic>
-      <characteristic>
-        <description>2 comb attachments for the beard trimmer attachment with 10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
-        <name>Гребени</name>
-      </characteristic>
-      <characteristic>
-        <description>4 cutting lengths for the hair clipper due to 4 fix comb  attachments: 3, 6, 9, 12 mm, 2-stage fine adjustment: 0.8 and 1.2 mm</description>
-        <name>Дължина на подстригване, mm</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Работа на батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>1.5 h charging time</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>1.5 h operating time</description>
-        <name>Време за работа на батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>Waterproof (IPX7) –  can also be used in the shower or in the bath</description>
-        <name>Работа под течаща вода</name>
-      </characteristic>
-      <characteristic>
-        <description>LED display with battery status in % and charge display</description>
-        <name>LCD дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>10 cutting lengths: 3 – 7 and 8 – 12 mm</description>
-        <name>Степени на рязане</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Incl. hard case, cleaning brush, USB cable and oil</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307202927</id>
-    <kkprice>49.99167</kkprice>
-    <model>Beurer MN9X Multigroomer &amp; Beurer LS 06 luggage scale</model>
-    <name>Машинка за подстригване</name>
-    <picture_name>0006307202927</picture_name>
-    <price>37.99</price>
-    <price_dds>45.588</price_dds>
-    <realPrice_BGL>37.99</realPrice_BGL>
-    <realPrice_BGL_dds>45.588</realPrice_BGL_dds>
-    <kkprice_BGL>49.99167</kkprice_BGL>
-    <kkprice_BGL_dds>59.990004</kkprice_BGL_dds>
-    <realPrice>37.99</realPrice>
-    <small_picture>/poly/image/0006307202927</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85102000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307202927?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307202927</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -12089,6 +12085,7 @@
     <catalog_num>57035_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125570354</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Manicure/Pedicure</description>
@@ -12305,6 +12302,82 @@
     <source_subgroup_name>Уреди за красота</source_subgroup_name>
     <articleMainkind>Уреди за здраве и красота</articleMainkind>
     <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Уреди за маникюр и педикюр</articlekind>
+    <articlekindUid>0006303338368</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>10701_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125107017</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Manicure/Pedicure</description>
+        <name>Употреба</name>
+      </characteristic>
+      <characteristic>
+        <description>2 speed settings for different types of nails and individual needs</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>0</description>
+        <name>Приставки</name>
+      </characteristic>
+      <characteristic>
+        <description>Battery-operated</description>
+        <name>Батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>LED light ensures you have a clear view and can work precisely, even in poor lighting</description>
+        <name>LED светлина</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Въртене в две посоки</name>
+      </characteristic>
+      <characteristic>
+        <description>150 min.</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>White</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Includes 0.3 m USB-C cable for convenient charging and cleaning brush – to look after the device easily and hygienically, Integrated collection tray – for easy cleaning after use, Suitable for diabetics</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307309028</id>
+    <kkprice>26.65833</kkprice>
+    <model>Beurer MP 10 Electric nail clipper; Nails are cut automatically; One-button operation; Ideal for children &amp; the elderly; Two speed settings; LED light; USB-C cable incl.</model>
+    <name>Електрическа нокторезачка</name>
+    <picture_name>0006307309028</picture_name>
+    <price>21.03</price>
+    <price_dds>25.236</price_dds>
+    <realPrice_BGL>18.927</realPrice_BGL>
+    <realPrice_BGL_dds>22.7124</realPrice_BGL_dds>
+    <kkprice_BGL>26.65833</kkprice_BGL>
+    <kkprice_BGL_dds>31.989996</kkprice_BGL_dds>
+    <realPrice>18.927</realPrice>
+    <small_picture>/poly/image/0006307309028</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307309028?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307309028</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>LED/UV лампи</articlekind>
     <articlekindUid>0006303338369</articlekindUid>
     <available>oграничено количество</available>
@@ -12378,6 +12451,7 @@
     <catalog_num>10443_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104436</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Cellulite</description>
@@ -13205,7 +13279,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10072_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125100728</ean_barcode>
     <characteristics>
@@ -13251,13 +13324,13 @@
     <model>Beurer HC 17 Hair dryer, 1 300 W, ergonomic folding handle, 2 heat settings, 2 blower settings, slim professional nozzle, overheating protection</model>
     <name>Сешоар</name>
     <picture_name>0006306015381</picture_name>
-    <price>13.71</price>
-    <price_dds>16.452</price_dds>
-    <realPrice_BGL>12.339</realPrice_BGL>
-    <realPrice_BGL_dds>14.8068</realPrice_BGL_dds>
+    <price>13.70698</price>
+    <price_dds>16.448376</price_dds>
+    <realPrice_BGL>12.336282</realPrice_BGL>
+    <realPrice_BGL_dds>14.8035384</realPrice_BGL_dds>
     <kkprice_BGL>17.49167</kkprice_BGL>
     <kkprice_BGL_dds>20.990004</kkprice_BGL_dds>
-    <realPrice>12.339</realPrice>
+    <realPrice>12.336282</realPrice>
     <small_picture>/poly/image/0006306015381</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -13997,7 +14070,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10019_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100193</ean_barcode>
@@ -14577,7 +14650,6 @@
     <articlekindUid>0006302420553</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>57503_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125575038</ean_barcode>
     <characteristics>
