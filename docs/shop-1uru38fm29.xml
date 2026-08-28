@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-27T12:13:38Z" count="218" duplicates_skipped="0">
+<products generated_at="2026-08-28T13:38:56Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -506,7 +506,6 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10054_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125100544</ean_barcode>
     <characteristics>
@@ -552,13 +551,13 @@
     <model>Beurer BF 183 diagnostic bathroom scale; Extra large LCD display; Weight, body fat, body water, muscle percentage, bone mass, AMR calorie display; 180 kg</model>
     <name>Везна</name>
     <picture_name>0006306101456</picture_name>
-    <price>22.15</price>
-    <price_dds>26.58</price_dds>
-    <realPrice_BGL>19.935</realPrice_BGL>
-    <realPrice_BGL_dds>23.922</realPrice_BGL_dds>
+    <price>22.55</price>
+    <price_dds>27.06</price_dds>
+    <realPrice_BGL>20.295</realPrice_BGL>
+    <realPrice_BGL_dds>24.354</realPrice_BGL_dds>
     <kkprice_BGL>28.325</kkprice_BGL>
     <kkprice_BGL_dds>33.99</kkprice_BGL_dds>
-    <realPrice>19.935</realPrice>
+    <realPrice>20.295</realPrice>
     <small_picture>/poly/image/0006306101456</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -2564,12 +2563,13 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Инфрачервени лампи</articlekind>
     <articlekindUid>0006303338358</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>61612_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
     <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125616120</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>3-level electronic timer</description>
@@ -2959,79 +2959,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307229501?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307229501</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337965</source_subgroup_id>
-    <source_subgroup_name>Уреди за дома</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Масажори</articlekind>
-    <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>10256_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
-    <ean_barcode>4211125102562</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Soothing and relaxing vibration massage</description>
-        <name>Тип</name>
-      </characteristic>
-      <characteristic>
-        <description>Hand-held massager with optional heat function</description>
-        <name>Употреба</name>
-      </characteristic>
-      <characteristic>
-        <description>2 intensity levels; 2 pre-set massage programs</description>
-        <name>Регулируем интензитет</name>
-      </characteristic>
-      <characteristic>
-        <description>0</description>
-        <name>Електроди</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Таймер</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Автоматично изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>3 interchangeable massage attachments</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306134665</id>
-    <kkprice>25.825</kkprice>
-    <model>Beurer MG 24 Massager with heat function</model>
-    <name>Масажор</name>
-    <picture_name>0006306134665</picture_name>
-    <price>15.59</price>
-    <price_dds>18.708</price_dds>
-    <realPrice_BGL>15.59</realPrice_BGL>
-    <realPrice_BGL_dds>18.708</realPrice_BGL_dds>
-    <kkprice_BGL>25.825</kkprice_BGL>
-    <kkprice_BGL_dds>30.99</kkprice_BGL_dds>
-    <realPrice>15.59</realPrice>
-    <small_picture>/poly/image/0006306134665</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>90191090</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306134665?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306134665</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -4203,7 +4130,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10268_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -8762,7 +8689,6 @@
     <articlekindUid>0006303338366</articlekindUid>
     <available>на склад</available>
     <catalog_num>79115_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125791155</ean_barcode>
     <characteristics>
@@ -8816,7 +8742,7 @@
       </characteristic>
     </characteristics>
     <id>0006303339302</id>
-    <kkprice>4.24167</kkprice>
+    <kkprice>4.575</kkprice>
     <model>Beurer FT 09/1 clinical thermometer, Contact-measurement technology, Display in °C, Protective cap; Waterproof, white</model>
     <name>Термометър</name>
     <picture_name>0006303339302</picture_name>
@@ -8824,8 +8750,8 @@
     <price_dds>4.068</price_dds>
     <realPrice_BGL>3.051</realPrice_BGL>
     <realPrice_BGL_dds>3.6612</realPrice_BGL_dds>
-    <kkprice_BGL>4.24167</kkprice_BGL>
-    <kkprice_BGL_dds>5.090004</kkprice_BGL_dds>
+    <kkprice_BGL>4.575</kkprice_BGL>
+    <kkprice_BGL_dds>5.49</kkprice_BGL_dds>
     <realPrice>3.051</realPrice>
     <small_picture>/poly/image/0006303339302</small_picture>
     <stokaType>1</stokaType>
@@ -9109,7 +9035,7 @@
         <name>Памет</name>
       </characteristic>
       <characteristic>
-        <description>2 min</description>
+        <description>Measuring time: Up to 3 minutes. Acoustic signal indicates if stable temperature is reached earlier</description>
         <name>Време за измерване</name>
       </characteristic>
       <characteristic>
@@ -9117,7 +9043,7 @@
         <name>Единица за измерване</name>
       </characteristic>
       <characteristic>
-        <description>Acoustic signal</description>
+        <description>Acoustic signal, Record temperature, body signals and interference factors</description>
         <name>Сигнализация, тип</name>
       </characteristic>
       <characteristic>
@@ -9137,7 +9063,7 @@
         <name>Дезинфекция</name>
       </characteristic>
       <characteristic>
-        <description>yes</description>
+        <description>yes, Preserves the battery: Automatically switches off 10 minutes after the measurement</description>
         <name>Автоматично изключване</name>
       </characteristic>
       <characteristic>
@@ -9145,13 +9071,13 @@
         <name>Цвят</name>
       </characteristic>
       <characteristic>
-        <description>Can be used with the app &amp;quot;Ovy&amp;quot;  (manual recording of temperature); Calculation of the cycle for natural family planning; Waterproof; Measurement range: 32.00 - 42.99 °C; Including 1x 1.5V Battery LR41</description>
+        <description>Record body signals such as days when you are ill, ovulation tests, PMS, interference factors and more in the &amp;quot;Ovy&amp;quot; app; Calculation of the cycle for natural family planning; Waterproof; Measurement range: 32.00 - 42.99 °C; Including 1x 1.5V Battery LR41</description>
         <name>Други</name>
       </characteristic>
     </characteristics>
     <id>0006307155241</id>
     <kkprice>11.65833</kkprice>
-    <model>Beurer OT 20</model>
+    <model>Beurer OT 20 BasalControl Basic - Ovulation thermometer; Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Measuring time: Up to 3 minutes</model>
     <name>Термометър</name>
     <picture_name>0006307155241</picture_name>
     <price>9.3</price>
@@ -9193,7 +9119,7 @@
         <name>Памет</name>
       </characteristic>
       <characteristic>
-        <description>3 min</description>
+        <description>3 min, Measures basal temperature to determine your fertile days</description>
         <name>Време за измерване</name>
       </characteristic>
       <characteristic>
@@ -9201,7 +9127,7 @@
         <name>Единица за измерване</name>
       </characteristic>
       <characteristic>
-        <description>Acoustic signal</description>
+        <description>Acoustic signal indicates the end of the measurement time</description>
         <name>Сигнализация, тип</name>
       </characteristic>
       <characteristic>
@@ -9221,7 +9147,7 @@
         <name>Дезинфекция</name>
       </characteristic>
       <characteristic>
-        <description>yes</description>
+        <description>yes, Automatic switch-off to preserve the battery 30 seconds after the measurement is complete</description>
         <name>Автоматично изключване</name>
       </characteristic>
       <characteristic>
@@ -9229,13 +9155,13 @@
         <name>Цвят</name>
       </characteristic>
       <characteristic>
-        <description>Use with the &amp;quot;Ovy&amp;quot; app for natural cycle tracking; With protective cap; Flexible measuring tip</description>
+        <description>Record body signals such as days when you are ill, ovulation tests, PMS, interference factors and more in the “Ovy” app; With protective cap; Flexible measuring tip</description>
         <name>Други</name>
       </characteristic>
     </characteristics>
     <id>0006303339323</id>
     <kkprice>49.99167</kkprice>
-    <model>Beurer OT 30 Basal thermometer, Bluetooth,  Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Wireless transfer of the data;</model>
+    <model>Beurer OT 30 BasalControl Smart, Ovulation thermometer, Bluetooth, Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Wireless transfer of the data</model>
     <name>Термометър</name>
     <picture_name>0006303339323</picture_name>
     <price>40.11157</price>
@@ -11300,7 +11226,6 @@
     <articlekindUid>0006302420782</articlekindUid>
     <available>на склад</available>
     <catalog_num>10057_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125100575</ean_barcode>
     <characteristics>
@@ -11358,13 +11283,13 @@
     <model>Beurer MN9X body groomer, 11 attachments with 16 cutting lengths for trimming and shaving on the entire body, Waterproof (IPX7),  Quick-charge function, LED display, Incl. practical hard case</model>
     <name>Машинка за подстригване</name>
     <picture_name>0006306179891</picture_name>
-    <price>48</price>
-    <price_dds>57.6</price_dds>
-    <realPrice_BGL>43.2</realPrice_BGL>
-    <realPrice_BGL_dds>51.84</realPrice_BGL_dds>
+    <price>48.1821</price>
+    <price_dds>57.81852</price_dds>
+    <realPrice_BGL>43.36389</realPrice_BGL>
+    <realPrice_BGL_dds>52.036668</realPrice_BGL_dds>
     <kkprice_BGL>59.99167</kkprice_BGL>
     <kkprice_BGL_dds>71.990004</kkprice_BGL_dds>
-    <realPrice>43.2</realPrice>
+    <realPrice>43.36389</realPrice>
     <small_picture>/poly/image/0006306179891</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85102000</taxCode>
@@ -14074,6 +13999,7 @@
     <catalog_num>10019_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100193</ean_barcode>
+    <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Facial brush for every skin type</description>
