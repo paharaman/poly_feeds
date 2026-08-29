@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-28T13:38:56Z" count="217" duplicates_skipped="0">
+<products generated_at="2026-08-29T08:30:04Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -2565,9 +2565,7 @@
     <articlekindUid>0006303338358</articlekindUid>
     <available>очаква се</available>
     <catalog_num>61612_BEU</catalog_num>
-    <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.08.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125616120</ean_barcode>
     <expectedDelivery>30.08.2026</expectedDelivery>
     <characteristics>
@@ -2605,13 +2603,13 @@
     <model>Beurer IL 35 infrared lamp, For colds and muscle tension, 5 angle settings, Pressed glass bulb, 3-level electronic timer</model>
     <name>Инфрачервена лампа</name>
     <picture_name>0006303615364</picture_name>
-    <price>49.54</price>
-    <price_dds>59.448</price_dds>
-    <realPrice_BGL>49.54</realPrice_BGL>
-    <realPrice_BGL_dds>59.448</realPrice_BGL_dds>
+    <price>61.92486</price>
+    <price_dds>74.309832</price_dds>
+    <realPrice_BGL>55.732374</realPrice_BGL>
+    <realPrice_BGL_dds>66.8788488</realPrice_BGL_dds>
     <kkprice_BGL>77.49167</kkprice_BGL>
     <kkprice_BGL_dds>92.990004</kkprice_BGL_dds>
-    <realPrice>49.54</realPrice>
+    <realPrice>55.732374</realPrice>
     <small_picture>/poly/image/0006303615364</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90182000</taxCode>
@@ -9502,13 +9500,13 @@
     <model>Beurer SC 30/50 brush heads Classic Clean 4 pcs.</model>
     <name>Аксесоар</name>
     <picture_name>0006307179698</picture_name>
-    <price>7.811</price>
-    <price_dds>9.3732</price_dds>
-    <realPrice_BGL>7.0299</realPrice_BGL>
-    <realPrice_BGL_dds>8.43588</realPrice_BGL_dds>
+    <price>7.80713</price>
+    <price_dds>9.368556</price_dds>
+    <realPrice_BGL>7.026417</realPrice_BGL>
+    <realPrice_BGL_dds>8.4317004</realPrice_BGL_dds>
     <kkprice_BGL>9.99167</kkprice_BGL>
     <kkprice_BGL_dds>11.990004</kkprice_BGL_dds>
-    <realPrice>7.0299</realPrice>
+    <realPrice>7.026417</realPrice>
     <small_picture>/poly/image/0006307179698</small_picture>
     <stokaType>1</stokaType>
     <taxCode>96032100</taxCode>
@@ -12084,7 +12082,6 @@
     <articlekindUid>0006303338368</articlekindUid>
     <available>на склад</available>
     <catalog_num>57002_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125570026</ean_barcode>
     <characteristics>
@@ -12134,13 +12131,13 @@
     <model>Beurer MP 84 Premium Manicure/pedicure set, 10 attachments, 3 speed levels, Ergonomic design and bright LED light, Lithium ion battery, with practical charging and storage case</model>
     <name>Комплект за маникюр/педикюр</name>
     <picture_name>0006306214733</picture_name>
-    <price>73.7</price>
-    <price_dds>88.44</price_dds>
-    <realPrice_BGL>66.33</realPrice_BGL>
-    <realPrice_BGL_dds>79.596</realPrice_BGL_dds>
+    <price>73.69879</price>
+    <price_dds>88.438548</price_dds>
+    <realPrice_BGL>66.328911</realPrice_BGL>
+    <realPrice_BGL_dds>79.5946932</realPrice_BGL_dds>
     <kkprice_BGL>91.65833</kkprice_BGL>
     <kkprice_BGL_dds>109.989996</kkprice_BGL_dds>
-    <realPrice>66.33</realPrice>
+    <realPrice>66.328911</realPrice>
     <small_picture>/poly/image/0006306214733</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
