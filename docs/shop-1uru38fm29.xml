@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-08-31T07:57:52Z" count="217" duplicates_skipped="0">
+<products generated_at="2026-09-01T07:04:13Z" count="217" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3550,7 +3550,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64303_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -6951,7 +6951,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>30083_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -9094,7 +9094,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>79106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125791063</ean_barcode>
