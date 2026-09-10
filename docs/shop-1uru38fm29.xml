@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-09T19:44:43Z" count="705" duplicates_skipped="0">
+<products generated_at="2026-09-10T06:54:11Z" count="705" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -287,7 +287,7 @@
     <catalog_num>95308_BEU_79506_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
-    <description>Специална цена. Валидност до 07.09.2026г. или до изчерпване на складовите наличности.</description>
+    <description>Специална цена. Валидност до 30.09.2026г. или до изчерпване на складовите наличности</description>
     <ean_barcode>-</ean_barcode>
     <characteristics>
       <characteristic>
@@ -40873,7 +40873,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кани</articlekind>
     <articlekindUid>0006302419867</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>KO2M0410</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387250508</ean_barcode>
