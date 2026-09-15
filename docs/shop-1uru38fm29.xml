@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-14T07:26:31Z" count="753" duplicates_skipped="0">
+<products generated_at="2026-09-15T07:02:57Z" count="755" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -2129,7 +2129,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>70445_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704452</ean_barcode>
@@ -5709,7 +5709,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
@@ -6647,7 +6647,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
@@ -9064,7 +9064,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>59107_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591076</ean_barcode>
@@ -12366,7 +12366,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>59113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591137</ean_barcode>
@@ -14491,7 +14491,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Маши за коса</articlekind>
     <articlekindUid>0006302420817</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10194_BEU_59107_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -14853,114 +14853,6 @@
     <vendorName>KRUPS</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006302413028?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006302413028</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412450</source_vendor_id>
-    <source_group_id>0006302412370</source_group_id>
-    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412372</source_subgroup_id>
-    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Кафемашини</articlekind>
-    <articlekindUid>0006302209440</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>EA817010</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>0010942223467</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Espresso</description>
-        <name>Кафемашина, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>15 bar</description>
-        <name>Налягане, bar</name>
-      </characteristic>
-      <characteristic>
-        <description>1450 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>1.7 l (Removable)</description>
-        <name>Обем на резервоара, l</name>
-      </characteristic>
-      <characteristic>
-        <description>2 cups</description>
-        <name>Капацитет за чаши</name>
-      </characteristic>
-      <characteristic>
-        <description>Тypes of recipes - Espresso, Silne espresso, Coffee; Programmable automatic shutdown; Setting the coffee temperature - 3 levels</description>
-        <name>Функции</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Устройство за пяна и топла вода</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Система за Капучино</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Подгряване на чашите</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Автоматично почистване</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Capacity 260 g</description>
-        <name>Контейнер за кафе</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, 3 levels</description>
-        <name>Мелачка за кафе</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Резервоар за мляко</name>
-      </characteristic>
-      <characteristic>
-        <description>LED</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>36.5 x 24.5 x 33.0</description>
-        <name>Размери (Ш, Д, В), cm</name>
-      </characteristic>
-      <characteristic>
-        <description>7.2 kg</description>
-        <name>Тегло, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>Compact Thermoblock System</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006302924400</id>
-    <kkprice>314.24197</kkprice>
-    <model>Krups EA817010, Espresso Automat Arabica, espresso machine, 1450W, 15 bar, 1.7l, Black</model>
-    <name>Кафемашина</name>
-    <picture_name>0006302924400</picture_name>
-    <price>284.8379</price>
-    <price_dds>341.80548</price_dds>
-    <realPrice_BGL>256.35411</realPrice_BGL>
-    <realPrice_BGL_dds>307.624932</realPrice_BGL_dds>
-    <kkprice_BGL>314.24197</kkprice_BGL>
-    <kkprice_BGL_dds>377.090364</kkprice_BGL_dds>
-    <realPrice>256.35411</realPrice>
-    <small_picture>/poly/image/0006302924400</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85167100</taxCode>
-    <vendorName>KRUPS</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006302924400?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006302924400</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412450</source_vendor_id>
@@ -22171,6 +22063,89 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>TN1400F1</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3121040054536, 3121040054536</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>-</description>
+        <name>Приставка за брада</name>
+      </characteristic>
+      <characteristic>
+        <description>Stainless steel</description>
+        <name>Материал на ножчетата</name>
+      </characteristic>
+      <characteristic>
+        <description>2 adjustable combs with 9 settings each (3-15 mm, 18-30mm)</description>
+        <name>Гребени</name>
+      </characteristic>
+      <characteristic>
+        <description>3 mm to 30 mm</description>
+        <name>Дължина на подстригване, mm</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>40 min</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Време за работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Работа под течаща вода</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>19</description>
+        <name>Степени на рязане</name>
+      </characteristic>
+      <characteristic>
+        <description>White/Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Rechargeable, corded, charging led, charging stand.</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006303628392</id>
+    <kkprice>24.66667</kkprice>
+    <model>Rowenta TN1400F1, Hair clipper Nomad, new design, 2 adjustable combs with 9 settings each (3-15 mm, 18-30mm), rechargeable, corded, autonomy 40min + main, stainless steel blade, charging led, charging stand</model>
+    <name>Машинка за подстригване</name>
+    <picture_name>0006303628392</picture_name>
+    <price>22.83822</price>
+    <price_dds>27.405864</price_dds>
+    <realPrice_BGL>20.554398</realPrice_BGL>
+    <realPrice_BGL_dds>24.6652776</realPrice_BGL_dds>
+    <kkprice_BGL>24.66667</kkprice_BGL>
+    <kkprice_BGL_dds>29.600004</kkprice_BGL_dds>
+    <realPrice>20.554398</realPrice>
+    <small_picture>/poly/image/0006303628392</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85102000</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006303628392?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006303628392</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412390</source_subgroup_id>
+    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Машинки за подстригване</articlekind>
+    <articlekindUid>0006302420782</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>TN1404F0</catalog_num>
     <currency>EUR</currency>
@@ -22829,7 +22804,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>SF1810F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23429,7 +23404,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>SF411LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -24234,7 +24209,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CV5708F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -24456,7 +24431,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CV887LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -25352,7 +25327,6 @@
     <articlekindUid>0006302441038</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>TN6000F5</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040073476</ean_barcode>
     <characteristics>
@@ -28439,6 +28413,153 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307282196?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307282196</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>RH2037WO</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3221616048010</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Handheld</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>18 V</description>
+        <name>Напрежение, V</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Всмукателна мощност, AW</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>Washable Filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.40 l</description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>83 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>Flexible tube</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Handle</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotative central brush</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>Brush for upholstered furniture; Tip for tight spaces; Easy brush</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 45 min</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>Power regulation</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>4 h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium-ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>28.0 x 25.0 x 114.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Black &amp;amp; purple</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>2.50 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for cleaning cars; Filter reference number - ZR009010; Battery reference	- ZR009704   </description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306182531</id>
+    <kkprice>153.175</kkprice>
+    <model>Rowenta RH2037WO HVC X-FORCE FLEX 9.60 ALLERGY</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006306182531</picture_name>
+    <price>145.56787</price>
+    <price_dds>174.681444</price_dds>
+    <realPrice_BGL>131.011083</realPrice_BGL>
+    <realPrice_BGL_dds>157.2132996</realPrice_BGL_dds>
+    <kkprice_BGL>153.175</kkprice_BGL>
+    <kkprice_BGL_dds>183.81</kkprice_BGL_dds>
+    <realPrice>131.011083</realPrice>
+    <small_picture>/poly/image/0006306182531</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306182531?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306182531</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -35842,7 +35963,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>XD3520E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -36319,7 +36440,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>K1992034</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -38275,7 +38396,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>K2320914</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -44456,6 +44577,73 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Блендери</articlekind>
     <articlekindUid>0006302419961</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>BL5958F0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3016667202715</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>800 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.25 l</description>
+        <name>Полезна вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1.9 l</description>
+        <name>Обща вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>Glass (impact)</description>
+        <name>Материал на купата</name>
+      </characteristic>
+      <characteristic>
+        <description>2 speeds</description>
+        <name>Брой скорости</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Импулсен режим</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Отделение за съхранение на кабела</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307320944</id>
+    <kkprice>62.5</kkprice>
+    <model>Tefal BL5958F0 Bld Bf3 Glass  W/O Acc  Blk Eu</model>
+    <name>Блендер</name>
+    <picture_name>0006307320944</picture_name>
+    <price>58.49448</price>
+    <price_dds>70.193376</price_dds>
+    <realPrice_BGL>52.645032</realPrice_BGL>
+    <realPrice_BGL_dds>63.1740384</realPrice_BGL_dds>
+    <kkprice_BGL>62.5</kkprice_BGL>
+    <kkprice_BGL_dds>75</kkprice_BGL_dds>
+    <realPrice>52.645032</realPrice>
+    <small_picture>/poly/image/0006307320944</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85094000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307320944?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307320944</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412412</source_subgroup_id>
+    <source_subgroup_name>Кухненски уреди</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Блендери</articlekind>
+    <articlekindUid>0006302419961</articlekindUid>
     <available>очаква се</available>
     <catalog_num>BL420838</catalog_num>
     <currency>EUR</currency>
@@ -46654,7 +46842,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Миксери</articlekind>
     <articlekindUid>0006302419790</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>HT310138</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -47245,7 +47433,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Пасатори</articlekind>
     <articlekindUid>0006302420639</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>HB533138</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667242728</ean_barcode>
@@ -48186,7 +48374,6 @@
     <articlekindUid>0006302421151</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>GV9721E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040085189</ean_barcode>
     <characteristics>
@@ -51243,7 +51430,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV9852E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -52641,7 +52828,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>FV2838E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
