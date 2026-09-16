@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-15T07:02:57Z" count="755" duplicates_skipped="0">
+<products generated_at="2026-09-16T07:03:47Z" count="755" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -51334,7 +51334,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FV9844E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -51617,7 +51617,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>FV1711E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040065822</ean_barcode>
@@ -53212,7 +53212,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>FV2839E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
