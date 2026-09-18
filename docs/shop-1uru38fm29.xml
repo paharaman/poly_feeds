@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-17T06:59:50Z" count="755" duplicates_skipped="0">
+<products generated_at="2026-09-18T06:56:32Z" count="757" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -148,11 +148,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за затопляне на храна</articlekind>
     <articlekindUid>0006303338385</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>95402_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125954024</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1 - warms up baby food and keeps it warm</description>
@@ -575,7 +574,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10054_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100544</ean_barcode>
@@ -859,11 +858,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10379_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103798</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Diagnostic (Incl. cross measurement with 8 electrodes for precise monitoring of different areas of the body)</description>
@@ -1780,7 +1778,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10681_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106812</ean_barcode>
@@ -2131,7 +2129,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>70445_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704452</ean_barcode>
@@ -2269,7 +2267,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>73212_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125732127</ean_barcode>
@@ -2340,11 +2338,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>75415_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125754150</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -3189,7 +3186,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
@@ -3260,7 +3257,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10435_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104351</ean_barcode>
@@ -3474,7 +3471,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>64303_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643034</ean_barcode>
@@ -3545,7 +3542,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>64413_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -3679,11 +3676,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4D Neck massager</description>
@@ -3822,7 +3818,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64533_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645335</ean_barcode>
@@ -3964,7 +3960,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10268_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102685</ean_barcode>
@@ -4528,7 +4524,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10027_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100278</ean_barcode>
@@ -5579,11 +5575,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>20041_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200411</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -6652,7 +6647,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
@@ -7458,7 +7453,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10549_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105495</ean_barcode>
@@ -8404,10 +8399,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>79138_BEU</catalog_num>
+    <available>на склад</available>
+    <catalog_num>61045_BEU</catalog_num>
     <currency>EUR</currency>
-    <ean_barcode>4211125791384</ean_barcode>
+    <ean_barcode>4211125610456</ean_barcode>
     <characteristics>
       <characteristic>
         <description>Ovulation (Contact-measurement technology- oral, vaginal)</description>
@@ -8458,11 +8453,11 @@
         <name>Други</name>
       </characteristic>
     </characteristics>
-    <id>0006307155241</id>
+    <id>0006307322492</id>
     <kkprice>11.65833</kkprice>
     <model>Beurer OT 20 BasalControl Basic - Ovulation thermometer; Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Measuring time: Up to 3 minutes</model>
     <name>Термометър</name>
-    <picture_name>0006307155241</picture_name>
+    <picture_name>0006307322492</picture_name>
     <price>9.3</price>
     <price_dds>11.16</price_dds>
     <realPrice_BGL>8.37</realPrice_BGL>
@@ -8470,12 +8465,12 @@
     <kkprice_BGL>11.65833</kkprice_BGL>
     <kkprice_BGL_dds>13.989996</kkprice_BGL_dds>
     <realPrice>8.37</realPrice>
-    <small_picture>/poly/image/0006307155241</small_picture>
+    <small_picture>/poly/image/0006307322492</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90251900</taxCode>
     <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307155241?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307155241</document_url>
+    <picture_url>https://polycomp.bg/poly/image/0006307322492?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307322492</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -8487,11 +8482,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>79106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125791063</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Ovulation (Contact-measurement technology)</description>
@@ -11244,11 +11238,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>57116_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571160</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Manicure/Pedicure</description>
@@ -12373,11 +12366,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>59113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591137</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1600 W</description>
@@ -13019,7 +13011,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10484_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104849</ean_barcode>
@@ -13884,11 +13876,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>57503_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125575038</ean_barcode>
-    <expectedDelivery>20.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>IPL (intense pulsed light) - Up to 1 mil. light pulses</description>
@@ -14295,7 +14286,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10523_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105235</ean_barcode>
@@ -16686,6 +16677,114 @@
     <vendorName>KRUPS</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307282152?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307282152</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412450</source_vendor_id>
+    <source_group_id>0006302412370</source_group_id>
+    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412372</source_subgroup_id>
+    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кафемашини</articlekind>
+    <articlekindUid>0006302209440</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>SA403BE0</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3016661181603</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Automat</description>
+        <name>Кафемашина, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>15 bar</description>
+        <name>Налягане, bar</name>
+      </characteristic>
+      <characteristic>
+        <description>1550 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.8 l (Removable)</description>
+        <name>Обем на резервоара, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1 cup</description>
+        <name>Капацитет за чаши</name>
+      </characteristic>
+      <characteristic>
+        <description>Water volume and temperature, Thermal blocking system, Storage system, Water filtration</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Устройство за пяна и топла вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Система за Капучино</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Подгряване на чашите</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автоматично почистване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Capacity 150 g</description>
+        <name>Контейнер за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Мелачка за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Резервоар за мляко</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Dark Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>15.0 x 29.5 x 36.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>4.00 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Removable drip tray</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307322013</id>
+    <kkprice>299.16667</kkprice>
+    <model>Krups SA403BE0 Crush Experience Lioness</model>
+    <name>Кафеавтомат</name>
+    <picture_name>0006307322013</picture_name>
+    <price>269.41771</price>
+    <price_dds>323.301252</price_dds>
+    <realPrice_BGL>242.475939</realPrice_BGL>
+    <realPrice_BGL_dds>290.9711268</realPrice_BGL_dds>
+    <kkprice_BGL>299.16667</kkprice_BGL>
+    <kkprice_BGL_dds>359.000004</kkprice_BGL_dds>
+    <realPrice>242.475939</realPrice>
+    <small_picture>/poly/image/0006307322013</small_picture>
+    <stokaType>0</stokaType>
+    <taxCode>85167100</taxCode>
+    <vendorName>KRUPS</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307322013?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307322013</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412450</source_vendor_id>
@@ -32707,7 +32806,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RO3725EA</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -47363,7 +47462,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Пасатори</articlekind>
     <articlekindUid>0006302420639</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>HB641138</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661152528</ean_barcode>
@@ -48011,7 +48110,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Чопъри</articlekind>
     <articlekindUid>0006302561106</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>MQ723138</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -50110,7 +50209,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DT2026E1</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -52470,7 +52569,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>FV9845E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -54620,6 +54719,85 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303834709?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303834709</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски роботи</articlekind>
+    <articlekindUid>0006302419919</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>DO8318E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3016667257012</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1000 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>3l</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>2</description>
+        <name>Брой скорости</name>
+      </characteristic>
+      <characteristic>
+        <description>2l</description>
+        <name>Блендер</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Приставка за месене на тесто</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Миксер</name>
+      </characteristic>
+      <characteristic>
+        <description>2 Reversible discs</description>
+        <name>Рендета</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Сокоизтисвачка</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Месомелачка</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>With 7 accessories and 28 functions, Acc: Food Processor Powelix Blades Blender Slicing/shredding disc Kneader Emulsifying disc Mini chopper Storage basket</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321930</id>
+    <kkprice>137.5</kkprice>
+    <model>Tefal DO8318E0 Pro Dble Force 3 Blk Eu</model>
+    <name>Кухненски робот</name>
+    <picture_name>0006307321930</picture_name>
+    <price>127.20779</price>
+    <price_dds>152.649348</price_dds>
+    <realPrice_BGL>114.487011</realPrice_BGL>
+    <realPrice_BGL_dds>137.3844132</realPrice_BGL_dds>
+    <kkprice_BGL>137.5</kkprice_BGL>
+    <kkprice_BGL_dds>165</kkprice_BGL_dds>
+    <realPrice>114.487011</realPrice>
+    <small_picture>/poly/image/0006307321930</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85094000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321930?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321930</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
