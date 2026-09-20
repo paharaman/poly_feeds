@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-19T06:55:16Z" count="757" duplicates_skipped="0">
+<products generated_at="2026-09-20T07:20:09Z" count="757" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -14759,6 +14759,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>0010942218746</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -18193,6 +18194,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380024380</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -18400,6 +18402,7 @@
     <catalog_num>KP1A3AF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -19639,6 +19642,7 @@
     <catalog_num>CF9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040062739</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1000 W</description>
@@ -20930,6 +20934,7 @@
     <catalog_num>EP1110F1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040068229</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>24 Tweezers</description>
@@ -21323,6 +21328,7 @@
     <catalog_num>EP5640D1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>24 Hygenic Stainless Steel Tweezers</description>
@@ -22171,6 +22177,7 @@
     <catalog_num>TN1400F1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040054536, 3121040054536</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>-</description>
@@ -24242,6 +24249,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040076989</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2100 W</description>
@@ -24607,6 +24615,7 @@
     <catalog_num>CV5831F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040079201</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2300 W</description>
@@ -28532,6 +28541,7 @@
     <catalog_num>RH2037WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616048010</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -32932,6 +32942,7 @@
     <catalog_num>RO3726EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616129702</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -34437,6 +34448,7 @@
     <catalog_num>RO3753EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221610133903</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -35186,6 +35198,7 @@
     <catalog_num>IN7021F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040098240</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -35884,6 +35897,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221613011406</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Прахосмукачки</description>
@@ -38444,6 +38458,7 @@
     <catalog_num>K2320514</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430274228</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Paring knife</description>
@@ -39106,6 +39121,7 @@
     <catalog_num>K1224105</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430288393</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Kitchen scissors</description>
@@ -41173,6 +41189,7 @@
     <catalog_num>B5690853</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430316492</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Frying pan</description>
@@ -46464,6 +46481,7 @@
     <catalog_num>NE109838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661151309</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1400 W</description>
@@ -46623,6 +46641,7 @@
     <catalog_num>NE553838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173585</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -51075,6 +51094,7 @@
     <catalog_num>FV5717E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075746</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2500 W</description>
@@ -52663,6 +52683,7 @@
     <catalog_num>DT6130E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040077450</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -53413,6 +53434,7 @@
     <catalog_num>FV5737E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075845</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2500 W</description>
@@ -56326,6 +56348,7 @@
     <catalog_num>VC145130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386378463</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>6l</description>
