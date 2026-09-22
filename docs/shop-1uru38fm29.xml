@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-21T07:30:15Z" count="757" duplicates_skipped="0">
+<products generated_at="2026-09-22T07:09:26Z" count="761" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -14754,12 +14754,11 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>EA810B70</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>0010942218746</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -16048,7 +16047,7 @@
     <available>с поръчка</available>
     <catalog_num>EA898GF0</catalog_num>
     <currency>EUR</currency>
-    <ean_barcode>-</ean_barcode>
+    <ean_barcode>3016661179587</ean_barcode>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -16687,7 +16686,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>SA403BE0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -16784,6 +16783,220 @@
     <vendorName>KRUPS</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307322013?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307322013</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412450</source_vendor_id>
+    <source_group_id>0006302412370</source_group_id>
+    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412372</source_subgroup_id>
+    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кафемашини</articlekind>
+    <articlekindUid>0006302209440</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>EA201BE0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3016661181443</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Automat</description>
+        <name>Кафемашина, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>15 bar</description>
+        <name>Налягане, bar</name>
+      </characteristic>
+      <characteristic>
+        <description>1690 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.5 l (Removable)</description>
+        <name>Обем на резервоара, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1 cup</description>
+        <name>Капацитет за чаши</name>
+      </characteristic>
+      <characteristic>
+        <description>Water volume and temperature, Thermal blocking system, Storage system, Water filtration</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Устройство за пяна и топла вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Система за Капучино</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Подгряване на чашите</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично почистване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Capacity 160 g</description>
+        <name>Контейнер за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Мелачка за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Резервоар за мляко</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>18.5 x 42.5 x 32.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>9.20 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Quattro Force; Height adjustable coffee dispenser; Removable drip tray</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307320867</id>
+    <kkprice>307.5</kkprice>
+    <model>Krups EA201BE0 Esp Fa My Coffee Steam Grey</model>
+    <name>Кафеавтомат</name>
+    <picture_name>0006307320867</picture_name>
+    <price>209.86976</price>
+    <price_dds>251.843712</price_dds>
+    <realPrice_BGL>188.882784</realPrice_BGL>
+    <realPrice_BGL_dds>226.6593408</realPrice_BGL_dds>
+    <kkprice_BGL>307.5</kkprice_BGL>
+    <kkprice_BGL_dds>369</kkprice_BGL_dds>
+    <realPrice>188.882784</realPrice>
+    <small_picture>/poly/image/0006307320867</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167100</taxCode>
+    <vendorName>KRUPS</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307320867?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307320867</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412450</source_vendor_id>
+    <source_group_id>0006302412370</source_group_id>
+    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412372</source_subgroup_id>
+    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кафемашини</articlekind>
+    <articlekindUid>0006302209440</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>EA9138E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3016661184710</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Automat</description>
+        <name>Кафемашина, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>15 bar</description>
+        <name>Налягане, bar</name>
+      </characteristic>
+      <characteristic>
+        <description>1450 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.7 l (Removable)</description>
+        <name>Обем на резервоара, l</name>
+      </characteristic>
+      <characteristic>
+        <description>2 cups</description>
+        <name>Капацитет за чаши</name>
+      </characteristic>
+      <characteristic>
+        <description>Up to 12 built-in recipes, including espresso, long coffee, Americano, iced coffee, and cold brew, water volume and temperature, Thermal blocking system, Storage system, Water filtration</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Устройство за пяна и топла вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Система за Капучино</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Подгряване на чашите</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично почистване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Capacity 260 g</description>
+        <name>Контейнер за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Мелачка за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Резервоар за мляко</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, glass TFT touchscreen display</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>23.5 x 33.0 x 30.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>9.37 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Quattro Force; Height adjustable coffee dispenser; Removable drip tray</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307320888</id>
+    <kkprice>382.5</kkprice>
+    <model>Krups EA9138E0 Sensation Hot&amp;Cold Coffee Blk</model>
+    <name>Кафеавтомат</name>
+    <picture_name>0006307320888</picture_name>
+    <price>333.51655</price>
+    <price_dds>400.21986</price_dds>
+    <realPrice_BGL>300.164895</realPrice_BGL>
+    <realPrice_BGL_dds>360.197874</realPrice_BGL_dds>
+    <kkprice_BGL>382.5</kkprice_BGL>
+    <kkprice_BGL_dds>459</kkprice_BGL_dds>
+    <realPrice>300.164895</realPrice>
+    <small_picture>/poly/image/0006307320888</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167100</taxCode>
+    <vendorName>KRUPS</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307320888?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307320888</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412450</source_vendor_id>
@@ -17766,6 +17979,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380024335</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -17977,7 +18191,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>KP243AF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -18189,12 +18403,11 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>KP1A3110</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380024380</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -18398,11 +18611,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>KP1A3AF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -18918,6 +19130,220 @@
     <vendorName>KRUPS</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307285963?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307285963</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412450</source_vendor_id>
+    <source_group_id>0006302412370</source_group_id>
+    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412372</source_subgroup_id>
+    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кафемашини</articlekind>
+    <articlekindUid>0006302209440</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>KP1433F0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045380447035</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Capsules</description>
+        <name>Кафемашина, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>15 bar</description>
+        <name>Налягане, bar</name>
+      </characteristic>
+      <characteristic>
+        <description>1600 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>0.8 l</description>
+        <name>Обем на резервоара, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1 cup</description>
+        <name>Капацитет за чаши</name>
+      </characteristic>
+      <characteristic>
+        <description>Sleep mode with automatic switch-off after 5 minutes (can be disabled); Hot and cold drinks selection</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Устройство за пяна и топла вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Система за Капучино</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Подгряване на чашите</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автоматично почистване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Контейнер за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Мелачка за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Резервоар за мляко</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Sage Green</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>16.0 x 24.0 x 30.5</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>2.35 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Removable Tank Water Filter; Magnetic capsule holder; Height adjustable shelf for all cups and glass sizes; Hot Chocolate, Espresso, Cappuccino, Latte Macchiato</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307320894</id>
+    <kkprice>69.16667</kkprice>
+    <model>Krups KP1433F0 Ndg Mini Me 2 Sage Eu</model>
+    <name>Кафемашина</name>
+    <picture_name>0006307320894</picture_name>
+    <price>62.76652</price>
+    <price_dds>75.319824</price_dds>
+    <realPrice_BGL>56.489868</realPrice_BGL>
+    <realPrice_BGL_dds>67.7878416</realPrice_BGL_dds>
+    <kkprice_BGL>69.16667</kkprice_BGL>
+    <kkprice_BGL_dds>83.000004</kkprice_BGL_dds>
+    <realPrice>56.489868</realPrice>
+    <small_picture>/poly/image/0006307320894</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167100</taxCode>
+    <vendorName>KRUPS</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307320894?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307320894</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412450</source_vendor_id>
+    <source_group_id>0006302412370</source_group_id>
+    <source_group_name>KRUPS дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412372</source_subgroup_id>
+    <source_subgroup_name>Уреди за кафе</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кафемашини</articlekind>
+    <articlekindUid>0006302209440</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>KP1435F0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045380409262</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Capsules</description>
+        <name>Кафемашина, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>15 bar</description>
+        <name>Налягане, bar</name>
+      </characteristic>
+      <characteristic>
+        <description>1600 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>0.8 l</description>
+        <name>Обем на резервоара, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1 cup</description>
+        <name>Капацитет за чаши</name>
+      </characteristic>
+      <characteristic>
+        <description>Sleep mode with automatic switch-off after 5 minutes (can be disabled); Hot and cold drinks selection</description>
+        <name>Функции</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Устройство за пяна и топла вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Система за Капучино</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Подгряване на чашите</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автоматично почистване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Контейнер за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Мелачка за кафе</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Резервоар за мляко</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Red Brick</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>16.0 x 24.0 x 30.5</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>2.35 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Removable Tank Water Filter; Magnetic capsule holder; Height adjustable shelf for all cups and glass sizes; Hot Chocolate, Espresso, Cappuccino, Latte Macchiato</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307320900</id>
+    <kkprice>69.16667</kkprice>
+    <model>Krups KP1435F0 Ndg Mini Me 2 Red Brick Eu</model>
+    <name>Кафемашина</name>
+    <picture_name>0006307320900</picture_name>
+    <price>62.76652</price>
+    <price_dds>75.319824</price_dds>
+    <realPrice_BGL>56.489868</realPrice_BGL>
+    <realPrice_BGL_dds>67.7878416</realPrice_BGL_dds>
+    <kkprice_BGL>69.16667</kkprice_BGL>
+    <kkprice_BGL_dds>83.000004</kkprice_BGL_dds>
+    <realPrice>56.489868</realPrice>
+    <small_picture>/poly/image/0006307320900</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167100</taxCode>
+    <vendorName>KRUPS</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307320900?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307320900</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412450</source_vendor_id>
@@ -19638,11 +20064,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>CF9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040062739</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1000 W</description>
@@ -20593,7 +21018,6 @@
     <articlekindUid>0006302441140</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>UB9920E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095751</ean_barcode>
     <characteristics>
@@ -20930,11 +21354,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>EP1110F1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040068229</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>24 Tweezers</description>
@@ -21324,11 +21747,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>EP5640D1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>24 Hygenic Stainless Steel Tweezers</description>
@@ -21944,6 +22366,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040084649</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>180° C</description>
@@ -22094,6 +22517,7 @@
     <catalog_num>TN3110E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>-</description>
@@ -22173,11 +22597,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>TN1400F1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040054536, 3121040054536</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>-</description>
@@ -22670,6 +23093,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040063064</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>-</description>
@@ -23260,6 +23684,7 @@
     <catalog_num>SF321LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040084922</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>230° C</description>
@@ -23947,6 +24372,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040078044</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2100 W equivalent 2300W</description>
@@ -24022,6 +24448,7 @@
     <catalog_num>CV581LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040085066</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2100 W equivalent 2300W</description>
@@ -24244,12 +24671,11 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>CV5820F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040076989</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2100 W</description>
@@ -24611,11 +25037,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>CV5831F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040079201</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2300 W</description>
@@ -28537,11 +28962,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>RH2037WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616048010</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -29124,6 +29548,7 @@
     <catalog_num>RH5A32E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616176539</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -29700,7 +30125,6 @@
     <articlekindUid>0006302021254</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>RH9BC1WO</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221616128637</ean_barcode>
     <characteristics>
@@ -32938,11 +33362,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>RO3726EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616129702</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -33185,7 +33608,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RO2910EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614007255</ean_barcode>
@@ -34444,11 +34867,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>RO3753EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221610133903</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -35194,11 +35616,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>IN7021F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040098240</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -35892,12 +36313,11 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>WB484740</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221613011406</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Прахосмукачки</description>
@@ -35939,7 +36359,6 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>ZR200540</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221613016203, 3221613016203</ean_barcode>
     <characteristics>
@@ -37548,7 +37967,6 @@
     <articlekindUid>0006302418414</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>N1041010</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4168430012294</ean_barcode>
     <characteristics>
@@ -38454,11 +38872,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>K2320514</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430274228</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Paring knife</description>
@@ -39117,11 +39534,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>K1224105</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430288393</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Kitchen scissors</description>
@@ -39185,6 +39601,7 @@
     <catalog_num>2744712</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081260</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Potato masher</description>
@@ -39606,6 +40023,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168430081246</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Ladle</description>
@@ -40022,6 +40440,7 @@
     <catalog_num>2744912</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081277, 3168430081277</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Pancake spatula</description>
@@ -40124,6 +40543,7 @@
     <catalog_num>2743712</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081215, 3168430081215</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Slotted spatula</description>
@@ -40175,6 +40595,7 @@
     <catalog_num>2745312</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081291</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Tongs</description>
@@ -41185,11 +41606,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>B5690853</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430316492</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Frying pan</description>
@@ -43343,6 +43763,7 @@
     <catalog_num>B5690453</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430316478</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Grillpan</description>
@@ -43699,6 +44120,7 @@
     <catalog_num>J5547302</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430254244</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Tray</description>
@@ -44696,7 +45118,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Блендери</articlekind>
     <articlekindUid>0006302419961</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>BL5958F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667202715</ean_barcode>
@@ -44767,6 +45189,7 @@
     <catalog_num>BL420838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661151361</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>600 W</description>
@@ -46271,6 +46694,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380021006</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>200 W</description>
@@ -46477,11 +46901,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Месомелачки</articlekind>
     <articlekindUid>0006302560982</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>NE109838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661151309</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1400 W</description>
@@ -46637,11 +47060,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Месомелачки</articlekind>
     <articlekindUid>0006302560982</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>NE553838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173585</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -47039,6 +47461,7 @@
     <catalog_num>HT450B38</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667242315</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>450 W</description>
@@ -47181,6 +47604,7 @@
     <catalog_num>HT310838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661149078, 3016661149078</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>300 W</description>
@@ -47408,6 +47832,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016667291733</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1000 W</description>
@@ -48129,7 +48554,6 @@
     <articlekindUid>0006302561106</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>MQ723138</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380013940</ean_barcode>
     <characteristics>
@@ -49032,7 +49456,6 @@
     <articlekindUid>0006302421151</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>GV9910E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095638</ean_barcode>
     <characteristics>
@@ -49114,13 +49537,13 @@
     <model>Tefal GV9910E0 Pro Express Vision Max, color Blue Dune</model>
     <name>Парогенератор</name>
     <picture_name>0006307254859</picture_name>
-    <price>353.20789</price>
-    <price_dds>423.849468</price_dds>
-    <realPrice_BGL>317.887101</realPrice_BGL>
-    <realPrice_BGL_dds>381.4645212</realPrice_BGL_dds>
+    <price>353.20791</price>
+    <price_dds>423.849492</price_dds>
+    <realPrice_BGL>317.887119</realPrice_BGL>
+    <realPrice_BGL_dds>381.4645428</realPrice_BGL_dds>
     <kkprice_BGL>385.5</kkprice_BGL>
     <kkprice_BGL_dds>462.6</kkprice_BGL_dds>
-    <realPrice>317.887101</realPrice>
+    <realPrice>317.887119</realPrice>
     <small_picture>/poly/image/0006307254859</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85164000</taxCode>
@@ -50539,7 +50962,6 @@
     <articlekindUid>0006302573679</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>DT2025F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095560</ean_barcode>
     <characteristics>
@@ -51090,11 +51512,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>FV5717E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075746</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2500 W</description>
@@ -52206,7 +52627,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV2C41E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -52592,6 +53013,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040069271</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>3200 W</description>
@@ -52679,11 +53101,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>DT6130E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040077450</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -52867,6 +53288,7 @@
     <catalog_num>JF4032E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040092194</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1700 W</description>
@@ -52950,7 +53372,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>FV2838E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -53339,6 +53761,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2400 W</description>
@@ -53430,11 +53853,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>FV5737E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075845</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2500 W</description>
@@ -54103,6 +54525,7 @@
     <catalog_num>GC270D10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380026377</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -54421,6 +54844,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168437249670</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2100 W</description>
@@ -54750,7 +55174,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски роботи</articlekind>
     <articlekindUid>0006302419919</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>DO8318E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667257012</ean_barcode>
@@ -54925,6 +55349,7 @@
     <catalog_num>CY851130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386381869, 3045386381869</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1600 W</description>
@@ -55709,6 +56134,7 @@
     <catalog_num>SM155212</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430114074</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>700 W</description>
@@ -56344,11 +56770,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за готвене на пара</articlekind>
     <articlekindUid>0006302420860</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>VC145130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386378463</ean_barcode>
-    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>6l</description>
@@ -58898,6 +59323,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045385783411, 3045385783411</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>720 W</description>
@@ -59136,6 +59562,7 @@
     <catalog_num>PF611838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385782988</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1600 W</description>
@@ -59506,6 +59933,7 @@
     <catalog_num>PP1903V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095430</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -59578,6 +60006,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095423</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -59650,6 +60079,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040082355</ean_barcode>
+    <expectedDelivery>23.09.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
