@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-09-23T07:07:37Z" count="762" duplicates_skipped="0">
+<products generated_at="2026-09-24T07:01:53Z" count="772" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -1990,7 +1990,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>70415_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704155</ean_barcode>
@@ -5707,7 +5707,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
@@ -6444,7 +6444,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
@@ -9382,7 +9382,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10492_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -9458,7 +9458,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10492_BEU_10156_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -9535,7 +9535,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10492_BEU_10158_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -10944,7 +10944,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>58410_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125584108</ean_barcode>
@@ -17866,7 +17866,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>KP340810</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -24438,7 +24438,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CV581LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040085066</ean_barcode>
@@ -25030,7 +25030,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CV5831F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040079201</ean_barcode>
@@ -29537,7 +29537,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>RH5A32E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616176539</ean_barcode>
@@ -32156,7 +32156,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RO7C32EA</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -32982,7 +32982,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>RO3786EA</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -35113,7 +35113,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH6735WH</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -39585,7 +39585,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>K1224105</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430288393</ean_barcode>
@@ -39878,7 +39878,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Термочаши</articlekind>
     <articlekindUid>0006303903870</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>N2160310</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -40926,6 +40926,65 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306143689?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306143689</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412408</source_subgroup_id>
+    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Съдове за готвене</articlekind>
+    <articlekindUid>0006302418156</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>L8049502</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430383074</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Saucepan set</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>1 x Frying Pan- 22 cm, 1 x Frying pan- 26 cm, 1 x Saucepan- 16 cm, 1 x Saucepan- 18 cm, Compatible Ingenio handle</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>The saucepans are suitable for the use of an oven</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for hob types: Gas, electric, induction, glass ceramics, oven</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Aluminum</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Dishwasher safe.</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307322085</id>
+    <kkprice>221.65833</kkprice>
+    <model>Tefal L8049502 Set 5Pcs Ing6 Harmony Eucal Fr</model>
+    <name>Комплект тигани и тенджери</name>
+    <picture_name>0006307322085</picture_name>
+    <price>91.46718</price>
+    <price_dds>109.760616</price_dds>
+    <realPrice_BGL>82.320462</realPrice_BGL>
+    <realPrice_BGL_dds>98.7845544</realPrice_BGL_dds>
+    <kkprice_BGL>221.65833</kkprice_BGL>
+    <kkprice_BGL_dds>265.989996</kkprice_BGL_dds>
+    <realPrice>82.320462</realPrice>
+    <small_picture>/poly/image/0006307322085</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>73239300</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307322085?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307322085</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
@@ -46447,6 +46506,124 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кани</articlekind>
     <articlekindUid>0006302419867</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>KO2G08E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045387210120</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>2000 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.7 l</description>
+        <name>Вместимост, l</name>
+      </characteristic>
+      <characteristic>
+        <description>Limescale Filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Heat-resistant glass, 360° swivel base, External water level indicator, Anti-scale filter, Cord storage</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307322057</id>
+    <kkprice>34.58333</kkprice>
+    <model>Tefal KO2G08E0 Ket Morning Glass  Blk Knight</model>
+    <name>Електрическа кана</name>
+    <picture_name>0006307322057</picture_name>
+    <price>32.71173</price>
+    <price_dds>39.254076</price_dds>
+    <realPrice_BGL>29.440557</realPrice_BGL>
+    <realPrice_BGL_dds>35.3286684</realPrice_BGL_dds>
+    <kkprice_BGL>34.58333</kkprice_BGL>
+    <kkprice_BGL_dds>41.499996</kkprice_BGL_dds>
+    <realPrice>29.440557</realPrice>
+    <small_picture>/poly/image/0006307322057</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307322057?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307322057</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412412</source_subgroup_id>
+    <source_subgroup_name>Кухненски уреди</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кани</articlekind>
+    <articlekindUid>0006302419867</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>KO2M0810</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045387290207</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>2400 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>1.7 l</description>
+        <name>Вместимост, l</name>
+      </characteristic>
+      <characteristic>
+        <description>Limescale Filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Window for monitoring the water level; Automatic  lid opening;  Automatic start / stop button with indicator light; Without cable, rotating on 360 ° base.</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307322075</id>
+    <kkprice>29.78333</kkprice>
+    <model>Tefal KO2M0810 Ket Morning Black Knight Eu</model>
+    <name>Електрическа кана</name>
+    <picture_name>0006307322075</picture_name>
+    <price>19.86256</price>
+    <price_dds>23.835072</price_dds>
+    <realPrice_BGL>17.876304</realPrice_BGL>
+    <realPrice_BGL_dds>21.4515648</realPrice_BGL_dds>
+    <kkprice_BGL>29.78333</kkprice_BGL>
+    <kkprice_BGL_dds>35.739996</kkprice_BGL_dds>
+    <realPrice>17.876304</realPrice>
+    <small_picture>/poly/image/0006307322075</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307322075?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307322075</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412412</source_subgroup_id>
+    <source_subgroup_name>Кухненски уреди</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кани</articlekind>
+    <articlekindUid>0006302419867</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>KO5S0DE0</catalog_num>
     <currency>EUR</currency>
@@ -46502,7 +46679,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кани</articlekind>
     <articlekindUid>0006302419867</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>KI772D38</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -50688,7 +50865,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DT2026E1</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -51091,6 +51268,212 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307282088?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307282088</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412414</source_subgroup_id>
+    <source_subgroup_name>Уреди за гладене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за гладене с пара</articlekind>
+    <articlekindUid>0006302573679</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>DT2050F0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3121040099308</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1300 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 20g/min</description>
+        <name>Регулираща се пара, g/min</name>
+      </characteristic>
+      <characteristic>
+        <description>15 sec</description>
+        <name>Време за загряване, s</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дезинфекциране</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автономност, min</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Вградена закачалка</name>
+      </characteristic>
+      <characteristic>
+        <description>0.120 l</description>
+        <name>Вместимост на резервоара за вода, l</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Анти-калциева система</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Индикатор за готовност на парата</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Настройка на парата</name>
+      </characteristic>
+      <characteristic>
+        <description>Plastic</description>
+        <name>Материал на парната глава</name>
+      </characteristic>
+      <characteristic>
+        <description>Storage bag, Revertible pad</description>
+        <name>Аксесоари</name>
+      </characteristic>
+      <characteristic>
+        <description>2.0 m</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Отделение за съхранение на кабела</name>
+      </characteristic>
+      <characteristic>
+        <description>Green</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Up to 8 minutes on a single tank fill, Hair removal, Innovative double-sided pad system</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321513</id>
+    <kkprice>45.83333</kkprice>
+    <model>Tefal DT2050F0 Steambrush Pure Pop Glam</model>
+    <name>Уред за гладене с пара</name>
+    <picture_name>0006307321513</picture_name>
+    <price>39.7482</price>
+    <price_dds>47.69784</price_dds>
+    <realPrice_BGL>35.77338</realPrice_BGL>
+    <realPrice_BGL_dds>42.928056</realPrice_BGL_dds>
+    <kkprice_BGL>45.83333</kkprice_BGL>
+    <kkprice_BGL_dds>54.999996</kkprice_BGL_dds>
+    <realPrice>35.77338</realPrice>
+    <small_picture>/poly/image/0006307321513</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85164000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321513?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321513</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412414</source_subgroup_id>
+    <source_subgroup_name>Уреди за гладене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за гладене с пара</articlekind>
+    <articlekindUid>0006302573679</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>DT9920F0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3121040097885</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1400 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 20g/min</description>
+        <name>Регулираща се пара, g/min</name>
+      </characteristic>
+      <characteristic>
+        <description>30 sec</description>
+        <name>Време за загряване, s</name>
+      </characteristic>
+      <characteristic>
+        <description>Eliminates up to 99.99% of bacteria, viruses, and germs, Odor removal</description>
+        <name>Дезинфекциране</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 16 min. of continuous operation on a single tank fill</description>
+        <name>Автономност, min</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Вградена закачалка</name>
+      </characteristic>
+      <characteristic>
+        <description>0.200 l</description>
+        <name>Вместимост на резервоара за вода, l</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Анти-калциева система</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Индикатор за готовност на парата</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Настройка на парата</name>
+      </characteristic>
+      <characteristic>
+        <description>Plastic</description>
+        <name>Материал на парната глава</name>
+      </characteristic>
+      <characteristic>
+        <description>Door hook, Hanging board</description>
+        <name>Аксесоари</name>
+      </characteristic>
+      <characteristic>
+        <description>2.4 m</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Отделение за съхранение на кабела</name>
+      </characteristic>
+      <characteristic>
+        <description>Blue</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>OptiFlow Technology- Powerful steam with suction power of up to 3600 Pa and 360° suction coverage around the V-shaped heated pad.</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321633</id>
+    <kkprice>120.83333</kkprice>
+    <model>Tefal DT9920F0 Handheld Aerosteam Elite 920</model>
+    <name>Уред за гладене с пара</name>
+    <picture_name>0006307321633</picture_name>
+    <price>110.0203</price>
+    <price_dds>132.02436</price_dds>
+    <realPrice_BGL>99.01827</realPrice_BGL>
+    <realPrice_BGL_dds>118.821924</realPrice_BGL_dds>
+    <kkprice_BGL>120.83333</kkprice_BGL>
+    <kkprice_BGL_dds>144.999996</kkprice_BGL_dds>
+    <realPrice>99.01827</realPrice>
+    <small_picture>/poly/image/0006307321633</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85164000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321633?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321633</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
@@ -52380,7 +52763,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV2837E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -52476,7 +52859,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV2835E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040082201</ean_barcode>
@@ -54269,6 +54652,101 @@
     <source_subgroup_name>Уреди за гладене</source_subgroup_name>
     <articleMainkind>Уреди за дома</articleMainkind>
     <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Ютии</articlekind>
+    <articlekindUid>0006302419835</articlekindUid>
+    <available>oграничено количество</available>
+    <catalog_num>FV9E50E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3121040089040</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>3200 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>85 g/min</description>
+        <name>Регулираща се пара, g/min</name>
+      </characteristic>
+      <characteristic>
+        <description>300 g/min</description>
+        <name>Ударна пара, g/min</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Вертикална пара</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Пулверизатор</name>
+      </characteristic>
+      <characteristic>
+        <description>Durilium AirGlide Autoclean</description>
+        <name>Покритие на плочaта</name>
+      </characteristic>
+      <characteristic>
+        <description>0.350 l</description>
+        <name>Вместимост на резервоара за вода, l</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Micro Calc Filter and Calc Clean</description>
+        <name>Система за самопочистване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Анти-капкова система</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Анти-калциева система</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, after 30 seconds</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Еко режим</name>
+      </characteristic>
+      <characteristic>
+        <description>2.0 m</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Black&amp;amp;Rose Gold</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Micro Calc Filter, Anti scale system; Anti-Drip system</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321680</id>
+    <kkprice>150.5</kkprice>
+    <model>Tefal FV9E50E0 Steam Iron Ultimate Power Pro</model>
+    <name>Ютия</name>
+    <picture_name>0006307321680</picture_name>
+    <price>140.87685</price>
+    <price_dds>169.05222</price_dds>
+    <realPrice_BGL>126.789165</realPrice_BGL>
+    <realPrice_BGL_dds>152.146998</realPrice_BGL_dds>
+    <kkprice_BGL>150.5</kkprice_BGL>
+    <kkprice_BGL_dds>180.6</kkprice_BGL_dds>
+    <realPrice>126.789165</realPrice>
+    <small_picture>/poly/image/0006307321680</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85164000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321680?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321680</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412414</source_subgroup_id>
+    <source_subgroup_name>Уреди за гладене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
@@ -54938,7 +55416,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Барбекюта - електрически</articlekind>
     <articlekindUid>0006302560974</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>GC750D30</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -56163,7 +56641,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Сандвич мейкъри</articlekind>
     <articlekindUid>0006302560889</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>SM155212</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430114074</ean_barcode>
@@ -58025,6 +58503,338 @@
     <source_subgroup_name>Уреди за готвене</source_subgroup_name>
     <articleMainkind>Уреди за дома</articleMainkind>
     <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за здравословно готвене</articlekind>
+    <articlekindUid>0006303765245</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>EY2452E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1500 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>5.0 l for six dishes</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1.0 kg</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, up to 60 minutes</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Подвижна купа</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Технология Actifry</name>
+      </characteristic>
+      <characteristic>
+        <description>33.5 x 33.0 x 41.0 cm</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>5.90 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Yellow</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>10 automatic programs: French Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp and Bacon; temperature setting 80 - 200 °C; drying function; Recipe book included</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321649</id>
+    <kkprice>83.25</kkprice>
+    <model>Tefal EY2452E0 Fry Easy Fry Pop 5L Yellow Eu</model>
+    <name>Уред за здравословно готвене</name>
+    <picture_name>0006307321649</picture_name>
+    <price>75.76771</price>
+    <price_dds>90.921252</price_dds>
+    <realPrice_BGL>68.190939</realPrice_BGL>
+    <realPrice_BGL_dds>81.8291268</realPrice_BGL_dds>
+    <kkprice_BGL>83.25</kkprice_BGL>
+    <kkprice_BGL_dds>99.9</kkprice_BGL_dds>
+    <realPrice>68.190939</realPrice>
+    <small_picture>/poly/image/0006307321649</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321649?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321649</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за здравословно готвене</articlekind>
+    <articlekindUid>0006303765245</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>EY2454E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1500 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>5.0 l for six dishes</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1.0 kg</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, up to 60 minutes</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Подвижна купа</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Технология Actifry</name>
+      </characteristic>
+      <characteristic>
+        <description>33.5 x 33.0 x 41.0 cm</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>5.90 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Eucalyptus</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>10 automatic programs: French Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp and Bacon; temperature setting 80 - 200 °C; drying function; Recipe book included</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321656</id>
+    <kkprice>83.25</kkprice>
+    <model>Tefal EY2454E0 Fry Easy Fry Pop 5L Eucalyptus</model>
+    <name>Уред за здравословно готвене</name>
+    <picture_name>0006307321656</picture_name>
+    <price>75.76771</price>
+    <price_dds>90.921252</price_dds>
+    <realPrice_BGL>68.190939</realPrice_BGL>
+    <realPrice_BGL_dds>81.8291268</realPrice_BGL_dds>
+    <kkprice_BGL>83.25</kkprice_BGL>
+    <kkprice_BGL_dds>99.9</kkprice_BGL_dds>
+    <realPrice>68.190939</realPrice>
+    <small_picture>/poly/image/0006307321656</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321656?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321656</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за здравословно готвене</articlekind>
+    <articlekindUid>0006303765245</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>EY9278E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045380407220</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>2700 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>5.5 l+ 3.5 l for eight dishes</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>1.7 kg</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Individual timers for both zones</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Подвижна купа</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Технология Actifry</name>
+      </characteristic>
+      <characteristic>
+        <description>47.4 x 36.4 x 30.7 cm</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>7.70 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>7 cooking modes: potatoes, chicken, vegetables, fish, dessert, dough proofing, and manual mode.; temperature setting 40 - 200 °C; drying function; Recipe book included</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321663</id>
+    <kkprice>199.16667</kkprice>
+    <model>Tefal EY9278E0 Flex Easy Fry Infrared Blk Eu</model>
+    <name>Уред за здравословно готвене</name>
+    <picture_name>0006307321663</picture_name>
+    <price>173.60731</price>
+    <price_dds>208.328772</price_dds>
+    <realPrice_BGL>156.246579</realPrice_BGL>
+    <realPrice_BGL_dds>187.4958948</realPrice_BGL_dds>
+    <kkprice_BGL>199.16667</kkprice_BGL>
+    <kkprice_BGL_dds>239.000004</kkprice_BGL_dds>
+    <realPrice>156.246579</realPrice>
+    <small_picture>/poly/image/0006307321663</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321663?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321663</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за здравословно готвене</articlekind>
+    <articlekindUid>0006303765245</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>EY9478E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>-</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>2700 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>6.5 l+ 4.5 l for eight dishes</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>3.0 kg</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Individual timers for both zones</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Подвижна купа</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Технология Actifry</name>
+      </characteristic>
+      <characteristic>
+        <description>47.4 x 36.4 x 30.7 cm</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>9.00 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>7 cooking modes: potatoes, chicken, vegetables, fish, dessert, dough proofing, and dehydrate.; temperature setting 40 - 200 °C; drying function; Recipe book included</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307321670</id>
+    <kkprice>190.83333</kkprice>
+    <model>Tefal EY9478E0 Xxl Dual Easy Fry Ir Blk Eu</model>
+    <name>Уред за здравословно готвене</name>
+    <picture_name>0006307321670</picture_name>
+    <price>169.84473</price>
+    <price_dds>203.813676</price_dds>
+    <realPrice_BGL>152.860257</realPrice_BGL>
+    <realPrice_BGL_dds>183.4323084</realPrice_BGL_dds>
+    <kkprice_BGL>190.83333</kkprice_BGL>
+    <kkprice_BGL_dds>228.999996</kkprice_BGL_dds>
+    <realPrice>152.860257</realPrice>
+    <small_picture>/poly/image/0006307321670</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307321670?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307321670</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мини фурни</articlekind>
     <articlekindUid>0006302798966</articlekindUid>
     <available>с поръчка</available>
@@ -58542,7 +59352,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Фритюрници</articlekind>
     <articlekindUid>0006302420737</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FF203130</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -59510,7 +60320,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Хлебопекарни</articlekind>
     <articlekindUid>0006302419748</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>PF610138</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385782995</ean_barcode>
@@ -60375,7 +61185,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>BM9620S1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040084298</ean_barcode>
