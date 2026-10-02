@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-01T08:08:09Z" count="766" duplicates_skipped="0">
+<products generated_at="2026-10-02T07:49:30Z" count="773" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -8548,7 +8548,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10522_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105228</ean_barcode>
@@ -13426,7 +13426,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10523_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105235</ean_barcode>
@@ -16174,7 +16174,6 @@
     <articlekindUid>0006302209440</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>XP499EE0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661180293</ean_barcode>
     <characteristics>
@@ -16282,7 +16281,6 @@
     <articlekindUid>0006302209440</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>XP381810</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661177880</ean_barcode>
     <characteristics>
@@ -17355,7 +17353,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>KP1A3B10</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -22141,7 +22139,6 @@
     <articlekindUid>0006302420782</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>TN1601F1</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040063064</ean_barcode>
     <characteristics>
@@ -22378,6 +22375,86 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303859870?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303859870</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412390</source_subgroup_id>
+    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Машинки за подстригване</articlekind>
+    <articlekindUid>0006302420782</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>TN9444E0</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3121040092859</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>hair + beard + body + ear &amp;amp; nose</description>
+        <name>Приставка за брада</name>
+      </characteristic>
+      <characteristic>
+        <description>Stainless steel</description>
+        <name>Материал на ножчетата</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, 6 fix combs and 3 adjustable combs</description>
+        <name>Гребени</name>
+      </characteristic>
+      <characteristic>
+        <description>minimum cutting length 0.5mm, hair blade 42mm, 6 fix hair combs, hair cutting lengths 3, 6, 9, 12, 15, 18mm, beard blade 32mm, 3 fix beard combs</description>
+        <name>Дължина на подстригване, mm</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>90 min.</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 120 min.</description>
+        <name>Време за работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа под течаща вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>15</description>
+        <name>Степени на рязане</name>
+      </characteristic>
+      <characteristic>
+        <description>Black &amp;amp; Green</description>
+        <name>Цвят</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307024098</id>
+    <kkprice>59.64646</kkprice>
+    <model>Rowenta TN9444E0 Multigroomer 15 in 1</model>
+    <name>Машинка за подстригване</name>
+    <picture_name>0006307024098</picture_name>
+    <price>55.38376</price>
+    <price_dds>66.460512</price_dds>
+    <realPrice_BGL>49.845384</realPrice_BGL>
+    <realPrice_BGL_dds>59.8144608</realPrice_BGL_dds>
+    <kkprice_BGL>59.64646</kkprice_BGL>
+    <kkprice_BGL_dds>71.575752</kkprice_BGL_dds>
+    <realPrice>49.845384</realPrice>
+    <small_picture>/poly/image/0006307024098</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85102000</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307024098?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307024098</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -24529,7 +24606,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CV5940F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040080641</ean_barcode>
     <characteristics>
@@ -24668,6 +24744,82 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306154585?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306154585</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412390</source_subgroup_id>
+    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Сешоари</articlekind>
+    <articlekindUid>0006302417788</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>HY7120E0</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3121040094709</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1600 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>3</description>
+        <name>Степени на температура</name>
+      </characteristic>
+      <characteristic>
+        <description>2</description>
+        <name>Скорости</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Йонизираща функция</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Функция студен въздух</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Концентратор на въздух</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дифузер за обем</name>
+      </characteristic>
+      <characteristic>
+        <description>1.8 m</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Green&amp;amp;Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Hanging loop</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307174979</id>
+    <kkprice>64.91667</kkprice>
+    <model>Rowenta HY7120E0 Bldc Promo Tiny Hair Dryer</model>
+    <name>Сешоар</name>
+    <picture_name>0006307174979</picture_name>
+    <price>59.41462</price>
+    <price_dds>71.297544</price_dds>
+    <realPrice_BGL>53.473158</realPrice_BGL>
+    <realPrice_BGL_dds>64.1677896</realPrice_BGL_dds>
+    <kkprice_BGL>64.91667</kkprice_BGL>
+    <kkprice_BGL_dds>77.900004</kkprice_BGL_dds>
+    <realPrice>53.473158</realPrice>
+    <small_picture>/poly/image/0006307174979</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85163100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307174979?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307174979</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -25717,7 +25869,6 @@
     <articlekindUid>0006302419835</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>DW5310D1</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4210101974735</ean_barcode>
     <characteristics>
@@ -25952,7 +26103,6 @@
     <articlekindUid>0006302920330</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>RY6555WH</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221614001963</ean_barcode>
     <characteristics>
@@ -27198,6 +27348,301 @@
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
     <available>на склад</available>
+    <catalog_num>RH98A7WO</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3221616048584</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Handheld</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>320 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>25.2 V</description>
+        <name>Напрежение, V</name>
+      </characteristic>
+      <characteristic>
+        <description>150 AW</description>
+        <name>Всмукателна мощност, AW</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>EasyWash Filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.90 l</description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>79 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>Flexible tube</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Handle</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotative central brush</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>Mini Animal Turbo-Brush, 2-?-1 Easy Brush, Upholstery brush, Crevice tool</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 45 min (Eco mode)</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>Power regulation, 4 power levels- Eco, Auto, Max, Boost</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>3 h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>25.5 x 12.0 x 125.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>3.00 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>LED lighting system; Smart Control Display; Stop &amp;amp; Go; Accessories included: Charging stand, 2 additional Easy Brush brushes - 1 for the mini flexible accessory, 1 for the charging station tube</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307174891</id>
+    <kkprice>425.49167</kkprice>
+    <model>Rowenta RH98A7WO X-Force Flex 12.60 Animal Care</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006307174891</picture_name>
+    <price>201.31053</price>
+    <price_dds>241.572636</price_dds>
+    <realPrice_BGL>181.179477</realPrice_BGL>
+    <realPrice_BGL_dds>217.4153724</realPrice_BGL_dds>
+    <kkprice_BGL>425.49167</kkprice_BGL>
+    <kkprice_BGL_dds>510.590004</kkprice_BGL_dds>
+    <realPrice>181.179477</realPrice>
+    <small_picture>/poly/image/0006307174891</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307174891?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307174891</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>GZ2251E0</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3221616161313</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Handheld</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry/Wet</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>120 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>18.0 V</description>
+        <name>Напрежение, V</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Всмукателна мощност, AW</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>Washable Hepa filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.73 l </description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>79 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Automatic (smart) and manual</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotating microfiber roller</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>1 piece of microfiber roller</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 35 min (ECO mode)</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>2 main operating levels: Eco Mode, Max Mode</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>4.5 h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>21.0 x 28.0 x 115.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>1.20 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Vacuuming and mopping at the same time</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307174898</id>
+    <kkprice>224.91667</kkprice>
+    <model>Rowenta GZ2251E0 Handstick Wet &amp; Dry X-Clean 2</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006307174898</picture_name>
+    <price>205.48</price>
+    <price_dds>246.576</price_dds>
+    <realPrice_BGL>184.932</realPrice_BGL>
+    <realPrice_BGL_dds>221.9184</realPrice_BGL_dds>
+    <kkprice_BGL>224.91667</kkprice_BGL>
+    <kkprice_BGL_dds>269.900004</kkprice_BGL_dds>
+    <realPrice>184.932</realPrice>
+    <small_picture>/poly/image/0006307174898</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307174898?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307174898</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>на склад</available>
     <catalog_num>RH9A73WO</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -27926,7 +28371,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>RH20C4WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616093850</ean_barcode>
@@ -31704,6 +32149,142 @@
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
     <available>на склад</available>
+    <catalog_num>RR87C5WH</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3221616143661</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Robot</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry/Wet</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>High efficiency filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.30 l; Water tank capacity - 0.29 l; Dust tank capacity - 0.26 l; 3 mops included (1 Standard mop,1 Animal Scrub mop,1 Fluffy mop)</description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>74 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Handle</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotating central brush</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>2 standard gray mops</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>270 min</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>4 power levels: Eco, Standart, High, Max/Boost</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>4 h; Self charging with charging station</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>32.5 x 32.5 x 9.7</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>3.30 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Vacuuming and mopping at the same time; Wifi connectivity</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307210746</id>
+    <kkprice>285.075</kkprice>
+    <model>Rowenta RR87C5WH X-Plorer Serie 85 Charging Stat</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006307210746</picture_name>
+    <price>268.0885</price>
+    <price_dds>321.7062</price_dds>
+    <realPrice_BGL>241.27965</realPrice_BGL>
+    <realPrice_BGL_dds>289.53558</realPrice_BGL_dds>
+    <kkprice_BGL>285.075</kkprice_BGL>
+    <kkprice_BGL_dds>342.09</kkprice_BGL_dds>
+    <realPrice>241.27965</realPrice>
+    <small_picture>/poly/image/0006307210746</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307210746?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307210746</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>на склад</available>
     <catalog_num>RH6543WH</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -33873,7 +34454,6 @@
     <articlekindUid>0006302021254</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>RO4B75EA</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221616093140</ean_barcode>
     <characteristics>
@@ -33967,7 +34547,7 @@
       </characteristic>
     </characteristics>
     <id>0006306039305</id>
-    <kkprice>116.66667</kkprice>
+    <kkprice>114.91667</kkprice>
     <model>Rowenta RO4B75EA Compact Power XXL, Black, 900W, 2.5L, 75 dB, 2in1 crevice, parquet, upholstery, mini turbo, precizion flex crevice</model>
     <name>Прахосмукачка</name>
     <picture_name>0006306039305</picture_name>
@@ -33975,8 +34555,8 @@
     <price_dds>137.555928</price_dds>
     <realPrice_BGL>103.166946</realPrice_BGL>
     <realPrice_BGL_dds>123.8003352</realPrice_BGL_dds>
-    <kkprice_BGL>116.66667</kkprice_BGL>
-    <kkprice_BGL_dds>140.000004</kkprice_BGL_dds>
+    <kkprice_BGL>114.91667</kkprice_BGL>
+    <kkprice_BGL_dds>137.900004</kkprice_BGL_dds>
     <realPrice>103.166946</realPrice>
     <small_picture>/poly/image/0006306039305</small_picture>
     <stokaType>1</stokaType>
@@ -35049,7 +35629,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Вентилаторни печки</articlekind>
     <articlekindUid>0006302561932</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>SO2330F2</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040056356</ean_barcode>
@@ -36225,7 +36805,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>K1992034</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -36277,7 +36857,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>K1994034</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -37405,7 +37985,6 @@
     <articlekindUid>0006302418414</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>N1210710</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4168430015370</ean_barcode>
     <characteristics>
@@ -37469,7 +38048,6 @@
     <articlekindUid>0006302418414</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>N1211310</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4168430015431</ean_barcode>
     <characteristics>
@@ -37533,7 +38111,6 @@
     <articlekindUid>0006302418414</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>N1211010</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4168430015400</ean_barcode>
     <characteristics>
@@ -40238,6 +40815,65 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306143689?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306143689</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412408</source_subgroup_id>
+    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Съдове за готвене</articlekind>
+    <articlekindUid>0006302418156</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>L897S374</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430338524</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Saucepan set</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>1 x Removable handle with 3-point safety system and supports weight up to 10 kg, 1 x Frying pan- 28 cm, 1 x Frying pan- 24 cm</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>The saucepans are suitable for the use of an oven</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for hob types: Gas, Electric, Halogen, Glass ceramics</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Aluminum</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Dishwasher safe.</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306158984</id>
+    <kkprice>59.56667</kkprice>
+    <model>Tefal L897S374 SET 3P G6 ING EMOTION IND SS CO</model>
+    <name>Комплект тигани и тенджери</name>
+    <picture_name>0006306158984</picture_name>
+    <price>35.82266</price>
+    <price_dds>42.987192</price_dds>
+    <realPrice_BGL>32.240394</realPrice_BGL>
+    <realPrice_BGL_dds>38.6884728</realPrice_BGL_dds>
+    <kkprice_BGL>59.56667</kkprice_BGL>
+    <kkprice_BGL_dds>71.480004</kkprice_BGL_dds>
+    <realPrice>32.240394</realPrice>
+    <small_picture>/poly/image/0006306158984</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>73239300</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306158984?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306158984</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
@@ -43244,7 +43880,6 @@
     <articlekindUid>0006302418156</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>B5694053</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168430316515</ean_barcode>
     <characteristics>
@@ -46636,7 +47271,6 @@
     <articlekindUid>0006302560982</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>NE108831</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661154065</ean_barcode>
     <characteristics>
@@ -47325,7 +47959,6 @@
     <articlekindUid>0006302419790</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>HT660EE0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016667201923</ean_barcode>
     <characteristics>
@@ -53984,7 +54617,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>FV8066E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -54370,7 +55003,6 @@
     <articlekindUid>0006302560974</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CB503813</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661148774, 3016661148774</ean_barcode>
     <characteristics>
@@ -54430,7 +55062,6 @@
     <articlekindUid>0006302560974</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>GC5108E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380028326</ean_barcode>
     <characteristics>
@@ -55651,7 +56282,6 @@
     <articlekindUid>0006302497169</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CY505EE0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045387294984</ean_barcode>
     <characteristics>
@@ -56001,6 +56631,97 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306170258?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306170258</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Мултикукъри</articlekind>
+    <articlekindUid>0006302497169</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>MY700BF0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045387296216</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>700 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>6l (for up to six servings)</description>
+        <name>Вместимост за мазнина, l</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>Non-stick ceramic coating</description>
+        <name>Вътрешно покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>Adjustable temperature, Heat retention function</description>
+        <name>Настройки на температура</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Кошница за задушаване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>LCD екран</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Прозорче</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Възможност за миене в съдомиялна машина</name>
+      </characteristic>
+      <characteristic>
+        <description>Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>10 cooking programs: rice/cereals, whole meal, saute, steam, slow cook, boil, bake, roast, yogurt, reheat.; Incl: Rice Spoon, Spatula, Measuring Cup, Double Layer Tray</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307244056</id>
+    <kkprice>121.68333</kkprice>
+    <model>Tefal MY700BF0 Mc Multicook Basic Fair Grey Ee</model>
+    <name>Мултикукър</name>
+    <picture_name>0006307244056</picture_name>
+    <price>96.23028</price>
+    <price_dds>115.476336</price_dds>
+    <realPrice_BGL>86.607252</realPrice_BGL>
+    <realPrice_BGL_dds>103.9287024</realPrice_BGL_dds>
+    <kkprice_BGL>121.68333</kkprice_BGL>
+    <kkprice_BGL_dds>146.019996</kkprice_BGL_dds>
+    <realPrice>86.607252</realPrice>
+    <small_picture>/poly/image/0006307244056</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167970</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307244056?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307244056</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
