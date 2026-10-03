@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-02T07:49:30Z" count="773" duplicates_skipped="0">
+<products generated_at="2026-10-03T07:25:07Z" count="773" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -1562,7 +1562,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>70405_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704056</ean_barcode>
@@ -5421,7 +5421,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
@@ -19117,7 +19117,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CF9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040062739</ean_barcode>
@@ -24983,7 +24983,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>HY9430E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -35629,7 +35629,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Вентилаторни печки</articlekind>
     <articlekindUid>0006302561932</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>SO2330F2</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040056356</ean_barcode>
@@ -36328,7 +36328,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>XD3520E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -48543,7 +48543,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за вакуумиране</articlekind>
     <articlekindUid>0006303531563</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>VT254070</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -51446,7 +51446,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DT9920F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040097885</ean_barcode>
