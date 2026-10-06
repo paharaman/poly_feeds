@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-05T08:04:02Z" count="773" duplicates_skipped="0">
+<products generated_at="2026-10-06T08:25:32Z" count="773" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3326,7 +3326,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64413_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -5354,7 +5354,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>26002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
@@ -6225,7 +6225,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
@@ -8044,7 +8044,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>61045_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125610456</ean_barcode>
@@ -16921,7 +16921,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>KP340810</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -21338,7 +21338,6 @@
     <articlekindUid>0006302420817</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CF321LF0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040085042</ean_barcode>
     <characteristics>
@@ -23067,7 +23066,6 @@
     <articlekindUid>0006302420567</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>SF411LF0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040085226</ean_barcode>
     <characteristics>
@@ -23493,7 +23491,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CV5830F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040078044</ean_barcode>
     <characteristics>
@@ -23539,17 +23536,17 @@
       </characteristic>
     </characteristics>
     <id>0006303598276</id>
-    <kkprice>26.66667</kkprice>
+    <kkprice>26.65833</kkprice>
     <model>Rowenta CV5830F0 Studio Dry, DC, Effiwatts technology 2100W equivalent 2300W, High drying rate of 5,5g/min, High air speed up to 80km/h, Ionic generator, Thermo Control, 6 settings, concentrator 14mm, cool air shot, removable grid, finishing Painted boos</model>
     <name>Сешоар</name>
     <picture_name>0006303598276</picture_name>
-    <price>26.51652</price>
-    <price_dds>31.819824</price_dds>
-    <realPrice_BGL>23.864868</realPrice_BGL>
-    <realPrice_BGL_dds>28.6378416</realPrice_BGL_dds>
-    <kkprice_BGL>26.66667</kkprice_BGL>
-    <kkprice_BGL_dds>32.000004</kkprice_BGL_dds>
-    <realPrice>23.864868</realPrice>
+    <price>26.51648</price>
+    <price_dds>31.819776</price_dds>
+    <realPrice_BGL>23.864832</realPrice_BGL>
+    <realPrice_BGL_dds>28.6377984</realPrice_BGL_dds>
+    <kkprice_BGL>26.65833</kkprice_BGL>
+    <kkprice_BGL_dds>31.989996</kkprice_BGL_dds>
+    <realPrice>23.864832</realPrice>
     <small_picture>/poly/image/0006303598276</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -24985,7 +24982,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>HY9430E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380402782</ean_barcode>
     <characteristics>
@@ -29242,7 +29238,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RH6A73WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616113442</ean_barcode>
@@ -31865,7 +31861,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RO7C32EA</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -36330,7 +36326,6 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>XD3520E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095607</ean_barcode>
     <characteristics>
@@ -48412,7 +48407,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Сокоизстисквачки</articlekind>
     <articlekindUid>0006302420373</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>ZE370138</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -54332,7 +54327,6 @@
     <articlekindUid>0006302419835</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>FV2839E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
     <characteristics>
@@ -56007,7 +56001,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>CY851130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386381869, 3045386381869</ean_barcode>
