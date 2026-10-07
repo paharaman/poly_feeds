@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-06T08:25:32Z" count="773" duplicates_skipped="0">
+<products generated_at="2026-10-07T08:01:13Z" count="773" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3255,7 +3255,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>64303_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643034</ean_barcode>
@@ -13815,7 +13815,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EA810B70</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -16706,7 +16706,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>KP440E10</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -19117,7 +19117,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CF9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040062739</ean_barcode>
@@ -23540,13 +23540,13 @@
     <model>Rowenta CV5830F0 Studio Dry, DC, Effiwatts technology 2100W equivalent 2300W, High drying rate of 5,5g/min, High air speed up to 80km/h, Ionic generator, Thermo Control, 6 settings, concentrator 14mm, cool air shot, removable grid, finishing Painted boos</model>
     <name>Сешоар</name>
     <picture_name>0006303598276</picture_name>
-    <price>26.51648</price>
-    <price_dds>31.819776</price_dds>
-    <realPrice_BGL>23.864832</realPrice_BGL>
-    <realPrice_BGL_dds>28.6377984</realPrice_BGL_dds>
+    <price>26.44311</price>
+    <price_dds>31.731732</price_dds>
+    <realPrice_BGL>23.798799</realPrice_BGL>
+    <realPrice_BGL_dds>28.5585588</realPrice_BGL_dds>
     <kkprice_BGL>26.65833</kkprice_BGL>
     <kkprice_BGL_dds>31.989996</kkprice_BGL_dds>
-    <realPrice>23.864832</realPrice>
+    <realPrice>23.798799</realPrice>
     <small_picture>/poly/image/0006303598276</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -29214,13 +29214,13 @@
     <model>Rowenta RH5A32E0 X-Pert 5.80 Allergy</model>
     <name>Прахосмукачка</name>
     <picture_name>0006307286054</picture_name>
-    <price>101.81875</price>
-    <price_dds>122.1825</price_dds>
-    <realPrice_BGL>91.636875</realPrice_BGL>
-    <realPrice_BGL_dds>109.96425</realPrice_BGL_dds>
+    <price>101.68949</price>
+    <price_dds>122.027388</price_dds>
+    <realPrice_BGL>91.520541</realPrice_BGL>
+    <realPrice_BGL_dds>109.8246492</realPrice_BGL_dds>
     <kkprice_BGL>112.5</kkprice_BGL>
     <kkprice_BGL_dds>135</kkprice_BGL_dds>
-    <realPrice>91.636875</realPrice>
+    <realPrice>91.520541</realPrice>
     <small_picture>/poly/image/0006307286054</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85081100</taxCode>
@@ -30824,13 +30824,13 @@
     <model>Rowenta GZ1032E0 Floor Washer X-Wash</model>
     <name>Прахосмукачка</name>
     <picture_name>0006307320913</picture_name>
-    <price>127.06019</price>
-    <price_dds>152.472228</price_dds>
-    <realPrice_BGL>114.354171</realPrice_BGL>
-    <realPrice_BGL_dds>137.2250052</realPrice_BGL_dds>
+    <price>126.6207</price>
+    <price_dds>151.94484</price_dds>
+    <realPrice_BGL>113.95863</realPrice_BGL>
+    <realPrice_BGL_dds>136.750356</realPrice_BGL_dds>
     <kkprice_BGL>137.5</kkprice_BGL>
     <kkprice_BGL_dds>165</kkprice_BGL_dds>
-    <realPrice>114.354171</realPrice>
+    <realPrice>113.95863</realPrice>
     <small_picture>/poly/image/0006307320913</small_picture>
     <stokaType>1</stokaType>
     <taxCode>#85081100</taxCode>
@@ -33958,7 +33958,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RO3985EA</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -35562,7 +35562,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Вентилаторни печки</articlekind>
     <articlekindUid>0006302561932</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>SO2210F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040055861</ean_barcode>
@@ -40254,7 +40254,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>N1071810</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4168430010948</ean_barcode>
@@ -45330,13 +45330,13 @@
     <model>Tefal BL5958F0 Bld Bf3 Glass  W/O Acc  Blk Eu</model>
     <name>Блендер</name>
     <picture_name>0006307320944</picture_name>
-    <price>58.49448</price>
-    <price_dds>70.193376</price_dds>
-    <realPrice_BGL>52.645032</realPrice_BGL>
-    <realPrice_BGL_dds>63.1740384</realPrice_BGL_dds>
+    <price>56.97696</price>
+    <price_dds>68.372352</price_dds>
+    <realPrice_BGL>51.279264</realPrice_BGL>
+    <realPrice_BGL_dds>61.5351168</realPrice_BGL_dds>
     <kkprice_BGL>62.5</kkprice_BGL>
     <kkprice_BGL_dds>75</kkprice_BGL_dds>
-    <realPrice>52.645032</realPrice>
+    <realPrice>51.279264</realPrice>
     <small_picture>/poly/image/0006307320944</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85094000</taxCode>
@@ -45354,7 +45354,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Блендери</articlekind>
     <articlekindUid>0006302419961</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>BL420838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661151361</ean_barcode>
@@ -46665,13 +46665,13 @@
     <model>Tefal KO2M0810 Ket Morning Black Knight Eu</model>
     <name>Електрическа кана</name>
     <picture_name>0006307322075</picture_name>
-    <price>19.86256</price>
-    <price_dds>23.835072</price_dds>
-    <realPrice_BGL>17.876304</realPrice_BGL>
-    <realPrice_BGL_dds>21.4515648</realPrice_BGL_dds>
+    <price>19.5365</price>
+    <price_dds>23.4438</price_dds>
+    <realPrice_BGL>17.58285</realPrice_BGL>
+    <realPrice_BGL_dds>21.09942</realPrice_BGL_dds>
     <kkprice_BGL>29.78333</kkprice_BGL>
     <kkprice_BGL_dds>35.739996</kkprice_BGL_dds>
-    <realPrice>17.876304</realPrice>
+    <realPrice>17.58285</realPrice>
     <small_picture>/poly/image/0006307322075</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85167970</taxCode>
@@ -51004,13 +51004,13 @@
     <model>Tefal DT2026E1 pure pop, yellow, 1300W, up to 20g/min, 15min heat-up, 70ml water tank, auto-off, revertible pad</model>
     <name>Уред за гладене с пара</name>
     <picture_name>0006306068990</picture_name>
-    <price>34.93569</price>
-    <price_dds>41.922828</price_dds>
-    <realPrice_BGL>31.442121</realPrice_BGL>
-    <realPrice_BGL_dds>37.7305452</realPrice_BGL_dds>
+    <price>34.70474</price>
+    <price_dds>41.645688</price_dds>
+    <realPrice_BGL>31.234266</realPrice_BGL>
+    <realPrice_BGL_dds>37.4811192</realPrice_BGL_dds>
     <kkprice_BGL>37.5</kkprice_BGL>
     <kkprice_BGL_dds>45</kkprice_BGL_dds>
-    <realPrice>31.442121</realPrice>
+    <realPrice>31.234266</realPrice>
     <small_picture>/poly/image/0006306068990</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85164000</taxCode>
