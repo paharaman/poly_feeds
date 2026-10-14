@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-13T08:48:57Z" count="772" duplicates_skipped="0">
+<products generated_at="2026-10-14T06:58:19Z" count="772" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -24505,7 +24505,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>HY8310F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -25694,7 +25694,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парочистачки</articlekind>
     <articlekindUid>0006302920330</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RY6537WI</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -30379,7 +30379,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>GZ1032E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616197978</ean_barcode>
@@ -50164,7 +50164,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парогенератори</articlekind>
     <articlekindUid>0006302421151</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>SV6212E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040097984</ean_barcode>
@@ -50386,7 +50386,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парогенератори</articlekind>
     <articlekindUid>0006302421151</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>SV4110E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040090091</ean_barcode>
@@ -52223,7 +52223,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>FV1713E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040067741</ean_barcode>
@@ -54615,7 +54615,6 @@
     <catalog_num>CB6A0830</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661155994</ean_barcode>
-    <expectedDelivery>14.10.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -61030,7 +61029,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>PP1800V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095294</ean_barcode>
