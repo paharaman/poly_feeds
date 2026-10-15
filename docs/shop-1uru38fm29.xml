@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-14T06:58:19Z" count="772" duplicates_skipped="0">
+<products generated_at="2026-10-15T06:50:02Z" count="772" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -10,7 +10,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>95605_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125956059</ean_barcode>
@@ -215,9 +215,8 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Стерилизатори</articlekind>
     <articlekindUid>0006303338386</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>95308_BEU</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125953089</ean_barcode>
     <characteristics>
@@ -255,17 +254,17 @@
       </characteristic>
     </characteristics>
     <id>0006303339462</id>
-    <kkprice>59.15833</kkprice>
+    <kkprice>58.325</kkprice>
     <model>Beurer BY 76 steam steriliser; Disinfects up to 6 bottles and accessories in 7 minutes; LED display, tongs, removable bottle grid,measuring jug</model>
     <name>Стерилизатор</name>
     <picture_name>0006303339462</picture_name>
-    <price>47.1</price>
-    <price_dds>56.52</price_dds>
-    <realPrice_BGL>42.39</realPrice_BGL>
-    <realPrice_BGL_dds>50.868</realPrice_BGL_dds>
-    <kkprice_BGL>59.15833</kkprice_BGL>
-    <kkprice_BGL_dds>70.989996</kkprice_BGL_dds>
-    <realPrice>42.39</realPrice>
+    <price>47.10584</price>
+    <price_dds>56.527008</price_dds>
+    <realPrice_BGL>42.395256</realPrice_BGL>
+    <realPrice_BGL_dds>50.8743072</realPrice_BGL_dds>
+    <kkprice_BGL>58.325</kkprice_BGL>
+    <kkprice_BGL_dds>69.99</kkprice_BGL_dds>
+    <realPrice>42.395256</realPrice>
     <small_picture>/poly/image/0006303339462</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85167970</taxCode>
@@ -283,7 +282,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ароматизатори</articlekind>
     <articlekindUid>0006303364914</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10034_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -431,77 +430,6 @@
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
-    <catalog_num>76030_BEU</catalog_num>
-    <currency>EUR</currency>
-    <ean_barcode>4211125760304</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Diagnostic</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>150.0 kg</description>
-        <name>Капацитет, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>100 g</description>
-        <name>Точност, g</name>
-      </characteristic>
-      <characteristic>
-        <description>large LCD display</description>
-        <name>LCD дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>Quick Start, Automatic switch-off, overload indicator</description>
-        <name>Автоматично включване/изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>Weight, body fat, body water, muscle percentage, BMI calculation</description>
-        <name>Други функции</name>
-      </characteristic>
-      <characteristic>
-        <description>Glass</description>
-        <name>Материал</name>
-      </characteristic>
-      <characteristic>
-        <description>Transparent</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>User memory spaces: 10; 1 x 3 V CR2032</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006303462708</id>
-    <kkprice>25.40833</kkprice>
-    <model>Beurer BG 13 Diagnostic Bathroom Scale; XL display;body weight, body fat, body water, muscle percentage,bone mass, 10 users; 150 kg</model>
-    <name>Везна</name>
-    <picture_name>0006303462708</picture_name>
-    <price>20.35711</price>
-    <price_dds>24.428532</price_dds>
-    <realPrice_BGL>18.321399</realPrice_BGL>
-    <realPrice_BGL_dds>21.9856788</realPrice_BGL_dds>
-    <kkprice_BGL>25.40833</kkprice_BGL>
-    <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
-    <realPrice>18.321399</realPrice>
-    <small_picture>/poly/image/0006303462708</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>84231090</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006303462708?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006303462708</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337965</source_subgroup_id>
-    <source_subgroup_name>Уреди за дома</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Електронни кантари</articlekind>
-    <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
     <catalog_num>74909_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125749095</ean_barcode>
@@ -561,6 +489,77 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303934415?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303934415</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Електронни кантари</articlekind>
+    <articlekindUid>0006302560952</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>76030_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125760304</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Diagnostic</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>150.0 kg</description>
+        <name>Капацитет, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>100 g</description>
+        <name>Точност, g</name>
+      </characteristic>
+      <characteristic>
+        <description>large LCD display</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Quick Start, Automatic switch-off, overload indicator</description>
+        <name>Автоматично включване/изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Weight, body fat, body water, muscle percentage, BMI calculation</description>
+        <name>Други функции</name>
+      </characteristic>
+      <characteristic>
+        <description>Glass</description>
+        <name>Материал</name>
+      </characteristic>
+      <characteristic>
+        <description>Transparent</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>User memory spaces: 10; 1 x 3 V CR2032</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006303462708</id>
+    <kkprice>25.40833</kkprice>
+    <model>Beurer BG 13 Diagnostic Bathroom Scale; XL display;body weight, body fat, body water, muscle percentage,bone mass, 10 users; 150 kg</model>
+    <name>Везна</name>
+    <picture_name>0006303462708</picture_name>
+    <price>20.35711</price>
+    <price_dds>24.428532</price_dds>
+    <realPrice_BGL>18.321399</realPrice_BGL>
+    <realPrice_BGL_dds>21.9856788</realPrice_BGL_dds>
+    <kkprice_BGL>25.40833</kkprice_BGL>
+    <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
+    <realPrice>18.321399</realPrice>
+    <small_picture>/poly/image/0006303462708</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>84231090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006303462708?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006303462708</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -3184,7 +3183,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64404_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125644048</ean_barcode>
@@ -3744,7 +3743,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10265_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102654</ean_barcode>
@@ -5287,6 +5286,73 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>50024_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125500245</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Foot warmer</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>3 temperature settings</description>
+        <name>Настройки на температура</name>
+      </characteristic>
+      <characteristic>
+        <description>Fast heating</description>
+        <name>Функция бързо загряване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Функция масаж</name>
+      </characteristic>
+      <characteristic>
+        <description>Automatic switch-off after approx. 90 min.</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Polyester velour, Breathable, snuggly and skin-friendly, Machine-washable at 30°C</description>
+        <name>Материал</name>
+      </characteristic>
+      <characteristic>
+        <description>Dark Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Beurer safety system (BSS); Suitable for up to shoe size 47 (EU)/12.5 (UK)</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307330682</id>
+    <kkprice>49.15833</kkprice>
+    <model>Beurer FW 30 Comfy Feet Foot Warmer; Breathable and soft fleece; 3 temperature settings; Machine-washable</model>
+    <name>Термоподложка</name>
+    <picture_name>0006307330682</picture_name>
+    <price>38.95474</price>
+    <price_dds>46.745688</price_dds>
+    <realPrice_BGL>35.059266</realPrice_BGL>
+    <realPrice_BGL_dds>42.0711192</realPrice_BGL_dds>
+    <kkprice_BGL>49.15833</kkprice_BGL>
+    <kkprice_BGL_dds>58.989996</kkprice_BGL_dds>
+    <realPrice>35.059266</realPrice>
+    <small_picture>/poly/image/0006307330682</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>94049090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307330682?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307330682</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Термоподложки</articlekind>
+    <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>20041_BEU</catalog_num>
     <currency>EUR</currency>
@@ -5488,7 +5554,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>27501_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125275013</ean_barcode>
@@ -6795,7 +6861,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Хигрометри</articlekind>
     <articlekindUid>0006303338356</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>67915_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125679156</ean_barcode>
@@ -7169,7 +7235,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10549_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105495</ean_barcode>
@@ -7370,7 +7436,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64814_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -7960,90 +8026,6 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>79506_BEU</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>4211125795061</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Non-contact measurement</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>60 memory spaces (body temperature)</description>
-        <name>Памет</name>
-      </characteristic>
-      <characteristic>
-        <description>Measurement in seconds</description>
-        <name>Време за измерване</name>
-      </characteristic>
-      <characteristic>
-        <description>°C / °F</description>
-        <name>Единица за измерване</name>
-      </characteristic>
-      <characteristic>
-        <description>Temperature alarm: from 38°C and Acoustic signal</description>
-        <name>Сигнализация, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Водоустойчивост</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Bluetooth</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дезинфекция</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Автоматично изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>White/Silver</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Measurement of body, ambient and surface temperature; Measuring distance 2 – 3 cm; Optional acoustic signal when measurement is complete</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006303644062</id>
-    <kkprice>34.99167</kkprice>
-    <model>Beurer FT 85 non-contact thermometer, Measurement of body, ambient and surface temperature, 60 memory spaces</model>
-    <name>Термометър</name>
-    <picture_name>0006303644062</picture_name>
-    <price>28</price>
-    <price_dds>33.6</price_dds>
-    <realPrice_BGL>25.2</realPrice_BGL>
-    <realPrice_BGL_dds>30.24</realPrice_BGL_dds>
-    <kkprice_BGL>34.99167</kkprice_BGL>
-    <kkprice_BGL_dds>41.990004</kkprice_BGL_dds>
-    <realPrice>25.2</realPrice>
-    <small_picture>/poly/image/0006303644062</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>90251900</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006303644062?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006303644062</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337967</source_subgroup_id>
-    <source_subgroup_name>Уреди за здравето</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Термометри</articlekind>
-    <articlekindUid>0006303338366</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>61045_BEU</catalog_num>
     <currency>EUR</currency>
@@ -8210,7 +8192,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Парни изпарители</articlekind>
     <articlekindUid>0006303974310</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>60132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125601324</ean_barcode>
@@ -8634,7 +8616,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>59110_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591106</ean_barcode>
@@ -12216,7 +12198,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10484_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104849</ean_barcode>
@@ -17872,7 +17854,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>KP1433F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380447035</ean_barcode>
@@ -21013,7 +20995,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Маши за коса</articlekind>
     <articlekindUid>0006302420817</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CF321LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040085042</ean_barcode>
@@ -31957,7 +31939,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH6543WH</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -39684,7 +39666,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>K2060114</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430220553</ean_barcode>
@@ -41646,7 +41628,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>B5670453</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430313385</ean_barcode>
@@ -46188,7 +46170,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кани</articlekind>
     <articlekindUid>0006302419867</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>KO2M0410</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387250508</ean_barcode>
@@ -50047,7 +50029,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парогенератори</articlekind>
     <articlekindUid>0006302421151</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>SV6131E0</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -51668,7 +51650,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FV5717E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075746</ean_barcode>
@@ -53904,7 +53886,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FV2836E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -58556,7 +58538,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EY2454E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
