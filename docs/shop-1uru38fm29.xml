@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-15T06:50:02Z" count="772" duplicates_skipped="0">
+<products generated_at="2026-10-16T06:38:22Z" count="771" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -10,7 +10,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>95605_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125956059</ean_barcode>
@@ -278,82 +278,6 @@
     <source_group_name>BEURER уреди за здраве и красота</source_group_name>
     <source_subgroup_id>0006303337965</source_subgroup_id>
     <source_subgroup_name>Уреди за дома</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Ароматизатори</articlekind>
-    <articlekindUid>0006303364914</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>10034_BEU</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>4211125100346</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>For a calm and soothing atmosphere at home; Micro-fine ultrasonic atomisation</description>
-        <name>Технология</name>
-      </characteristic>
-      <characteristic>
-        <description>20 m2</description>
-        <name>Ефективна площ</name>
-      </characteristic>
-      <characteristic>
-        <description>Two-stage nebulization</description>
-        <name>Степени на работа</name>
-      </characteristic>
-      <characteristic>
-        <description>0.120l</description>
-        <name>Вместимост на резервоара за вода, l</name>
-      </characteristic>
-      <characteristic>
-        <description>With two-level LED light</description>
-        <name>LED светлина</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Automatic switch-off if tank is empty</description>
-        <name>Автоматично изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>12 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>Stylish design with fabric cover</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Suitable for rooms up to 20 m2; </description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306121208</id>
-    <kkprice>43.325</kkprice>
-    <model>Beurer LA 35 Aroma diffuser, Micro-fine ultrasonic atomisation, Two-level LED light, up to 20 m2, 12W, fabric cover, automatic switch-off</model>
-    <name>Ароматизатор</name>
-    <picture_name>0006306121208</picture_name>
-    <price>34.37</price>
-    <price_dds>41.244</price_dds>
-    <realPrice_BGL>30.933</realPrice_BGL>
-    <realPrice_BGL_dds>37.1196</realPrice_BGL_dds>
-    <kkprice_BGL>43.325</kkprice_BGL>
-    <kkprice_BGL_dds>51.99</kkprice_BGL_dds>
-    <realPrice>30.933</realPrice>
-    <small_picture>/poly/image/0006306121208</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85098000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306121208?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306121208</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337965</source_subgroup_id>
-    <source_subgroup_name>Уреди за дома</source_subgroup_name>
     <articleMainkind>Уреди за здраве и красота</articleMainkind>
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
@@ -430,77 +354,6 @@
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
     <available>на склад</available>
-    <catalog_num>74909_BEU</catalog_num>
-    <currency>EUR</currency>
-    <ean_barcode>4211125749095</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Diagnostic</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>180.0 kg</description>
-        <name>Капацитет, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>100 g</description>
-        <name>Точност, g</name>
-      </characteristic>
-      <characteristic>
-        <description>Blue illuminated LCD display</description>
-        <name>LCD дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>Quick Start, Automatic switch-off, overload indicator</description>
-        <name>Автоматично включване/изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>Weight, body fat, body water, muscle percentage, bone mass and BMR calorie display</description>
-        <name>Други функции</name>
-      </characteristic>
-      <characteristic>
-        <description>Glass</description>
-        <name>Материал</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>Digit size: 34 mm; 5 activity levels; User memory spaces: 10; 2 x 3 V CR2032 batteries</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006303934415</id>
-    <kkprice>25.40833</kkprice>
-    <model>Beurer BF 180 diagnostic bathroom scale; Blue illuminated LCD display; Digit size: 34 mm; Weight, body fat, body water, muscle percentage, bone mass and BMR calorie display, With BMI calculation; 180 kg</model>
-    <name>Везна</name>
-    <picture_name>0006303934415</picture_name>
-    <price>20.22</price>
-    <price_dds>24.264</price_dds>
-    <realPrice_BGL>18.198</realPrice_BGL>
-    <realPrice_BGL_dds>21.8376</realPrice_BGL_dds>
-    <kkprice_BGL>25.40833</kkprice_BGL>
-    <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
-    <realPrice>18.198</realPrice>
-    <small_picture>/poly/image/0006303934415</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>84231090</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006303934415?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006303934415</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337965</source_subgroup_id>
-    <source_subgroup_name>Уреди за дома</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Електронни кантари</articlekind>
-    <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
     <catalog_num>76030_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125760304</ean_barcode>
@@ -560,6 +413,77 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303462708?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303462708</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Електронни кантари</articlekind>
+    <articlekindUid>0006302560952</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>74909_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125749095</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Diagnostic</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>180.0 kg</description>
+        <name>Капацитет, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>100 g</description>
+        <name>Точност, g</name>
+      </characteristic>
+      <characteristic>
+        <description>Blue illuminated LCD display</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Quick Start, Automatic switch-off, overload indicator</description>
+        <name>Автоматично включване/изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Weight, body fat, body water, muscle percentage, bone mass and BMR calorie display</description>
+        <name>Други функции</name>
+      </characteristic>
+      <characteristic>
+        <description>Glass</description>
+        <name>Материал</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Digit size: 34 mm; 5 activity levels; User memory spaces: 10; 2 x 3 V CR2032 batteries</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006303934415</id>
+    <kkprice>25.40833</kkprice>
+    <model>Beurer BF 180 diagnostic bathroom scale; Blue illuminated LCD display; Digit size: 34 mm; Weight, body fat, body water, muscle percentage, bone mass and BMR calorie display, With BMI calculation; 180 kg</model>
+    <name>Везна</name>
+    <picture_name>0006303934415</picture_name>
+    <price>20.22</price>
+    <price_dds>24.264</price_dds>
+    <realPrice_BGL>18.198</realPrice_BGL>
+    <realPrice_BGL_dds>21.8376</realPrice_BGL_dds>
+    <kkprice_BGL>25.40833</kkprice_BGL>
+    <kkprice_BGL_dds>30.489996</kkprice_BGL_dds>
+    <realPrice>18.198</realPrice>
+    <small_picture>/poly/image/0006303934415</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>84231090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006303934415?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006303934415</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -8691,7 +8615,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>59107_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591076</ean_barcode>
@@ -12198,7 +12122,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10484_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104849</ean_barcode>
@@ -20220,7 +20144,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EP4920F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040076217</ean_barcode>
@@ -27879,7 +27803,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RH6A75WO</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -41438,7 +41362,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>B5671053</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430313330</ean_barcode>
@@ -41501,7 +41425,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>B5674053</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -41755,7 +41679,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>B5670653</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430313408</ean_barcode>
@@ -47001,7 +46925,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Месомелачки</articlekind>
     <articlekindUid>0006302560982</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>NE553838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173585</ean_barcode>
@@ -54077,7 +54001,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FV5737E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075845</ean_barcode>
