@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-18T06:52:12Z" count="772" duplicates_skipped="0">
+<products generated_at="2026-10-19T07:11:25Z" count="773" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -3383,7 +3383,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
@@ -5344,7 +5344,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>26002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
@@ -5411,7 +5411,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
@@ -7502,7 +7502,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
@@ -19480,6 +19480,90 @@
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
     <available>на склад</available>
+    <catalog_num>UB9520F0</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3121040092330</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>1000 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>4.0 cm + 5.0 cm brush</description>
+        <name>Диаметър, cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Ceramic</description>
+        <name>Покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Йонизираща функция</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Функция студен въздух</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Въртене в две посоки</name>
+      </characteristic>
+      <characteristic>
+        <description>2 Temperature settings</description>
+        <name>Настройки на температура</name>
+      </characteristic>
+      <characteristic>
+        <description>2 Speed settings</description>
+        <name>Настройки на скорост</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Приставки</name>
+      </characteristic>
+      <characteristic>
+        <description>1.8 m</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307024264</id>
+    <kkprice>57.5</kkprice>
+    <model>Rowenta UB9520F0 Brush Activ Renewal</model>
+    <name>Електрическа четка за коса</name>
+    <picture_name>0006307024264</picture_name>
+    <price>51.50669</price>
+    <price_dds>61.808028</price_dds>
+    <realPrice_BGL>46.356021</realPrice_BGL>
+    <realPrice_BGL_dds>55.6272252</realPrice_BGL_dds>
+    <kkprice_BGL>57.5</kkprice_BGL>
+    <kkprice_BGL_dds>69</kkprice_BGL_dds>
+    <realPrice>46.356021</realPrice>
+    <small_picture>/poly/image/0006307024264</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85163200</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307024264?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307024264</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412390</source_subgroup_id>
+    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Електрически четки за коса</articlekind>
+    <articlekindUid>0006302441140</articlekindUid>
+    <available>на склад</available>
     <catalog_num>CF635LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -19556,90 +19640,6 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006304020190?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006304020190</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412452</source_vendor_id>
-    <source_group_id>0006302412388</source_group_id>
-    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412390</source_subgroup_id>
-    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Електрически четки за коса</articlekind>
-    <articlekindUid>0006302441140</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>UB9520F0</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3121040092330</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>1000 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>4.0 cm + 5.0 cm brush</description>
-        <name>Диаметър, cm</name>
-      </characteristic>
-      <characteristic>
-        <description>Ceramic</description>
-        <name>Покритие</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Йонизираща функция</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Функция студен въздух</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Въртене в две посоки</name>
-      </characteristic>
-      <characteristic>
-        <description>2 Temperature settings</description>
-        <name>Настройки на температура</name>
-      </characteristic>
-      <characteristic>
-        <description>2 Speed settings</description>
-        <name>Настройки на скорост</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Автоматично изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Приставки</name>
-      </characteristic>
-      <characteristic>
-        <description>1.8 m</description>
-        <name>Дължина на кабела, m</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307024264</id>
-    <kkprice>57.5</kkprice>
-    <model>Rowenta UB9520F0 Brush Activ Renewal</model>
-    <name>Електрическа четка за коса</name>
-    <picture_name>0006307024264</picture_name>
-    <price>51.50669</price>
-    <price_dds>61.808028</price_dds>
-    <realPrice_BGL>46.356021</realPrice_BGL>
-    <realPrice_BGL_dds>55.6272252</realPrice_BGL_dds>
-    <kkprice_BGL>57.5</kkprice_BGL>
-    <kkprice_BGL_dds>69</kkprice_BGL_dds>
-    <realPrice>46.356021</realPrice>
-    <small_picture>/poly/image/0006307024264</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85163200</taxCode>
-    <vendorName>ROWENTA</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307024264?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307024264</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -21873,6 +21873,89 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307110380?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307110380</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412390</source_subgroup_id>
+    <source_subgroup_name>Уреди за лична грижа</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Машинки за подстригване</articlekind>
+    <articlekindUid>0006302420782</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>TN5650E0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3121040097502</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>yes</description>
+        <name>Приставка за брада</name>
+      </characteristic>
+      <characteristic>
+        <description>Stainless steel</description>
+        <name>Материал на ножчетата</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, 4 adjustable combs offer over 75 cutting lengths, from 0.5 to 42 mm, with 0.5 mm precision increments</description>
+        <name>Гребени</name>
+      </characteristic>
+      <characteristic>
+        <description>Minimum length of haircut: 0.5 - 30 mm; Precision setting: 1 mm</description>
+        <name>Дължина на подстригване, mm</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>2.5  h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 360 min.</description>
+        <name>Време за работа на батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Работа под течаща вода</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>over 75 cutting lengths from 0.5 mm to 42 mm</description>
+        <name>Степени на рязане</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Turbo speed, Inc:Trimmer, 5 combs, travel pouch, charger, cleaning brush and oil</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307331624</id>
+    <kkprice>66.66667</kkprice>
+    <model>Rowenta TN5650E0 Hair Trimmer X-Series 900</model>
+    <name>Машинка за подстригване</name>
+    <picture_name>0006307331624</picture_name>
+    <price>60.23464</price>
+    <price_dds>72.281568</price_dds>
+    <realPrice_BGL>54.211176</realPrice_BGL>
+    <realPrice_BGL_dds>65.0534112</realPrice_BGL_dds>
+    <kkprice_BGL>66.66667</kkprice_BGL>
+    <kkprice_BGL_dds>80.000004</kkprice_BGL_dds>
+    <realPrice>54.211176</realPrice>
+    <small_picture>/poly/image/0006307331624</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85102000</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307331624?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307331624</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -31586,7 +31669,7 @@
     <available>на склад</available>
     <catalog_num>RO7C89E0</catalog_num>
     <currency>EUR</currency>
-    <ean_barcode>-</ean_barcode>
+    <ean_barcode>3221616196216</ean_barcode>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -36413,7 +36496,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>ZR009010</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616048447</ean_barcode>
@@ -52074,7 +52157,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV9844E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
