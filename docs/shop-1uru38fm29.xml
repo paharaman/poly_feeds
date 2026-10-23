@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-10-22T06:56:37Z" count="780" duplicates_skipped="0">
+<products generated_at="2026-10-23T06:49:30Z" count="780" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -2893,7 +2893,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
@@ -8541,6 +8541,49 @@
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
     <available>очаква се</available>
+    <catalog_num>10523_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125105235</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>4 Protection Plus toothbrush heads in black with soft bristles – for gentle teeth cleaning; Compatible with all Philips Sonicare toothbrushes except Philips One and Kids</description>
+        <name>Предназначен за</name>
+      </characteristic>
+      <characteristic>
+        <description>Powerful sonic technology for thorough yet gentle dental care; For optimal brushing results, replace the brush head every 3 months; The indicator bristles change colour to indicate when it&amp;apos;s time to change the brush heads</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307252092</id>
+    <kkprice>11.24167</kkprice>
+    <model>Beurer SC 30/50 brush heads Protection Plus 4 pcs.</model>
+    <name>Аксесоар</name>
+    <picture_name>0006307252092</picture_name>
+    <price>8.86815</price>
+    <price_dds>10.64178</price_dds>
+    <realPrice_BGL>7.981335</realPrice_BGL>
+    <realPrice_BGL_dds>9.577602</realPrice_BGL_dds>
+    <kkprice_BGL>11.24167</kkprice_BGL>
+    <kkprice_BGL_dds>13.490004</kkprice_BGL_dds>
+    <realPrice>7.981335</realPrice>
+    <small_picture>/poly/image/0006307252092</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>68042250</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307252092?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307252092</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Принадлежности за лице и тяло</articlekind>
+    <articlekindUid>0006303743678</articlekindUid>
+    <available>очаква се</available>
     <catalog_num>57119_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571191</ean_barcode>
@@ -8895,7 +8938,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10685_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106850</ean_barcode>
@@ -11730,7 +11773,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>59418_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125594183</ean_barcode>
@@ -13373,49 +13416,6 @@
     <source_subgroup_name>Уреди за красота</source_subgroup_name>
     <articleMainkind>Уреди за здраве и красота</articleMainkind>
     <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Принадлежности за лице и тяло</articlekind>
-    <articlekindUid>0006303743678</articlekindUid>
-    <available>очаква се</available>
-    <catalog_num>10523_BEU</catalog_num>
-    <currency>EUR</currency>
-    <ean_barcode>4211125105235</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>4 Protection Plus toothbrush heads in black with soft bristles – for gentle teeth cleaning; Compatible with all Philips Sonicare toothbrushes except Philips One and Kids</description>
-        <name>Предназначен за</name>
-      </characteristic>
-      <characteristic>
-        <description>Powerful sonic technology for thorough yet gentle dental care; For optimal brushing results, replace the brush head every 3 months; The indicator bristles change colour to indicate when it&amp;apos;s time to change the brush heads</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307252092</id>
-    <kkprice>11.24167</kkprice>
-    <model>Beurer SC 30/50 brush heads Protection Plus 4 pcs.</model>
-    <name>Аксесоар</name>
-    <picture_name>0006307252092</picture_name>
-    <price>8.86815</price>
-    <price_dds>10.64178</price_dds>
-    <realPrice_BGL>7.981335</realPrice_BGL>
-    <realPrice_BGL_dds>9.577602</realPrice_BGL_dds>
-    <kkprice_BGL>11.24167</kkprice_BGL>
-    <kkprice_BGL_dds>13.490004</kkprice_BGL_dds>
-    <realPrice>7.981335</realPrice>
-    <small_picture>/poly/image/0006307252092</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>68042250</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307252092?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307252092</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
     <available>oграничено количество</available>
@@ -13764,7 +13764,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>EA910E10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173523</ean_barcode>
@@ -15054,7 +15054,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>EA879NE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661180347</ean_barcode>
@@ -15802,7 +15802,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>XP499EE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661180293</ean_barcode>
@@ -16552,7 +16552,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>KP340810</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -21362,7 +21362,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>TN1404F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040090985</ean_barcode>
@@ -21528,7 +21528,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>TN1551E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040093870</ean_barcode>
@@ -22612,7 +22612,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>SF321LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040084922</ean_barcode>
@@ -23449,7 +23449,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CV5930F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23903,6 +23903,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040085325</ean_barcode>
+    <expectedDelivery>24.10.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2200 W</description>
@@ -25829,7 +25830,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парочистачки</articlekind>
     <articlekindUid>0006302920330</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>RY6537WI</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614001925</ean_barcode>
@@ -27884,7 +27885,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>RH99G1WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616095212</ean_barcode>
@@ -29197,7 +29198,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>RH6A73WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616113442</ean_barcode>
@@ -32789,7 +32790,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>RH6753WO</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -34919,7 +34920,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>RH6756WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614004889</ean_barcode>
@@ -35728,7 +35729,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Вентилаторни печки</articlekind>
     <articlekindUid>0006302561932</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>SO2330F2</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040056356</ean_barcode>
@@ -35795,7 +35796,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Вентилаторни печки</articlekind>
     <articlekindUid>0006302561932</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>SO5115F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040055830</ean_barcode>
@@ -36774,7 +36775,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>ZR005901</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221613016609</ean_barcode>
@@ -44155,7 +44156,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>B5694053</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430316515</ean_barcode>
@@ -47028,7 +47029,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кани</articlekind>
     <articlekindUid>0006302419867</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>KI772D38</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -47389,7 +47390,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Месомелачки</articlekind>
     <articlekindUid>0006302560982</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>NE105838</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -48900,7 +48901,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Сокоизстисквачки</articlekind>
     <articlekindUid>0006302420373</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>ZP300138</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -49330,7 +49331,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Чопъри</articlekind>
     <articlekindUid>0006302561106</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>K1320404</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430275591</ean_barcode>
@@ -50996,7 +50997,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парогенератори</articlekind>
     <articlekindUid>0006302421151</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>SV4110E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040090091</ean_barcode>
@@ -51314,7 +51315,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DT2022E1</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -52020,7 +52021,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>QT1811E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095164</ean_barcode>
@@ -52370,7 +52371,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>FV5718E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040075692, 3121040075692</ean_barcode>
@@ -53863,7 +53864,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>DT6130E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040077450</ean_barcode>
@@ -54326,7 +54327,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>FV9865E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040071458</ean_barcode>
@@ -55283,7 +55284,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Барбекюта - електрически</articlekind>
     <articlekindUid>0006302560974</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>CB503813</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661148774, 3016661148774</ean_barcode>
@@ -55597,7 +55598,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Барбекюта - електрически</articlekind>
     <articlekindUid>0006302560974</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>GC724D12</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -56352,7 +56353,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>CY851130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386381869, 3045386381869</ean_barcode>
@@ -56443,7 +56444,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CY855830</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387243685</ean_barcode>
@@ -56809,7 +56810,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CY9621F2</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -59093,7 +59094,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EY2452E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
