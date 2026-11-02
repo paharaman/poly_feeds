@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-01T08:32:18Z" count="801" duplicates_skipped="0">
+<products generated_at="2026-11-02T08:43:15Z" count="801" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -14,7 +14,6 @@
     <catalog_num>95605_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125956059</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Baby scales</description>
@@ -571,7 +570,6 @@
     <catalog_num>76011_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125760113</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Diagnostic</description>
@@ -1634,7 +1632,6 @@
     <catalog_num>70410_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704100</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>5 kg</description>
@@ -1706,7 +1703,6 @@
     <catalog_num>70415_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704155</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>3 kg</description>
@@ -2831,7 +2827,6 @@
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -2974,7 +2969,6 @@
     <catalog_num>65003_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125650032</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Muscle massager</description>
@@ -3117,7 +3111,6 @@
     <catalog_num>64303_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643034</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -3323,7 +3316,6 @@
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4D Neck massager</description>
@@ -3608,7 +3600,6 @@
     <catalog_num>10265_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102654</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -3893,7 +3884,6 @@
     <catalog_num>64502_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645021</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -4245,7 +4235,6 @@
     <catalog_num>10029_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100308</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2-in-1 Shiatsu Foot Massager combines homely design with a cosy massage</description>
@@ -4384,7 +4373,6 @@
     <catalog_num>63606_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125636067</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Vibration massage, bubble massage</description>
@@ -5088,7 +5076,6 @@
     <catalog_num>53106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125531065</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Foot warmer</description>
@@ -5156,7 +5143,6 @@
     <catalog_num>50024_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125500245</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Foot warmer</description>
@@ -5224,7 +5210,6 @@
     <catalog_num>20041_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200411</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5293,7 +5278,6 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5361,7 +5345,6 @@
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5630,7 +5613,6 @@
     <catalog_num>20046_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200466</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -6100,7 +6082,6 @@
     <catalog_num>20049_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200497</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Fleece fibre heated pad</description>
@@ -6168,7 +6149,6 @@
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6303,7 +6283,6 @@
     <catalog_num>40053_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125400538</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6371,7 +6350,6 @@
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated underblanket</description>
@@ -6784,7 +6762,6 @@
     <catalog_num>67915_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125679156</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>yes</description>
@@ -7116,7 +7093,6 @@
     <catalog_num>10549_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105495</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated bed</description>
@@ -7184,7 +7160,6 @@
     <catalog_num>10545_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105457</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Comfortable heated mat provides soothing heat for your pet</description>
@@ -7319,7 +7294,6 @@
     <catalog_num>64814_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Vibration</description>
@@ -7462,7 +7436,6 @@
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1 EMS belt for core abdominal muscles and lower back muscles</description>
@@ -8077,7 +8050,6 @@
     <catalog_num>60132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125601324</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Steam vaporizer</description>
@@ -8416,7 +8388,6 @@
     <catalog_num>10522_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105228</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4 x premium plaque eraser brush head, medium hardness; Compatible with all Philips Sonicare toothbrushes except Philips One and Kids</description>
@@ -8503,7 +8474,6 @@
     <catalog_num>10523_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105235</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4 Protection Plus toothbrush heads in black with soft bristles – for gentle teeth cleaning; Compatible with all Philips Sonicare toothbrushes except Philips One and Kids</description>
@@ -8547,7 +8517,6 @@
     <catalog_num>57119_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571191</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 abrasive rollers for use with the Beurer MP 59 Wet and Dry Portable Pedicure Device.</description>
@@ -8591,7 +8560,6 @@
     <catalog_num>59110_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591106</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>45 W</description>
@@ -8667,7 +8635,6 @@
     <catalog_num>59107_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591076</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Soft-touch surface</description>
@@ -8988,7 +8955,6 @@
     <catalog_num>10492_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104924</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Electric Toothbrush</description>
@@ -10255,7 +10221,6 @@
     <catalog_num>65486_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125654863</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With stand</description>
@@ -11451,7 +11416,6 @@
     <catalog_num>58132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125581329</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Removes split ends quickly and effectively - without losing length</description>
@@ -12105,7 +12069,6 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>4211125104849</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Powerful 1600 W digital motor</description>
@@ -12701,7 +12664,6 @@
     <catalog_num>60503_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125605032</ean_barcode>
-    <expectedDelivery>01.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Facial Sauna and Steam Inhaler</description>
@@ -13302,83 +13264,6 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303462573?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303462573</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006303338471</source_vendor_id>
-    <source_group_id>0006303337959</source_group_id>
-    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
-    <source_subgroup_id>0006303337969</source_subgroup_id>
-    <source_subgroup_name>Уреди за красота</source_subgroup_name>
-    <articleMainkind>Уреди за здраве и красота</articleMainkind>
-    <articleMainkindUid>H_B</articleMainkindUid>
-    <articlekind>Машинки за бръснене</articlekind>
-    <articlekindUid>0006303542328</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>10254_BEU_10505_BEU</catalog_num>
-    <code>PRM</code>
-    <currency>EUR</currency>
-    <description>Специална цена. Валидност до 31.10.2026г. или до изчерпване на складовите наличности</description>
-    <ean_barcode>-</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>360° flex shaver head for optimum  contour alignmen</description>
-        <name>Функции</name>
-      </characteristic>
-      <characteristic>
-        <description>LED display with battery status in %, charging indicator,  travel lock and cleaning symbol</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Waterproof (IPX7): The device can also be used in the shower or bath</description>
-        <name>Водоустойчивост</name>
-      </characteristic>
-      <characteristic>
-        <description>60 minute operating time</description>
-        <name>Време за работа</name>
-      </characteristic>
-      <characteristic>
-        <description>90 minute charging time; Quick-charge function (10-minute operating time; 5-minute charging time)</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>Powerful lithium battery</description>
-        <name>Захранване, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Индикатор за изтощена батерия</name>
-      </characteristic>
-      <characteristic>
-        <description>Incl. charger and storage station, cleaning brush,  USB-C cable with adapter, shaver head protective cover</description>
-        <name>Аксесоари</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>360° flexible shaver head; Magnetic fixation for easy removal of the shaver head</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307281996</id>
-    <kkprice>58.325</kkprice>
-    <model>Beurer MN8X Rotation shaver + Beurer MN3X mini trimer</model>
-    <name>Машинка за бръснене</name>
-    <picture_name>0006307281996</picture_name>
-    <price>40.99</price>
-    <price_dds>49.188</price_dds>
-    <realPrice_BGL>40.99</realPrice_BGL>
-    <realPrice_BGL_dds>49.188</realPrice_BGL_dds>
-    <kkprice_BGL>58.325</kkprice_BGL>
-    <kkprice_BGL_dds>69.99</kkprice_BGL_dds>
-    <realPrice>40.99</realPrice>
-    <small_picture>/poly/image/0006307281996</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85102000</taxCode>
-    <vendorName>BEURER</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307281996?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307281996</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412450</source_vendor_id>
@@ -38947,6 +38832,69 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307302381?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307302381</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412406</source_subgroup_id>
+    <source_subgroup_name>Кухненски пособия</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски прибори</articlekind>
+    <articlekindUid>0006302418414</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>N1150210</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4168430012577</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Storage Box</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>Capacity: 0.7 l</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Material of manufacture: Stainless steel; 100% leak-proof</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Oven safe, up to 250°C without lid</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Microwave safe, without lid</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Freezer safe, down to -40°C</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+      <characteristic>
+        <description>Dishwasher safe</description>
+        <name>Х-ка 6</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307334880</id>
+    <kkprice>17.33333</kkprice>
+    <model>Tefal N1150210 Mseal Steel Rd 0.7 L Blue Tef1</model>
+    <name>Кутия за съхранение</name>
+    <picture_name>0006307334880</picture_name>
+    <price>17.18083</price>
+    <price_dds>20.616996</price_dds>
+    <realPrice_BGL>15.462747</realPrice_BGL>
+    <realPrice_BGL_dds>18.5552964</realPrice_BGL_dds>
+    <kkprice_BGL>17.33333</kkprice_BGL>
+    <kkprice_BGL_dds>20.799996</kkprice_BGL_dds>
+    <realPrice>15.462747</realPrice>
+    <small_picture>/poly/image/0006307334880</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>39241000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307334880?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307334880</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
