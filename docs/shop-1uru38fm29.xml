@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-03T08:54:25Z" count="806" duplicates_skipped="0">
+<products generated_at="2026-11-04T08:25:18Z" count="806" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -923,7 +923,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70905_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125709051</ean_barcode>
     <characteristics>
       <characteristic>
@@ -968,13 +970,13 @@
     <model>Beurer DS 61 nutritional analysis scale; Nutritional and energy values for 950 saved foods (kcal, kJ, fat, bread units, protein, carbohydrates and cholesterol) and space for 50 customisablememory spaces; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339132</picture_name>
-    <price>30.93</price>
-    <price_dds>37.116</price_dds>
-    <realPrice_BGL>27.837</realPrice_BGL>
-    <realPrice_BGL_dds>33.4044</realPrice_BGL_dds>
+    <price>22.5789</price>
+    <price_dds>27.09468</price_dds>
+    <realPrice_BGL>22.5789</realPrice_BGL>
+    <realPrice_BGL_dds>27.09468</realPrice_BGL_dds>
     <kkprice_BGL>39.15833</kkprice_BGL>
     <kkprice_BGL_dds>46.989996</kkprice_BGL_dds>
-    <realPrice>27.837</realPrice>
+    <realPrice>22.5789</realPrice>
     <small_picture>/poly/image/0006303339132</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -1278,7 +1280,9 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>75733_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125757335</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1319,13 +1323,13 @@
     <model>Beurer GS 225 White Glass bathroom scale, Magic LED display; Automatic switch-off, overload indicator; height 2.7 cm; 180 kg / 100 g  5 years warranty; White</model>
     <name>Везна</name>
     <picture_name>0006307117232</picture_name>
-    <price>22.29928</price>
-    <price_dds>26.759136</price_dds>
-    <realPrice_BGL>20.069352</realPrice_BGL>
-    <realPrice_BGL_dds>24.0832224</realPrice_BGL_dds>
+    <price>15.61</price>
+    <price_dds>18.732</price_dds>
+    <realPrice_BGL>15.61</realPrice_BGL>
+    <realPrice_BGL_dds>18.732</realPrice_BGL_dds>
     <kkprice_BGL>27.90833</kkprice_BGL>
     <kkprice_BGL_dds>33.489996</kkprice_BGL_dds>
-    <realPrice>20.069352</realPrice>
+    <realPrice>15.61</realPrice>
     <small_picture>/poly/image/0006307117232</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231090</taxCode>
@@ -1345,8 +1349,9 @@
     <articlekindUid>0006302561058</articlekindUid>
     <available>на склад</available>
     <catalog_num>70406_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125704063</ean_barcode>
     <characteristics>
       <characteristic>
@@ -1391,13 +1396,13 @@
     <model>Beurer KS 19 fresh kitchen scale; 5 kg / 1 g</model>
     <name>Везна</name>
     <picture_name>0006303339117</picture_name>
-    <price>13.3857</price>
-    <price_dds>16.06284</price_dds>
-    <realPrice_BGL>12.04713</realPrice_BGL>
-    <realPrice_BGL_dds>14.456556</realPrice_BGL_dds>
+    <price>9.373</price>
+    <price_dds>11.2476</price_dds>
+    <realPrice_BGL>9.373</realPrice_BGL>
+    <realPrice_BGL_dds>11.2476</realPrice_BGL_dds>
     <kkprice_BGL>16.65833</kkprice_BGL>
     <kkprice_BGL_dds>19.989996</kkprice_BGL_dds>
-    <realPrice>12.04713</realPrice>
+    <realPrice>9.373</realPrice>
     <small_picture>/poly/image/0006303339117</small_picture>
     <stokaType>1</stokaType>
     <taxCode>84231010</taxCode>
@@ -3385,7 +3390,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10420_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125104207</ean_barcode>
     <characteristics>
       <characteristic>
@@ -3430,13 +3437,13 @@
     <model>Beurer MG 154 4D Battery-Powered Neck Massager, 4 massage heads + 2 massage fingers;  2 speed; Hands-free; Automatic switch-off; Heat function; Washable removable cover</model>
     <name>Масажор</name>
     <picture_name>0006307032207</picture_name>
-    <price>69.67829</price>
-    <price_dds>83.613948</price_dds>
-    <realPrice_BGL>62.710461</realPrice_BGL>
-    <realPrice_BGL_dds>75.2525532</realPrice_BGL_dds>
+    <price>49.8212</price>
+    <price_dds>59.78544</price_dds>
+    <realPrice_BGL>49.8212</realPrice_BGL>
+    <realPrice_BGL_dds>59.78544</realPrice_BGL_dds>
     <kkprice_BGL>87.49167</kkprice_BGL>
     <kkprice_BGL_dds>104.990004</kkprice_BGL_dds>
-    <realPrice>62.710461</realPrice>
+    <realPrice>49.8212</realPrice>
     <small_picture>/poly/image/0006307032207</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85437090</taxCode>
@@ -6529,7 +6536,9 @@
     <articlekindUid>0006302421216</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>68007_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125680077</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6550,13 +6559,13 @@
     <model>Beurer LR 220 Filter-set, HEPA filter</model>
     <name>Филтър</name>
     <picture_name>0006303901676</picture_name>
-    <price>26.28772</price>
-    <price_dds>31.545264</price_dds>
-    <realPrice_BGL>23.658948</realPrice_BGL>
-    <realPrice_BGL_dds>28.3907376</realPrice_BGL_dds>
+    <price>18.403</price>
+    <price_dds>22.0836</price_dds>
+    <realPrice_BGL>18.403</realPrice_BGL>
+    <realPrice_BGL_dds>22.0836</realPrice_BGL_dds>
     <kkprice_BGL>32.90833</kkprice_BGL>
     <kkprice_BGL_dds>39.489996</kkprice_BGL_dds>
-    <realPrice>23.658948</realPrice>
+    <realPrice>18.403</realPrice>
     <small_picture>/poly/image/0006303901676</small_picture>
     <stokaType>1</stokaType>
     <taxCode>59119099</taxCode>
@@ -6949,7 +6958,9 @@
     <articlekindUid>0006303338359</articlekindUid>
     <available>на склад</available>
     <catalog_num>10524_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105242</ean_barcode>
     <characteristics>
       <characteristic>
@@ -6994,13 +7005,13 @@
     <model>Beurer PP 410 Buddy Massager; Gentle kneading massage - specially developed for pets;Safe to use;Particularly quiet</model>
     <name>Масажор</name>
     <picture_name>0006307179749</picture_name>
-    <price>32.57806</price>
-    <price_dds>39.093672</price_dds>
-    <realPrice_BGL>29.320254</realPrice_BGL>
-    <realPrice_BGL_dds>35.1843048</realPrice_BGL_dds>
+    <price>23.7834</price>
+    <price_dds>28.54008</price_dds>
+    <realPrice_BGL>23.7834</realPrice_BGL>
+    <realPrice_BGL_dds>28.54008</realPrice_BGL_dds>
     <kkprice_BGL>41.65833</kkprice_BGL>
     <kkprice_BGL_dds>49.989996</kkprice_BGL_dds>
-    <realPrice>29.320254</realPrice>
+    <realPrice>23.7834</realPrice>
     <small_picture>/poly/image/0006307179749</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -7225,7 +7236,9 @@
     <articlekindUid>0006303338355</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10544_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105440</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7266,13 +7279,13 @@
     <model>Beurer PP 220 Sammy Large heating mat for dogs and cats; Proven safety; Integrated bite protection on the power cable&amp;protected heating element; Machine-washable cover and waterproof heating element</model>
     <name>Термоподложка</name>
     <picture_name>0006307185859</picture_name>
-    <price>48.03051</price>
-    <price_dds>57.636612</price_dds>
-    <realPrice_BGL>43.227459</realPrice_BGL>
-    <realPrice_BGL_dds>51.8729508</realPrice_BGL_dds>
+    <price>35.0619</price>
+    <price_dds>42.07428</price_dds>
+    <realPrice_BGL>35.0619</realPrice_BGL>
+    <realPrice_BGL_dds>42.07428</realPrice_BGL_dds>
     <kkprice_BGL>60.825</kkprice_BGL>
     <kkprice_BGL_dds>72.99</kkprice_BGL_dds>
-    <realPrice>43.227459</realPrice>
+    <realPrice>35.0619</realPrice>
     <small_picture>/poly/image/0006307185859</small_picture>
     <stokaType>1</stokaType>
     <taxCode>63079010</taxCode>
@@ -7881,7 +7894,9 @@
     <articlekindUid>0006303338366</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>61045_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125610456</ean_barcode>
     <characteristics>
       <characteristic>
@@ -7938,13 +7953,13 @@
     <model>Beurer OT 20 BasalControl Basic - Ovulation thermometer; Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Measuring time: Up to 3 minutes</model>
     <name>Термометър</name>
     <picture_name>0006307322492</picture_name>
-    <price>9.3</price>
-    <price_dds>11.16</price_dds>
-    <realPrice_BGL>8.37</realPrice_BGL>
-    <realPrice_BGL_dds>10.044</realPrice_BGL_dds>
+    <price>6.51</price>
+    <price_dds>7.812</price_dds>
+    <realPrice_BGL>6.51</realPrice_BGL>
+    <realPrice_BGL_dds>7.812</realPrice_BGL_dds>
     <kkprice_BGL>11.65833</kkprice_BGL>
     <kkprice_BGL_dds>13.989996</kkprice_BGL_dds>
-    <realPrice>8.37</realPrice>
+    <realPrice>6.51</realPrice>
     <small_picture>/poly/image/0006307322492</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90251900</taxCode>
@@ -7964,7 +7979,9 @@
     <articlekindUid>0006303338366</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>79106_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125791063</ean_barcode>
     <characteristics>
       <characteristic>
@@ -8021,13 +8038,13 @@
     <model>Beurer OT 30 BasalControl Smart, Ovulation thermometer, Bluetooth, Suitable for oral &amp; vaginal measurements; Can be disinfected, Waterproof, Wireless transfer of the data</model>
     <name>Термометър</name>
     <picture_name>0006303339323</picture_name>
-    <price>40.11157</price>
-    <price_dds>48.133884</price_dds>
-    <realPrice_BGL>36.100413</realPrice_BGL>
-    <realPrice_BGL_dds>43.3204956</realPrice_BGL_dds>
+    <price>28.077</price>
+    <price_dds>33.6924</price_dds>
+    <realPrice_BGL>28.077</realPrice_BGL>
+    <realPrice_BGL_dds>33.6924</realPrice_BGL_dds>
     <kkprice_BGL>49.99167</kkprice_BGL>
     <kkprice_BGL_dds>59.990004</kkprice_BGL_dds>
-    <realPrice>36.100413</realPrice>
+    <realPrice>28.077</realPrice>
     <small_picture>/poly/image/0006303339323</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90251900</taxCode>
@@ -8998,7 +9015,7 @@
     </characteristics>
     <id>0006307141262</id>
     <kkprice>24.99167</kkprice>
-    <model>Beurer TB 15 Electric toothbrush; 2 cleaning programs; 12days Battery life; 2-min timer; Oscillating, pulsating, brushing technology; Incl. USB-C charging cable and Clean brush head; white</model>
+    <model>Beurer TB 15 Electric toothbrush; 2 cleaning programs; 12days Battery life; 2-min timer; Oscillating, pulsating, brushing technology; Incl. USB-C charging cable and Clean Eco brush head; white</model>
     <name>Електрическа четка за зъби</name>
     <picture_name>0006307141262</picture_name>
     <price>20.06418</price>
@@ -9474,7 +9491,9 @@
     <articlekindUid>0006302420553</articlekindUid>
     <available>на склад</available>
     <catalog_num>57612_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125576127</ean_barcode>
     <characteristics>
       <characteristic>
@@ -9523,13 +9542,13 @@
     <model>Beurer HL 16, facial hair remover</model>
     <name>Епилатор</name>
     <picture_name>0006303793868</picture_name>
-    <price>15.38952</price>
-    <price_dds>18.467424</price_dds>
-    <realPrice_BGL>13.850568</realPrice_BGL>
-    <realPrice_BGL_dds>16.6206816</realPrice_BGL_dds>
+    <price>10.773</price>
+    <price_dds>12.9276</price_dds>
+    <realPrice_BGL>10.773</realPrice_BGL>
+    <realPrice_BGL_dds>12.9276</realPrice_BGL_dds>
     <kkprice_BGL>19.15833</kkprice_BGL>
     <kkprice_BGL_dds>22.989996</kkprice_BGL_dds>
-    <realPrice>13.850568</realPrice>
+    <realPrice>10.773</realPrice>
     <small_picture>/poly/image/0006303793868</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85103000</taxCode>
@@ -9549,7 +9568,9 @@
     <articlekindUid>0006302420553</articlekindUid>
     <available>на склад</available>
     <catalog_num>57614_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125576141</ean_barcode>
     <characteristics>
       <characteristic>
@@ -9602,13 +9623,13 @@
     <model>Beurer HL 76 4-in-1 Epilator wet &amp; dry , 42 tweezers, Extra-bright LED light, 2 speed settings, 2x epilator attachments (glide &amp; precision attachment) &amp; 2x shaver attachments (shaving &amp; trimming attachment), Cordless, Powerful lithium-ion battery, Operat</model>
     <name>Епилатор</name>
     <picture_name>0006303902565</picture_name>
-    <price>53.57598</price>
-    <price_dds>64.291176</price_dds>
-    <realPrice_BGL>48.218382</realPrice_BGL>
-    <realPrice_BGL_dds>57.8620584</realPrice_BGL_dds>
+    <price>37.506</price>
+    <price_dds>45.0072</price_dds>
+    <realPrice_BGL>37.506</realPrice_BGL>
+    <realPrice_BGL_dds>45.0072</realPrice_BGL_dds>
     <kkprice_BGL>66.65833</kkprice_BGL>
     <kkprice_BGL_dds>79.989996</kkprice_BGL_dds>
-    <realPrice>48.218382</realPrice>
+    <realPrice>37.506</realPrice>
     <small_picture>/poly/image/0006303902565</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85103000</taxCode>
@@ -10873,8 +10894,9 @@
     <articlekindUid>0006302420817</articlekindUid>
     <available>на склад</available>
     <catalog_num>10194_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125101947</ean_barcode>
     <characteristics>
       <characteristic>
@@ -10927,13 +10949,13 @@
     <model>Beurer HT 75 Automatic Hair Curler, 4-way ion outlet, 3 temperature settings: 170, 190, 210°C, Ceramic and tourmaline-coated, Smart timer</model>
     <name>Маша</name>
     <picture_name>0006306101391</picture_name>
-    <price>52.25</price>
-    <price_dds>62.7</price_dds>
-    <realPrice_BGL>47.025</realPrice_BGL>
-    <realPrice_BGL_dds>56.43</realPrice_BGL_dds>
+    <price>36.575</price>
+    <price_dds>43.89</price_dds>
+    <realPrice_BGL>36.575</realPrice_BGL>
+    <realPrice_BGL_dds>43.89</realPrice_BGL_dds>
     <kkprice_BGL>65.825</kkprice_BGL>
     <kkprice_BGL_dds>78.99</kkprice_BGL_dds>
-    <realPrice>47.025</realPrice>
+    <realPrice>36.575</realPrice>
     <small_picture>/poly/image/0006306101391</small_picture>
     <stokaType>1</stokaType>
     <taxCode>L85163200</taxCode>
@@ -11036,8 +11058,9 @@
     <articlekindUid>0006302420567</articlekindUid>
     <available>на склад</available>
     <catalog_num>10074_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100742</ean_barcode>
     <characteristics>
       <characteristic>
@@ -11090,13 +11113,13 @@
     <model>Beurer HS 15 Hair straightener, Ceramic coating, Quick heating, Spring-mounted hot plates,  Automatic switch-off after 30 minutes, Transport lock</model>
     <name>Преса</name>
     <picture_name>0006306015354</picture_name>
-    <price>15.9858</price>
-    <price_dds>19.18296</price_dds>
-    <realPrice_BGL>14.38722</realPrice_BGL>
-    <realPrice_BGL_dds>17.264664</realPrice_BGL_dds>
+    <price>11.193</price>
+    <price_dds>13.4316</price_dds>
+    <realPrice_BGL>11.193</realPrice_BGL>
+    <realPrice_BGL_dds>13.4316</realPrice_BGL_dds>
     <kkprice_BGL>19.99167</kkprice_BGL>
     <kkprice_BGL_dds>23.990004</kkprice_BGL_dds>
-    <realPrice>14.38722</realPrice>
+    <realPrice>11.193</realPrice>
     <small_picture>/poly/image/0006306015354</small_picture>
     <stokaType>1</stokaType>
     <taxCode>L85163200</taxCode>
@@ -11264,7 +11287,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>59400_BEU</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -11336,7 +11359,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10409_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104092</ean_barcode>
@@ -11559,7 +11582,9 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>на склад</available>
     <catalog_num>10072_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100728</ean_barcode>
     <characteristics>
       <characteristic>
@@ -11604,13 +11629,13 @@
     <model>Beurer HC 17 Hair dryer, 1 300 W, ergonomic folding handle, 2 heat settings, 2 blower settings, slim professional nozzle, overheating protection</model>
     <name>Сешоар</name>
     <picture_name>0006306015381</picture_name>
-    <price>13.70698</price>
-    <price_dds>16.448376</price_dds>
-    <realPrice_BGL>12.336282</realPrice_BGL>
-    <realPrice_BGL_dds>14.8035384</realPrice_BGL_dds>
+    <price>10.0083</price>
+    <price_dds>12.00996</price_dds>
+    <realPrice_BGL>10.0083</realPrice_BGL>
+    <realPrice_BGL_dds>12.00996</realPrice_BGL_dds>
     <kkprice_BGL>17.49167</kkprice_BGL>
     <kkprice_BGL_dds>20.990004</kkprice_BGL_dds>
-    <realPrice>12.336282</realPrice>
+    <realPrice>10.0083</realPrice>
     <small_picture>/poly/image/0006306015381</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -11989,8 +12014,9 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>10083_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100834</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12039,13 +12065,13 @@
     <model>Beurer HC 100 Excellence Hair dryer, ECO technology, lightweight and ergonomic, Slim, magnetic nozzle and diffuser, Ion function, 4 temperature and blower settings, Integrated memory function</model>
     <name>Сешоар</name>
     <picture_name>0006306084911</picture_name>
-    <price>127.22</price>
-    <price_dds>152.664</price_dds>
-    <realPrice_BGL>114.498</realPrice_BGL>
-    <realPrice_BGL_dds>137.3976</realPrice_BGL_dds>
+    <price>89.054</price>
+    <price_dds>106.8648</price_dds>
+    <realPrice_BGL>89.054</realPrice_BGL>
+    <realPrice_BGL_dds>106.8648</realPrice_BGL_dds>
     <kkprice_BGL>158.325</kkprice_BGL>
     <kkprice_BGL_dds>189.99</kkprice_BGL_dds>
-    <realPrice>114.498</realPrice>
+    <realPrice>89.054</realPrice>
     <small_picture>/poly/image/0006306084911</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -12141,7 +12167,9 @@
     <articlekindUid>0006303338370</articlekindUid>
     <available>на склад</available>
     <catalog_num>58417_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125584177</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12190,13 +12218,13 @@
     <model>Beurer FC 41 Deep pore cleanser, vacuum technology, LCD display, 3 attachments, 5 speed levels, for all skin types</model>
     <name>Уред за лице</name>
     <picture_name>0006303683056</picture_name>
-    <price>23.50454</price>
-    <price_dds>28.205448</price_dds>
-    <realPrice_BGL>21.154086</realPrice_BGL>
-    <realPrice_BGL_dds>25.3849032</realPrice_BGL_dds>
+    <price>16.457</price>
+    <price_dds>19.7484</price_dds>
+    <realPrice_BGL>16.457</realPrice_BGL>
+    <realPrice_BGL_dds>19.7484</realPrice_BGL_dds>
     <kkprice_BGL>29.575</kkprice_BGL>
     <kkprice_BGL_dds>35.49</kkprice_BGL_dds>
-    <realPrice>21.154086</realPrice>
+    <realPrice>16.457</realPrice>
     <small_picture>/poly/image/0006303683056</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -12216,8 +12244,9 @@
     <articlekindUid>0006303338370</articlekindUid>
     <available>на склад</available>
     <catalog_num>60550_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125605506</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12258,13 +12287,13 @@
     <model>Beurer FC 45 Facial brush,1 attachments, 2 speeds,water-resistant,Lithium-ion battery,For daily use</model>
     <name>Уред за лице</name>
     <picture_name>0006303339372</picture_name>
-    <price>14.9907</price>
-    <price_dds>17.98884</price_dds>
-    <realPrice_BGL>13.49163</realPrice_BGL>
-    <realPrice_BGL_dds>16.189956</realPrice_BGL_dds>
+    <price>10.493</price>
+    <price_dds>12.5916</price_dds>
+    <realPrice_BGL>10.493</realPrice_BGL>
+    <realPrice_BGL_dds>12.5916</realPrice_BGL_dds>
     <kkprice_BGL>18.74167</kkprice_BGL>
     <kkprice_BGL_dds>22.490004</kkprice_BGL_dds>
-    <realPrice>13.49163</realPrice>
+    <realPrice>10.493</realPrice>
     <small_picture>/poly/image/0006303339372</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -12353,7 +12382,9 @@
     <articlekindUid>0006303338370</articlekindUid>
     <available>на склад</available>
     <catalog_num>10019_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125100193</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12410,13 +12441,13 @@
     <model>Beurer FC 52 Laguna silicone facial brush, 2-in-1 function - deep-pore cleansing &amp; gently massage, Vibration technology, 15 intensities, Water-resistant, USB-C charging cable</model>
     <name>Уред за лице</name>
     <picture_name>0006304027751</picture_name>
-    <price>25.0621</price>
-    <price_dds>30.07452</price_dds>
-    <realPrice_BGL>22.55589</realPrice_BGL>
-    <realPrice_BGL_dds>27.067068</realPrice_BGL_dds>
+    <price>17.542</price>
+    <price_dds>21.0504</price_dds>
+    <realPrice_BGL>17.542</realPrice_BGL>
+    <realPrice_BGL_dds>21.0504</realPrice_BGL_dds>
     <kkprice_BGL>31.65833</kkprice_BGL>
     <kkprice_BGL_dds>37.989996</kkprice_BGL_dds>
-    <realPrice>22.55589</realPrice>
+    <realPrice>17.542</realPrice>
     <small_picture>/poly/image/0006304027751</small_picture>
     <stokaType>1</stokaType>
     <taxCode>90191090</taxCode>
@@ -12791,7 +12822,9 @@
     <articlekindUid>0006302420553</articlekindUid>
     <available>на склад</available>
     <catalog_num>57500_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125575007</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12840,13 +12873,13 @@
     <model>Beurer IPL 5800 PureSkin Pro Hair-remover, Auto flash, 3.1 cm2, 600 000 pulses, safe skin sensor, UV filter, 3 energy levels, black</model>
     <name>Фотоепилатор</name>
     <picture_name>0006303615413</picture_name>
-    <price>119.19738</price>
-    <price_dds>143.036856</price_dds>
-    <realPrice_BGL>107.277642</realPrice_BGL>
-    <realPrice_BGL_dds>128.7331704</realPrice_BGL_dds>
+    <price>83.44</price>
+    <price_dds>100.128</price_dds>
+    <realPrice_BGL>83.44</realPrice_BGL>
+    <realPrice_BGL_dds>100.128</realPrice_BGL_dds>
     <kkprice_BGL>149.16667</kkprice_BGL>
     <kkprice_BGL_dds>179.000004</kkprice_BGL_dds>
-    <realPrice>107.277642</realPrice>
+    <realPrice>83.44</realPrice>
     <small_picture>/poly/image/0006303615413</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85437090</taxCode>
@@ -12866,7 +12899,9 @@
     <articlekindUid>0006302420553</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>57503_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125575038</ean_barcode>
     <characteristics>
       <characteristic>
@@ -12915,13 +12950,13 @@
     <model>Beurer IPL 7800 Cool Pro IPL hair removal device; State-of-the-art IPL light technology; 3.8 cmІ light area; UV filter; built-in skin contact sensor; "auto flash" mode</model>
     <name>Фотоепилатор</name>
     <picture_name>0006306101485</picture_name>
-    <price>154.53</price>
-    <price_dds>185.436</price_dds>
-    <realPrice_BGL>139.077</realPrice_BGL>
-    <realPrice_BGL_dds>166.8924</realPrice_BGL_dds>
+    <price>108.171</price>
+    <price_dds>129.8052</price_dds>
+    <realPrice_BGL>108.171</realPrice_BGL>
+    <realPrice_BGL_dds>129.8052</realPrice_BGL_dds>
     <kkprice_BGL>191.65833</kkprice_BGL>
     <kkprice_BGL_dds>229.989996</kkprice_BGL_dds>
-    <realPrice>139.077</realPrice>
+    <realPrice>108.171</realPrice>
     <small_picture>/poly/image/0006306101485</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85437090</taxCode>
@@ -13020,7 +13055,9 @@
     <articlekindUid>0006303338370</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>60512_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125605124</ean_barcode>
     <characteristics>
       <characteristic>
@@ -13077,13 +13114,13 @@
     <model>Beurer FC 55 Powered body brush,2 attachments, 2 speeds,water-resistant,Lithium-ion battery,removable handle</model>
     <name>Четка за тяло</name>
     <picture_name>0006303339369</picture_name>
-    <price>45.71613</price>
-    <price_dds>54.859356</price_dds>
-    <realPrice_BGL>41.144517</realPrice_BGL>
-    <realPrice_BGL_dds>49.3734204</realPrice_BGL_dds>
+    <price>29.718</price>
+    <price_dds>35.6616</price_dds>
+    <realPrice_BGL>29.718</realPrice_BGL>
+    <realPrice_BGL_dds>35.6616</realPrice_BGL_dds>
     <kkprice_BGL>57.49167</kkprice_BGL>
     <kkprice_BGL_dds>68.990004</kkprice_BGL_dds>
-    <realPrice>41.144517</realPrice>
+    <realPrice>29.718</realPrice>
     <small_picture>/poly/image/0006303339369</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85098000</taxCode>
@@ -13103,8 +13140,9 @@
     <articlekindUid>0006303743678</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>60556_BEU</catalog_num>
-    <code>PRS</code>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125605568</ean_barcode>
     <characteristics>
       <characteristic>
@@ -13121,13 +13159,13 @@
     <model>Beurer FC 95 Brush attachments - Regular 2 pcs</model>
     <name>Аксесоар</name>
     <picture_name>0006303398940</picture_name>
-    <price>7.28</price>
-    <price_dds>8.736</price_dds>
-    <realPrice_BGL>6.552</realPrice_BGL>
-    <realPrice_BGL_dds>7.8624</realPrice_BGL_dds>
+    <price>4.732</price>
+    <price_dds>5.6784</price_dds>
+    <realPrice_BGL>4.732</realPrice_BGL>
+    <realPrice_BGL_dds>5.6784</realPrice_BGL_dds>
     <kkprice_BGL>9.15833</kkprice_BGL>
     <kkprice_BGL_dds>10.989996</kkprice_BGL_dds>
-    <realPrice>6.552</realPrice>
+    <realPrice>4.732</realPrice>
     <small_picture>/poly/image/0006303398940</small_picture>
     <stokaType>1</stokaType>
     <taxCode>96032980</taxCode>
@@ -13147,7 +13185,9 @@
     <articlekindUid>0006303743678</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>60558_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125605582</ean_barcode>
     <characteristics>
       <characteristic>
@@ -13164,13 +13204,13 @@
     <model>Beurer FC 95 Brush attachments - Exfoliation 2 pcs</model>
     <name>Аксесоар</name>
     <picture_name>0006303462569</picture_name>
-    <price>7.28455</price>
-    <price_dds>8.74146</price_dds>
-    <realPrice_BGL>6.556095</realPrice_BGL>
-    <realPrice_BGL_dds>7.867314</realPrice_BGL_dds>
+    <price>4.732</price>
+    <price_dds>5.6784</price_dds>
+    <realPrice_BGL>4.732</realPrice_BGL>
+    <realPrice_BGL_dds>5.6784</realPrice_BGL_dds>
     <kkprice_BGL>9.15833</kkprice_BGL>
     <kkprice_BGL_dds>10.989996</kkprice_BGL_dds>
-    <realPrice>6.556095</realPrice>
+    <realPrice>4.732</realPrice>
     <small_picture>/poly/image/0006303462569</small_picture>
     <stokaType>1</stokaType>
     <taxCode>96032980</taxCode>
@@ -13233,7 +13273,9 @@
     <articlekindUid>0006303743678</articlekindUid>
     <available>oграничено количество</available>
     <catalog_num>60551_BEU</catalog_num>
+    <code>PRM</code>
     <currency>EUR</currency>
+    <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125605513</ean_barcode>
     <characteristics>
       <characteristic>
@@ -13250,13 +13292,13 @@
     <model>Beurer FC 45 Replacement set 1 pc brush</model>
     <name>Аксесоар</name>
     <picture_name>0006303462573</picture_name>
-    <price>4.41824</price>
-    <price_dds>5.301888</price_dds>
-    <realPrice_BGL>3.976416</realPrice_BGL>
-    <realPrice_BGL_dds>4.7716992</realPrice_BGL_dds>
+    <price>2.873</price>
+    <price_dds>3.4476</price_dds>
+    <realPrice_BGL>2.873</realPrice_BGL>
+    <realPrice_BGL_dds>3.4476</realPrice_BGL_dds>
     <kkprice_BGL>5.825</kkprice_BGL>
     <kkprice_BGL_dds>6.99</kkprice_BGL_dds>
-    <realPrice>3.976416</realPrice>
+    <realPrice>2.873</realPrice>
     <small_picture>/poly/image/0006303462573</small_picture>
     <stokaType>1</stokaType>
     <taxCode>96032980</taxCode>
@@ -13381,7 +13423,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>EA910E10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173523</ean_barcode>
@@ -13488,7 +13530,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>EA910A10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173530</ean_barcode>
@@ -15734,7 +15776,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>XP350AE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -16704,7 +16746,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>KP1A3B10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661159121</ean_barcode>
@@ -18553,7 +18595,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>CF9940F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040088883</ean_barcode>
@@ -19413,7 +19455,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>CF635LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23316,7 +23358,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>CV7D30E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095942</ean_barcode>
@@ -23391,7 +23433,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CV5820F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -24806,7 +24848,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>TN6000F5</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040073476</ean_barcode>
@@ -24941,7 +24983,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>TN2801F4</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040082126</ean_barcode>
@@ -25479,7 +25521,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>TN3720E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -25613,7 +25655,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Машинки за пилинг</articlekind>
     <articlekindUid>0006303621115</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>JA1015D1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040091302</ean_barcode>
@@ -28116,7 +28158,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH6A35WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616113428</ean_barcode>
@@ -28700,7 +28742,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH5A21E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616176560</ean_barcode>
@@ -30884,7 +30926,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>GZ7257E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -33808,7 +33850,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>RO3726EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616129702</ean_barcode>
@@ -49276,7 +49318,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Месомелачки</articlekind>
     <articlekindUid>0006302560982</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>NE858D38</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -50592,7 +50634,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Чопъри</articlekind>
     <articlekindUid>0006302561106</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>MQ740HF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -54155,7 +54197,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV6812E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040077184</ean_barcode>
@@ -55927,7 +55969,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FV9865E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040071458</ean_barcode>
@@ -57718,7 +57760,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски роботи</articlekind>
     <articlekindUid>0006302419919</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DO8318E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667257012</ean_barcode>
@@ -58888,7 +58930,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>MY731BF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387297664</ean_barcode>
@@ -59277,7 +59319,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Тостери</articlekind>
     <articlekindUid>0006302421069</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>TT130130</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -60082,7 +60124,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>EY552DE0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -60166,7 +60208,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EY5568E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387293819</ean_barcode>
@@ -60667,7 +60709,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>EY8618E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380406018</ean_barcode>
@@ -61332,7 +61374,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>EY9278E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380407220</ean_barcode>
@@ -61597,7 +61639,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мини фурни</articlekind>
     <articlekindUid>0006302798966</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FW556DE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380027862</ean_barcode>
@@ -63955,7 +63997,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>PP1801V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095300</ean_barcode>
