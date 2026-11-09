@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-08T08:26:27Z" count="805" duplicates_skipped="0">
+<products generated_at="2026-11-09T08:56:24Z" count="803" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -7444,7 +7444,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
@@ -14494,7 +14494,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>EA5008E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -19456,7 +19456,6 @@
     <articlekindUid>0006302441140</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CF635LF0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040087107</ean_barcode>
     <characteristics>
@@ -19518,13 +19517,13 @@
     <model>Rowenta CF635LF0, HOT AIR BRUSH 6ACC/IONIC</model>
     <name>Електрическа четка за коса</name>
     <picture_name>0006304020190</picture_name>
-    <price>48.07768</price>
-    <price_dds>57.693216</price_dds>
-    <realPrice_BGL>43.269912</realPrice_BGL>
-    <realPrice_BGL_dds>51.9238944</realPrice_BGL_dds>
+    <price>48.07762</price>
+    <price_dds>57.693144</price_dds>
+    <realPrice_BGL>43.269858</realPrice_BGL>
+    <realPrice_BGL_dds>51.9238296</realPrice_BGL_dds>
     <kkprice_BGL>56.25</kkprice_BGL>
     <kkprice_BGL_dds>67.5</kkprice_BGL_dds>
-    <realPrice>43.269912</realPrice>
+    <realPrice>43.269858</realPrice>
     <small_picture>/poly/image/0006304020190</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163200</taxCode>
@@ -21943,7 +21942,6 @@
     <articlekindUid>0006302420567</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>SF1810F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040081846</ean_barcode>
     <characteristics>
@@ -23353,7 +23351,6 @@
     <articlekindUid>0006302417788</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CV5820F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040076989</ean_barcode>
     <characteristics>
@@ -23403,13 +23400,13 @@
     <model>Rowenta CV5820F0, Studio Dry, DC, Effiwatts technology 2100W equivalent 2300W, High drying rate of 5,5g/min, High air speed up to 80km/h, Ionic generator, Thermo Control, 6 settings, concentrator 14mm, cool air shot, removable grid</model>
     <name>Сешоар</name>
     <picture_name>0006303792600</picture_name>
-    <price>23.66972</price>
-    <price_dds>28.403664</price_dds>
-    <realPrice_BGL>21.302748</realPrice_BGL>
-    <realPrice_BGL_dds>25.5632976</realPrice_BGL_dds>
+    <price>23.66975</price>
+    <price_dds>28.4037</price_dds>
+    <realPrice_BGL>21.302775</realPrice_BGL>
+    <realPrice_BGL_dds>25.56333</realPrice_BGL_dds>
     <kkprice_BGL>24.33333</kkprice_BGL>
     <kkprice_BGL_dds>29.199996</kkprice_BGL_dds>
-    <realPrice>21.302748</realPrice>
+    <realPrice>21.302775</realPrice>
     <small_picture>/poly/image/0006303792600</small_picture>
     <stokaType>1</stokaType>
     <taxCode>85163100</taxCode>
@@ -27051,7 +27048,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>с поръчка</available>
+    <available>на склад</available>
     <catalog_num>RH98A7WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616048584</ean_barcode>
@@ -27928,7 +27925,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RH6A75WO</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -29674,7 +29671,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>RH7A73E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -30846,7 +30843,6 @@
     <articlekindUid>0006302021254</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>GZ7257E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221616184787</ean_barcode>
     <characteristics>
@@ -42784,7 +42780,6 @@
     <articlekindUid>0006302418156</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>B5674653</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168430313347</ean_barcode>
     <characteristics>
@@ -46181,7 +46176,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>XA725870</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -46575,7 +46570,6 @@
     <articlekindUid>0006302418156</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>XA730810</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168437250539</ean_barcode>
     <characteristics>
@@ -46623,7 +46617,6 @@
     <articlekindUid>0006302418156</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>XA733810</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168437251604</ean_barcode>
     <characteristics>
@@ -50551,7 +50544,6 @@
     <articlekindUid>0006302561106</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>MQ740HF0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045380403536</ean_barcode>
     <characteristics>
@@ -50593,7 +50585,7 @@
       </characteristic>
     </characteristics>
     <id>0006307263317</id>
-    <kkprice>36.66667</kkprice>
+    <kkprice>36.67</kkprice>
     <model>Tefal MQ740HF0 Mltt Easypress</model>
     <name>Чопър</name>
     <picture_name>0006307263317</picture_name>
@@ -50601,8 +50593,8 @@
     <price_dds>42.730692</price_dds>
     <realPrice_BGL>32.048019</realPrice_BGL>
     <realPrice_BGL_dds>38.4576228</realPrice_BGL_dds>
-    <kkprice_BGL>36.66667</kkprice_BGL>
-    <kkprice_BGL_dds>44.000004</kkprice_BGL_dds>
+    <kkprice_BGL>36.67</kkprice_BGL>
+    <kkprice_BGL_dds>44.004</kkprice_BGL_dds>
     <realPrice>32.048019</realPrice>
     <small_picture>/poly/image/0006307263317</small_picture>
     <stokaType>1</stokaType>
@@ -57469,7 +57461,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Барбекюта - електрически</articlekind>
     <articlekindUid>0006302560974</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>GC706D34</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -59235,98 +59227,6 @@
     <articlekind>Тостери</articlekind>
     <articlekindUid>0006302421069</articlekindUid>
     <available>с поръчка</available>
-    <catalog_num>TT130130</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3016661144714</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>850 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>2</description>
-        <name>Брой филии</name>
-      </characteristic>
-      <characteristic>
-        <description>2</description>
-        <name>Брой слотове</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Високо повдигане на филийките</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Стоп</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Размразяване</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Претопляне</name>
-      </characteristic>
-      <characteristic>
-        <description>7 browning levels</description>
-        <name>Степени на изпичане</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Автоматично центриране на хляба</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Едностранно изпичане</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Табла за трохи</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Поставка за хлебчета</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Затопляне на хлебчета</name>
-      </characteristic>
-      <characteristic>
-        <description>White</description>
-        <name>Цвят</name>
-      </characteristic>
-    </characteristics>
-    <id>0006302412616</id>
-    <kkprice>34</kkprice>
-    <model>Tefal TT130130, Delfini 2, Toaster, 850W, 2 Hole, 7 Stage thermostat, Stop function, Defrosting, Reheating, white</model>
-    <name>Тостер</name>
-    <picture_name>0006302412616</picture_name>
-    <price>30.42709</price>
-    <price_dds>36.512508</price_dds>
-    <realPrice_BGL>27.384381</realPrice_BGL>
-    <realPrice_BGL_dds>32.8612572</realPrice_BGL_dds>
-    <kkprice_BGL>34</kkprice_BGL>
-    <kkprice_BGL_dds>40.8</kkprice_BGL_dds>
-    <realPrice>27.384381</realPrice>
-    <small_picture>/poly/image/0006302412616</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85167200</taxCode>
-    <vendorName>TEFAL</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006302412616?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006302412616</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412449</source_vendor_id>
-    <source_group_id>0006302412410</source_group_id>
-    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412416</source_subgroup_id>
-    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Тостери</articlekind>
-    <articlekindUid>0006302421069</articlekindUid>
-    <available>с поръчка</available>
     <catalog_num>TT1A1830</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661156601, 3016661156601</ean_barcode>
@@ -60028,90 +59928,6 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307282106?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307282106</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412449</source_vendor_id>
-    <source_group_id>0006302412410</source_group_id>
-    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412416</source_subgroup_id>
-    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Уреди за здравословно готвене</articlekind>
-    <articlekindUid>0006303765245</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>EY552DE0</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3045387293703</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>1670 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>5.0 l for six dishes</description>
-        <name>Вместимост на купата, l</name>
-      </characteristic>
-      <characteristic>
-        <description>1.5 kg</description>
-        <name>Вместимост за храна, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>yes, Touch screen</description>
-        <name>Дисплей</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Автоматично изключване</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Таймер</name>
-      </characteristic>
-      <characteristic>
-        <description>yes</description>
-        <name>Подвижна купа</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Технология Actifry</name>
-      </characteristic>
-      <characteristic>
-        <description>28.0 x 39.5 x 35.0 cm</description>
-        <name>Размери (Ш, Д, В), cm</name>
-      </characteristic>
-      <characteristic>
-        <description>4.85 kg</description>
-        <name>Тегло, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>Black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>10 automatic programs, Extra-Crisp technology, Dishwasher safe; On/Off function; max temperature: 200°C; </description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006307282112</id>
-    <kkprice>141.66667</kkprice>
-    <model>Tefal EY552DE0 Fry Easy Fry Silence Xl Ss Eu</model>
-    <name>Уред за здравословно готвене</name>
-    <picture_name>0006307282112</picture_name>
-    <price>137.06</price>
-    <price_dds>164.472</price_dds>
-    <realPrice_BGL>123.354</realPrice_BGL>
-    <realPrice_BGL_dds>148.0248</realPrice_BGL_dds>
-    <kkprice_BGL>141.66667</kkprice_BGL>
-    <kkprice_BGL_dds>170.000004</kkprice_BGL_dds>
-    <realPrice>123.354</realPrice>
-    <small_picture>/poly/image/0006307282112</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>85167970</taxCode>
-    <vendorName>TEFAL</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006307282112?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006307282112</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
@@ -63274,7 +63090,6 @@
     <articlekindUid>0006302419748</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>PF251835</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045386379156</ean_barcode>
     <characteristics>
@@ -63528,7 +63343,6 @@
     <articlekindUid>0006302209440</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>CM340811</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661144967</ean_barcode>
     <characteristics>
