@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-11T08:43:04Z" count="804" duplicates_skipped="0">
+<products generated_at="2026-11-12T09:04:08Z" count="803" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -994,7 +994,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>75621_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125756215</ean_barcode>
@@ -1633,7 +1633,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>70410_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704100</ean_barcode>
@@ -1909,7 +1909,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>73210_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125732103</ean_barcode>
@@ -2757,7 +2757,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10218_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102180</ean_barcode>
@@ -2828,7 +2828,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
@@ -2970,7 +2970,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>65003_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125650032</ean_barcode>
@@ -3041,7 +3041,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64404_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125644048</ean_barcode>
@@ -3317,7 +3317,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
@@ -3461,7 +3461,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>64533_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645335</ean_barcode>
@@ -3532,7 +3532,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10268_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102685</ean_barcode>
@@ -3603,7 +3603,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10265_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102654</ean_barcode>
@@ -3674,7 +3674,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64349_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643492</ean_barcode>
@@ -4025,7 +4025,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10556_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105563</ean_barcode>
@@ -4238,7 +4238,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10029_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100308</ean_barcode>
@@ -4589,7 +4589,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>68113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125681135</ean_barcode>
@@ -4925,7 +4925,7 @@
     <articleMainkindUid>AIR</articleMainkindUid>
     <articlekind>Влагоабсорбатори</articlekind>
     <articlekindUid>0006303332239</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10316_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103163</ean_barcode>
@@ -5280,7 +5280,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>26002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
@@ -5347,7 +5347,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
@@ -5481,7 +5481,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>20045_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200459</ean_barcode>
@@ -5816,7 +5816,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>20080_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200800</ean_barcode>
@@ -6084,7 +6084,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>на склад</available>
+    <available>очаква се</available>
     <catalog_num>20049_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200497</ean_barcode>
@@ -6151,7 +6151,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
@@ -6285,7 +6285,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>40053_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125400538</ean_barcode>
@@ -6719,7 +6719,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>66007_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125660079</ean_barcode>
@@ -7028,7 +7028,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10537_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105372</ean_barcode>
@@ -7233,7 +7233,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10544_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -7444,7 +7444,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
@@ -8528,7 +8528,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>57119_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571191</ean_barcode>
@@ -8883,7 +8883,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10685_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106850</ean_barcode>
@@ -9188,7 +9188,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10490_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104900</ean_barcode>
@@ -9488,7 +9488,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>57612_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -9565,7 +9565,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>57614_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -10039,7 +10039,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10468_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104689</ean_barcode>
@@ -10678,7 +10678,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10701_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125107017</ean_barcode>
@@ -11055,7 +11055,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10074_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -11652,7 +11652,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>59418_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125594183</ean_barcode>
@@ -11723,7 +11723,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>10411_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104115</ean_barcode>
@@ -12310,7 +12310,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>60550_BEU_60551_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -12464,7 +12464,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10485_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104856</ean_barcode>
@@ -12896,7 +12896,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>57503_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -13270,7 +13270,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>60551_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -14923,7 +14923,6 @@
     <articlekindUid>0006302209440</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>SA401LE0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661181597</ean_barcode>
     <characteristics>
@@ -15029,7 +15028,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>SA403BE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661181603</ean_barcode>
@@ -15354,6 +15353,7 @@
     <catalog_num>XP444C10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173493</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Espresso</description>
@@ -16315,7 +16315,6 @@
     <articlekindUid>0006302209440</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>KP340810</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3700342444988</ean_barcode>
     <characteristics>
@@ -18087,6 +18086,7 @@
     <catalog_num>F054001A</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>0010942206873</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Кафемашини</description>
@@ -19714,7 +19714,6 @@
     <articlekindUid>0006302441140</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>UB9540F0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040092514</ean_barcode>
     <characteristics>
@@ -22371,6 +22370,7 @@
     <catalog_num>SF321LF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040084922</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>230° C</description>
@@ -26468,7 +26468,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>RR8567WH</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616043312</ean_barcode>
@@ -27196,150 +27196,6 @@
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
     <available>на склад</available>
-    <catalog_num>RH9A73WO</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3221616111622</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Handheld</description>
-        <name>Тип</name>
-      </characteristic>
-      <characteristic>
-        <description>Dry</description>
-        <name>Почистване, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>380 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Всмукателна мощност, AW</name>
-      </characteristic>
-      <characteristic>
-        <description>Bagless</description>
-        <name>Торбичка</name>
-      </characteristic>
-      <characteristic>
-        <description>(Pre-)motor filter, Output filter</description>
-        <name>Филтър</name>
-      </characteristic>
-      <characteristic>
-        <description>0.65 l</description>
-        <name>Капацитет на торбичката/контейнер, l</name>
-      </characteristic>
-      <characteristic>
-        <description>83 dB</description>
-        <name>Ниво на шума, dB</name>
-      </characteristic>
-      <characteristic>
-        <description>Flexible tube with integrated multi-use brush head.</description>
-        <name>Телескопична тръба</name>
-      </characteristic>
-      <characteristic>
-        <description>Handle</description>
-        <name>Регулиране на мощността</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дължина на кабела, m</name>
-      </characteristic>
-      <characteristic>
-        <description>Rotative central brush</description>
-        <name>Основна четка</name>
-      </characteristic>
-      <characteristic>
-        <description>Mini brush with LED lighting, Flat nozzle, Long nozzle, Wall mount</description>
-        <name>Допълнителни четки</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Колела с меко покритие</name>
-      </characteristic>
-      <characteristic>
-        <description>up to 60 min</description>
-        <name>Време за работа</name>
-      </characteristic>
-      <characteristic>
-        <description>Power regulation</description>
-        <name>Степени на работа</name>
-      </characteristic>
-      <characteristic>
-        <description>3 h</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>Lithium ion</description>
-        <name>Батерия, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на енергийна ефективност</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на емисии прах</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на твърди подови повърхности</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на килими</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Годишна консумация, kWh</name>
-      </characteristic>
-      <characteristic>
-        <description>25.2 x 26.6 x 113.0</description>
-        <name>Размери (Ш, Д, В), cm</name>
-      </characteristic>
-      <characteristic>
-        <description>Red and black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>2.50 kg</description>
-        <name>Тегло, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>LED lighting system; Cyclonic technology</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306176076</id>
-    <kkprice>340.83333</kkprice>
-    <model>Rowenta RH9A73WO VERSATILE X-FORCE FLEX 13.60 AN</model>
-    <name>Прахосмукачка</name>
-    <picture_name>0006306176076</picture_name>
-    <price>321.58354</price>
-    <price_dds>385.900248</price_dds>
-    <realPrice_BGL>289.425186</realPrice_BGL>
-    <realPrice_BGL_dds>347.3102232</realPrice_BGL_dds>
-    <kkprice_BGL>340.83333</kkprice_BGL>
-    <kkprice_BGL_dds>408.999996</kkprice_BGL_dds>
-    <realPrice>289.425186</realPrice>
-    <small_picture>/poly/image/0006306176076</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>#85081100</taxCode>
-    <vendorName>ROWENTA</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306176076?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306176076</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412452</source_vendor_id>
-    <source_group_id>0006302412388</source_group_id>
-    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412394</source_subgroup_id>
-    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Прахосмукачки</articlekind>
-    <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
     <catalog_num>GZ2251E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -27476,6 +27332,150 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307174898?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307174898</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>RH9A73WO</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3221616111622</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Handheld</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>380 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Всмукателна мощност, AW</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>(Pre-)motor filter, Output filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.65 l</description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>83 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>Flexible tube with integrated multi-use brush head.</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Handle</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotative central brush</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>Mini brush with LED lighting, Flat nozzle, Long nozzle, Wall mount</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 60 min</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>Power regulation</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>3 h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>25.2 x 26.6 x 113.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Red and black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>2.50 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>LED lighting system; Cyclonic technology</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306176076</id>
+    <kkprice>340.83333</kkprice>
+    <model>Rowenta RH9A73WO VERSATILE X-FORCE FLEX 13.60 AN</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006306176076</picture_name>
+    <price>321.58354</price>
+    <price_dds>385.900248</price_dds>
+    <realPrice_BGL>289.425186</realPrice_BGL>
+    <realPrice_BGL_dds>347.3102232</realPrice_BGL_dds>
+    <kkprice_BGL>340.83333</kkprice_BGL>
+    <kkprice_BGL_dds>408.999996</kkprice_BGL_dds>
+    <realPrice>289.425186</realPrice>
+    <small_picture>/poly/image/0006306176076</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306176076?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306176076</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -27914,154 +27914,6 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006306039282?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006306039282</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412452</source_vendor_id>
-    <source_group_id>0006302412388</source_group_id>
-    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412394</source_subgroup_id>
-    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Прахосмукачки</articlekind>
-    <articlekindUid>0006302021254</articlekindUid>
-    <available>с поръчка</available>
-    <catalog_num>RH6A75WO</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3221616113459</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Handheld</description>
-        <name>Тип</name>
-      </characteristic>
-      <characteristic>
-        <description>Dry</description>
-        <name>Почистване, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>140 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>18 V</description>
-        <name>Напрежение, V</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Всмукателна мощност, AW</name>
-      </characteristic>
-      <characteristic>
-        <description>Bagless</description>
-        <name>Торбичка</name>
-      </characteristic>
-      <characteristic>
-        <description>Hepa Washable filter</description>
-        <name>Филтър</name>
-      </characteristic>
-      <characteristic>
-        <description>0.44 l</description>
-        <name>Капацитет на торбичката/контейнер, l</name>
-      </characteristic>
-      <characteristic>
-        <description>81 dB</description>
-        <name>Ниво на шума, dB</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Телескопична тръба</name>
-      </characteristic>
-      <characteristic>
-        <description>Handle</description>
-        <name>Регулиране на мощността</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дължина на кабела, m</name>
-      </characteristic>
-      <characteristic>
-        <description>Rotative central brush</description>
-        <name>Основна четка</name>
-      </characteristic>
-      <characteristic>
-        <description>Removable brush, Furniture brush, Multi-purpose brush, Special animal brush, ElectroBrush, Lighted brush, Multi-surface</description>
-        <name>Допълнителни четки</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Колела с меко покритие</name>
-      </characteristic>
-      <characteristic>
-        <description>up to 45 min</description>
-        <name>Време за работа</name>
-      </characteristic>
-      <characteristic>
-        <description>Power regulation</description>
-        <name>Степени на работа</name>
-      </characteristic>
-      <characteristic>
-        <description>3 h</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>Lithium ion</description>
-        <name>Батерия, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на енергийна ефективност</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на емисии прах</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на твърди подови повърхности</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на килими</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Годишна консумация, kWh</name>
-      </characteristic>
-      <characteristic>
-        <description>24.0 x 24.8 x 112.0</description>
-        <name>Размери (Ш, Д, В), cm</name>
-      </characteristic>
-      <characteristic>
-        <description>Black and  red-brown</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>2.50 kg</description>
-        <name>Тегло, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>LED lighting system; Smart Control Display, Cyclonic technology, Humidification function</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306186535</id>
-    <kkprice>129.39167</kkprice>
-    <model>Rowenta RH6A75WO VERSATILE X-PERT 7.60</model>
-    <name>Прахосмукачка</name>
-    <picture_name>0006306186535</picture_name>
-    <price>120.01317</price>
-    <price_dds>144.015804</price_dds>
-    <realPrice_BGL>108.011853</realPrice_BGL>
-    <realPrice_BGL_dds>129.6142236</realPrice_BGL_dds>
-    <kkprice_BGL>129.39167</kkprice_BGL>
-    <kkprice_BGL_dds>155.270004</kkprice_BGL_dds>
-    <realPrice>108.011853</realPrice>
-    <small_picture>/poly/image/0006306186535</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>#85081100</taxCode>
-    <vendorName>ROWENTA</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306186535?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306186535</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -28808,6 +28660,7 @@
     <catalog_num>RH6A71WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616113435</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -29673,7 +29526,6 @@
     <articlekindUid>0006302021254</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>RH7A73E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221616182035</ean_barcode>
     <characteristics>
@@ -32854,7 +32706,6 @@
     <articlekindUid>0006302021254</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>RH6543WH</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3221614002106, 3221614002106</ean_barcode>
     <characteristics>
@@ -35270,6 +35121,7 @@
     <catalog_num>RO3753EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221610133903</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -39900,7 +39752,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>K2320914</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -40142,7 +39994,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>K1220704</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430256491</ean_barcode>
@@ -40776,6 +40628,7 @@
     <catalog_num>N2160110</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4168430011778</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Thermo Mug</description>
@@ -42255,7 +42108,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>C4279132</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430347908</ean_barcode>
@@ -42539,7 +42392,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>VZ700AE0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -43565,6 +43418,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3168430313392</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Frying pan</description>
@@ -43691,6 +43545,7 @@
     <catalog_num>B5673253</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430313446, 3168430313446</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Sautepan with lid</description>
@@ -44381,7 +44236,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>G7320755</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430321861</ean_barcode>
@@ -44885,7 +44740,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>C4271932</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430347779</ean_barcode>
@@ -44944,7 +44799,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>C4270632</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430347854</ean_barcode>
@@ -44999,7 +44854,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>C4270832</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -47658,7 +47513,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>BC50U4V0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -49598,6 +49453,7 @@
     <catalog_num>HT660EE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667201923</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>850 W</description>
@@ -49903,6 +49759,7 @@
     <catalog_num>HB533138</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667242728</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>600 W</description>
@@ -54013,7 +53870,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ютии</articlekind>
     <articlekindUid>0006302419835</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FV5735E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040074534</ean_barcode>
@@ -55782,7 +55639,6 @@
     <articlekindUid>0006302419835</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>FV2838E0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
     <characteristics>
@@ -57463,7 +57319,6 @@
     <articlekindUid>0006302560974</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>GC706D34</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661151071</ean_barcode>
     <characteristics>
@@ -59939,7 +59794,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>очаква се</available>
+    <available>с поръчка</available>
     <catalog_num>EY901N10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380025783</ean_barcode>
@@ -60856,7 +60711,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>EY145B10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387291853</ean_barcode>
@@ -62776,7 +62631,6 @@
     <articlekindUid>0006302419748</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>PF220838</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045385783404, 3045385783404</ean_barcode>
     <characteristics>
@@ -63092,7 +62946,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Хлебопекарни</articlekind>
     <articlekindUid>0006302419748</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>PF611838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385782988</ean_barcode>
@@ -63604,7 +63458,6 @@
     <articlekindUid>0006302560952</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>PP1900V0</catalog_num>
-    <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3121040095423</ean_barcode>
     <characteristics>
@@ -63812,6 +63665,7 @@
     <catalog_num>PP1801V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095300</ean_barcode>
+    <expectedDelivery>14.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -63875,7 +63729,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>с поръчка</available>
     <catalog_num>PP1330V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040081532</ean_barcode>
