@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-17T09:59:04Z" count="801" duplicates_skipped="0">
+<products generated_at="2026-11-17T14:48:21Z" count="801" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -4029,7 +4029,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>64506_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645069</ean_barcode>
@@ -4171,7 +4171,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>63205_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125632052</ean_barcode>
@@ -6151,7 +6151,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
@@ -7943,7 +7943,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Парни изпарители</articlekind>
     <articlekindUid>0006303974310</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10509_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105099</ean_barcode>
@@ -8765,7 +8765,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>10492_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104924</ean_barcode>
@@ -17528,7 +17528,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>KP340510</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -21252,7 +21252,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Машинки за подстригване</articlekind>
     <articlekindUid>0006302420782</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>TN1603F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040067550</ean_barcode>
@@ -30855,7 +30855,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>GZ7035WO</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -41137,7 +41137,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>2744912</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081277, 3168430081277</ean_barcode>
@@ -45862,7 +45862,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>XA732810</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -58255,7 +58255,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CY9621F2</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
