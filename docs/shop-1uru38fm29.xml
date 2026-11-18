@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-17T14:48:21Z" count="801" duplicates_skipped="0">
+<products generated_at="2026-11-18T09:35:50Z" count="801" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -5749,7 +5749,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>20113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125201135</ean_barcode>
@@ -7947,6 +7947,7 @@
     <catalog_num>10509_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105099</ean_barcode>
+    <expectedDelivery>20.01.2027</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Steam vaporizer</description>
@@ -24691,7 +24692,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>TN2804E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040092835</ean_barcode>
@@ -40189,7 +40190,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>K2219355</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430323216</ean_barcode>
@@ -40398,7 +40399,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Термочаши</articlekind>
     <articlekindUid>0006303903870</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>N2160110</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4168430011778</ean_barcode>
