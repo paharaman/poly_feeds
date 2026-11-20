@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-19T09:43:31Z" count="804" duplicates_skipped="0">
+<products generated_at="2026-11-20T09:30:57Z" count="811" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -204,6 +204,81 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303339459?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303339459</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Ароматизатори</articlekind>
+    <articlekindUid>0006303364914</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>10508_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125105082</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>For a calm and soothing atmosphere at home; Micro-fine ultrasonic atomisation</description>
+        <name>Технология</name>
+      </characteristic>
+      <characteristic>
+        <description>20 m2</description>
+        <name>Ефективна площ</name>
+      </characteristic>
+      <characteristic>
+        <description>Two-stage nebulization</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>0.140l</description>
+        <name>Вместимост на резервоара за вода, l</name>
+      </characteristic>
+      <characteristic>
+        <description>Dimmable LED light in 9 colours for a cosy and atmospheric ambience</description>
+        <name>LED светлина</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Automatic switch-off if tank is empty</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>12 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Батерия</name>
+      </characteristic>
+      <characteristic>
+        <description>White</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for rooms up to 20 m2; Timer function: 1, 3, 7 hours or continuous operation</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344863</id>
+    <kkprice>58.325</kkprice>
+    <model>Beurer LA 45 GP</model>
+    <name>Ароматизатор</name>
+    <picture_name>0006307344863</picture_name>
+    <price>48.03704</price>
+    <price_dds>57.644448</price_dds>
+    <realPrice_BGL>43.233336</realPrice_BGL>
+    <realPrice_BGL_dds>51.8800032</realPrice_BGL_dds>
+    <kkprice_BGL>58.325</kkprice_BGL>
+    <kkprice_BGL_dds>69.99</kkprice_BGL_dds>
+    <realPrice>43.233336</realPrice>
+    <small_picture>/poly/image/0006307344863</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344863?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344863</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -988,6 +1063,77 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006303500520?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006303500520</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Електронни кантари</articlekind>
+    <articlekindUid>0006302560952</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>74400_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125744007</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Personal (Glass bathroom scale with language function: English, German, French, Spanish and Russian)</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>150.0 kg</description>
+        <name>Капацитет, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>100 g</description>
+        <name>Точност, g</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Blue illuminated display</description>
+        <name>LCD дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>Automatic switch-off, overload indicator</description>
+        <name>Автоматично включване/изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Quick Start</description>
+        <name>Други функции</name>
+      </characteristic>
+      <characteristic>
+        <description>Glass</description>
+        <name>Материал</name>
+      </characteristic>
+      <characteristic>
+        <description>Grey</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>3 x AAA 1.5V batteries included, 4 direct keys: easy storage and retrieval of last-recorded values, Voice can be deactivated</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344810</id>
+    <kkprice>45.825</kkprice>
+    <model>Beurer GS 39</model>
+    <name>Везна</name>
+    <picture_name>0006307344810</picture_name>
+    <price>36.42383</price>
+    <price_dds>43.708596</price_dds>
+    <realPrice_BGL>32.781447</realPrice_BGL>
+    <realPrice_BGL_dds>39.3377364</realPrice_BGL_dds>
+    <kkprice_BGL>45.825</kkprice_BGL>
+    <kkprice_BGL_dds>54.99</kkprice_BGL_dds>
+    <realPrice>32.781447</realPrice>
+    <small_picture>/poly/image/0006307344810</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>84231090</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344810?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344810</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -4448,6 +4594,101 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>10683_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125106836</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>With ultrasound humidification technology: energy-efficient and quiet</description>
+        <name>Технология</name>
+      </characteristic>
+      <characteristic>
+        <description>Humidification output up to 250 ml/h</description>
+        <name>Настройка на парата</name>
+      </characteristic>
+      <characteristic>
+        <description>35 m2</description>
+        <name>Ефективна площ</name>
+      </characteristic>
+      <characteristic>
+        <description>2 l Removable water tank</description>
+        <name>Вместимост на резервоара за вода, l</name>
+      </characteristic>
+      <characteristic>
+        <description>Timer function: 2 -8 h</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>2 levels</description>
+        <name>Брой скорости</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Функция нагряване</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Хигрометър</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Автоматичен режим</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, With light-off function for optimal use even at night</description>
+        <name>Нощен режим</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Water level sensor, water level gauge and safety switch-off if the tank is empty</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Timer function: 2, 4 or 8 hours</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>Quickly interpret the humidity level thanks to colored indicator</description>
+        <name>Индикатори</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>With filter drying function: Dries the filter after use to reduce bacterial growth, Water level window, Illuminated control panel, Even distribution of humidified air thanks to 360° design</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344870</id>
+    <kkprice>83.325</kkprice>
+    <model>Beurer LB 100</model>
+    <name>Овлажнител на въздух</name>
+    <picture_name>0006307344870</picture_name>
+    <price>64.73201</price>
+    <price_dds>77.678412</price_dds>
+    <realPrice_BGL>58.258809</realPrice_BGL>
+    <realPrice_BGL_dds>69.9105708</realPrice_BGL_dds>
+    <kkprice_BGL>83.325</kkprice_BGL>
+    <kkprice_BGL_dds>99.99</kkprice_BGL_dds>
+    <realPrice>58.258809</realPrice>
+    <small_picture>/poly/image/0006307344870</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344870?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344870</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Овлажнители на въздух</articlekind>
+    <articlekindUid>0006303332178</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>10067_BEU</catalog_num>
     <currency>EUR</currency>
@@ -4686,6 +4927,82 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307207850?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307207850</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337965</source_subgroup_id>
+    <source_subgroup_name>Уреди за дома</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Пречистватели на въздух</articlekind>
+    <articlekindUid>0006303332065</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>10846_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125108465</ean_barcode>
+    <expectedDelivery>05.12.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>HEPA H13 filter removes up to 99.95% of particles =0.3 µm</description>
+        <name>Технология</name>
+      </characteristic>
+      <characteristic>
+        <description>32 m2</description>
+        <name>Ефективна площ</name>
+      </characteristic>
+      <characteristic>
+        <description>123 m3/h</description>
+        <name>Въздушен поток</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>CADR</name>
+      </characteristic>
+      <characteristic>
+        <description>3 speed settings for tailored use, Modern touch key operation</description>
+        <name>Брой скорости</name>
+      </characteristic>
+      <characteristic>
+        <description>48 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>Timer function: 2, 4 or 8 hours</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>Replaceable filter with filter change indicator</description>
+        <name>Индикатори</name>
+      </characteristic>
+      <characteristic>
+        <description>White</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>With practical night mode:Ultra-quiet operation with switched-off control panel and no bright lights, protected from small children&amp;apos;s hands or pet&amp;apos;s paws - with practical key lock, with aroma oil compartment for room fragrancing, Illuminated control panel</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344877</id>
+    <kkprice>95.83333</kkprice>
+    <model>Beurer LR 215</model>
+    <name>Пречиствател на въздух</name>
+    <picture_name>0006307344877</picture_name>
+    <price>76.9972</price>
+    <price_dds>92.39664</price_dds>
+    <realPrice_BGL>69.29748</realPrice_BGL>
+    <realPrice_BGL_dds>83.156976</realPrice_BGL_dds>
+    <kkprice_BGL>95.83333</kkprice_BGL>
+    <kkprice_BGL_dds>114.999996</kkprice_BGL_dds>
+    <realPrice>69.29748</realPrice>
+    <small_picture>/poly/image/0006307344877</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85098000</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344877?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344877</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -7691,6 +8008,89 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>10323_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125103231</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Contact measurement</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>30 memory spaces</description>
+        <name>Памет</name>
+      </characteristic>
+      <characteristic>
+        <description>2 sec., Visual with coloured LED ring</description>
+        <name>Време за измерване</name>
+      </characteristic>
+      <characteristic>
+        <description>°C / °F</description>
+        <name>Единица за измерване</name>
+      </characteristic>
+      <characteristic>
+        <description>Optional acoustic signal when measurement is complete, 3-colour temperature indicator for easy interpretation of the measured values: Green = normal temperature, yellow = elevated temperature, red = fever</description>
+        <name>Сигнализация, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Водоустойчивост</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Bluetooth</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дезинфекция</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>6-in-1 function: ear, forehead and surface temperature, temperature alarm, date and time, Storage of the last 30 measurements</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344833</id>
+    <kkprice>33.325</kkprice>
+    <model>Beurer FT 93</model>
+    <name>Термометър</name>
+    <picture_name>0006307344833</picture_name>
+    <price>24.9952</price>
+    <price_dds>29.99424</price_dds>
+    <realPrice_BGL>22.49568</realPrice_BGL>
+    <realPrice_BGL_dds>26.994816</realPrice_BGL_dds>
+    <kkprice_BGL>33.325</kkprice_BGL>
+    <kkprice_BGL_dds>39.99</kkprice_BGL_dds>
+    <realPrice>22.49568</realPrice>
+    <small_picture>/poly/image/0006307344833</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>90251900</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344833?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344833</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337967</source_subgroup_id>
+    <source_subgroup_name>Уреди за здравето</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Термометри</articlekind>
+    <articlekindUid>0006303338366</articlekindUid>
     <available>с поръчка</available>
     <catalog_num>61045_BEU</catalog_num>
     <code>PRM</code>
@@ -8318,6 +8718,92 @@
     <vendorName>BEURER</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307252092?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307252092</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Принадлежности за лице и тяло</articlekind>
+    <articlekindUid>0006303743678</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>60514_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125605148</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Regular replacement set, for use with the Beurer FC 25 and FC 55 Powered Body Brushes.</description>
+        <name>Предназначен за</name>
+      </characteristic>
+      <characteristic>
+        <description>Product measurements (LxWxH): 8.3 x 8.3 x 2.9 cm</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344894</id>
+    <kkprice>11.24167</kkprice>
+    <model>Beurer FC 25/55 spare brush Regular</model>
+    <name>Аксесоар</name>
+    <picture_name>0006307344894</picture_name>
+    <price>8.9463</price>
+    <price_dds>10.73556</price_dds>
+    <realPrice_BGL>8.05167</realPrice_BGL>
+    <realPrice_BGL_dds>9.662004</realPrice_BGL_dds>
+    <kkprice_BGL>11.24167</kkprice_BGL>
+    <kkprice_BGL_dds>13.490004</kkprice_BGL_dds>
+    <realPrice>8.05167</realPrice>
+    <small_picture>/poly/image/0006307344894</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>68042250</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344894?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344894</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006303338471</source_vendor_id>
+    <source_group_id>0006303337959</source_group_id>
+    <source_group_name>BEURER уреди за здраве и красота</source_group_name>
+    <source_subgroup_id>0006303337969</source_subgroup_id>
+    <source_subgroup_name>Уреди за красота</source_subgroup_name>
+    <articleMainkind>Уреди за здраве и красота</articleMainkind>
+    <articleMainkindUid>H_B</articleMainkindUid>
+    <articlekind>Принадлежности за лице и тяло</articlekind>
+    <articlekindUid>0006303743678</articlekindUid>
+    <available>с поръчка</available>
+    <catalog_num>60515_BEU</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4211125605155</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Exfoliation replacement set, for use with the Beurer FC 25 and FC 55 Powered Body Brushes.</description>
+        <name>Предназначен за</name>
+      </characteristic>
+      <characteristic>
+        <description>Product measurements (LxWxH): 8.3 x 8.3 x 2.9 cm</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307344908</id>
+    <kkprice>11.24167</kkprice>
+    <model>Beurer FC 25/55 spare brush Exfoliation</model>
+    <name>Аксесоар</name>
+    <picture_name>0006307344908</picture_name>
+    <price>8.9463</price>
+    <price_dds>10.73556</price_dds>
+    <realPrice_BGL>8.05167</realPrice_BGL>
+    <realPrice_BGL_dds>9.662004</realPrice_BGL_dds>
+    <kkprice_BGL>11.24167</kkprice_BGL>
+    <kkprice_BGL_dds>13.490004</kkprice_BGL_dds>
+    <realPrice>8.05167</realPrice>
+    <small_picture>/poly/image/0006307344908</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>68042250</taxCode>
+    <vendorName>BEURER</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307344908?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307344908</document_url>
   </product>
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
@@ -15398,7 +15884,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>XP384E10</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -18756,7 +19242,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CF6330F0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23373,7 +23859,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CV887LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -24557,7 +25043,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Тримери</articlekind>
     <articlekindUid>0006302441038</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>TN602LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -28094,7 +28580,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH20C7WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616093959</ean_barcode>
@@ -28678,7 +29164,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>RH1872E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616176546</ean_barcode>
@@ -59403,7 +59889,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Тостери</articlekind>
     <articlekindUid>0006302421069</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>TT330D30</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -60760,7 +61246,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>EY145B10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387291853</ean_barcode>
@@ -61175,7 +61661,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за здравословно готвене</articlekind>
     <articlekindUid>0006303765245</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>EY9478E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380407893</ean_barcode>
@@ -61357,7 +61843,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мини фурни</articlekind>
     <articlekindUid>0006302798966</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FW556DE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380027862</ean_barcode>
@@ -61952,7 +62438,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Фритюрници</articlekind>
     <articlekindUid>0006302420737</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>FF203130</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
