@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-24T11:53:59Z" count="810" duplicates_skipped="0">
+<products generated_at="2026-11-25T10:45:46Z" count="817" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -215,10 +215,11 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ароматизатори</articlekind>
     <articlekindUid>0006303364914</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10508_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105082</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>For a calm and soothing atmosphere at home; Micro-fine ultrasonic atomisation</description>
@@ -936,6 +937,7 @@
     <catalog_num>75621_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125756215</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -1074,7 +1076,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>74400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125744007</ean_barcode>
@@ -1149,6 +1151,7 @@
     <catalog_num>10041_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100414</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -1646,6 +1649,7 @@
     <catalog_num>70410_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704100</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>5 kg</description>
@@ -1717,6 +1721,7 @@
     <catalog_num>70415_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704155</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>3 kg</description>
@@ -1922,6 +1927,7 @@
     <catalog_num>73210_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125732103</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Luggage scale</description>
@@ -2671,6 +2677,7 @@
     <catalog_num>10218_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102180</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -2742,6 +2749,7 @@
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -2884,6 +2892,7 @@
     <catalog_num>65003_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125650032</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Muscle massager</description>
@@ -2955,6 +2964,7 @@
     <catalog_num>64404_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125644048</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -3097,6 +3107,7 @@
     <catalog_num>64413_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4 Shiatsu massage heads – rotating in pairs</description>
@@ -3231,6 +3242,7 @@
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4D Neck massager</description>
@@ -3371,7 +3383,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64533_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645335</ean_barcode>
@@ -3446,6 +3458,7 @@
     <catalog_num>10268_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102685</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Muscle massager (Powerful trigger point massage with  heat and cold function)</description>
@@ -3517,6 +3530,7 @@
     <catalog_num>10265_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102654</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -3588,6 +3602,7 @@
     <catalog_num>64349_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643492</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Yoga&amp;amp;Stretching mat</description>
@@ -3655,7 +3670,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>64809_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125648091</ean_barcode>
@@ -3939,6 +3954,7 @@
     <catalog_num>10556_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105563</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1: Vibration massager and foot warmer in one</description>
@@ -4081,6 +4097,7 @@
     <catalog_num>64506_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645069</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu and air pressure massage</description>
@@ -4152,6 +4169,7 @@
     <catalog_num>10029_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100308</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2-in-1 Shiatsu Foot Massager combines homely design with a cosy massage</description>
@@ -4290,6 +4308,7 @@
     <catalog_num>63606_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125636067</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Vibration massage, bubble massage</description>
@@ -4503,6 +4522,7 @@
     <catalog_num>68113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125681135</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With ultrasound humidification technology: energy-efficient and quiet</description>
@@ -4598,6 +4618,7 @@
     <catalog_num>10683_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106836</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With ultrasound humidification technology: energy-efficient and quiet</description>
@@ -5109,6 +5130,7 @@
     <catalog_num>10316_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103163</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Environmentally refrigerant R290</description>
@@ -5196,7 +5218,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>53106_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125531065</ean_barcode>
@@ -5401,6 +5423,7 @@
     <catalog_num>26002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5468,6 +5491,7 @@
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5535,6 +5559,7 @@
     <catalog_num>27501_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125275013</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated cushion</description>
@@ -5602,6 +5627,7 @@
     <catalog_num>20045_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200459</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Fleece fibre heated pad</description>
@@ -5937,6 +5963,7 @@
     <catalog_num>20080_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200800</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad (cordless and flexible)</description>
@@ -6067,7 +6094,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>20113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125201135</ean_barcode>
@@ -6205,6 +6232,7 @@
     <catalog_num>20049_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200497</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Fleece fibre heated pad</description>
@@ -6272,6 +6300,7 @@
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6406,6 +6435,7 @@
     <catalog_num>40053_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125400538</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6473,6 +6503,7 @@
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated underblanket</description>
@@ -6840,6 +6871,7 @@
     <catalog_num>66007_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125660079</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Air Purifiers</description>
@@ -7149,6 +7181,7 @@
     <catalog_num>10537_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105372</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Pet scale</description>
@@ -7356,6 +7389,7 @@
     <currency>EUR</currency>
     <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105440</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Comfortable heated mat provides soothing heat for your pet</description>
@@ -7565,6 +7599,7 @@
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1 EMS belt for core abdominal muscles and lower back muscles</description>
@@ -8012,6 +8047,7 @@
     <catalog_num>10323_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103231</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Contact measurement</description>
@@ -8644,7 +8680,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>60514_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125605148</ean_barcode>
@@ -8687,7 +8723,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>60515_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125605155</ean_barcode>
@@ -8734,6 +8770,7 @@
     <catalog_num>57119_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571191</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 abrasive rollers for use with the Beurer MP 59 Wet and Dry Portable Pedicure Device.</description>
@@ -9089,6 +9126,7 @@
     <catalog_num>10685_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106850</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1500 W</description>
@@ -9168,7 +9206,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10492_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104924</ean_barcode>
@@ -9394,6 +9432,7 @@
     <catalog_num>10490_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104900</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Electric Toothbrush</description>
@@ -9696,6 +9735,7 @@
     <currency>EUR</currency>
     <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125576127</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Tweezers</description>
@@ -9767,7 +9807,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>57614_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -10245,6 +10285,7 @@
     <catalog_num>10468_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104689</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With stand</description>
@@ -10371,7 +10412,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>58401_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125584016</ean_barcode>
@@ -10442,6 +10483,7 @@
     <catalog_num>65486_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125654863</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With stand</description>
@@ -10730,7 +10772,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>57035_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125570354</ean_barcode>
@@ -11174,7 +11216,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>59331_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125593315</ean_barcode>
@@ -11257,7 +11299,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>oграничено количество</available>
+    <available>очаква се</available>
     <catalog_num>10074_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -11639,6 +11681,7 @@
     <catalog_num>58132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125581329</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Removes split ends quickly and effectively - without losing length</description>
@@ -11858,6 +11901,7 @@
     <catalog_num>59418_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125594183</ean_barcode>
+    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -12512,7 +12556,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10019_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -12597,7 +12641,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>с поръчка</available>
+    <available>очаква се</available>
     <catalog_num>10485_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104856</ean_barcode>
@@ -13559,6 +13603,7 @@
     <catalog_num>EA910E10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173523</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -13666,6 +13711,7 @@
     <catalog_num>EA910A10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661173530</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -13773,6 +13819,7 @@
     <catalog_num>EA912HF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661178573</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -15272,6 +15319,7 @@
     <catalog_num>EA201BE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661181443</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Automat</description>
@@ -15700,6 +15748,7 @@
     <catalog_num>XP381810</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661177880</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Espresso</description>
@@ -15804,6 +15853,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3016661177903</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Espresso</description>
@@ -16880,6 +16930,7 @@
     <catalog_num>KP1A3B10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661159121</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Capsules</description>
@@ -17187,7 +17238,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>KP1A3AF0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
@@ -18637,7 +18688,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CF9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040062739</ean_barcode>
@@ -19674,6 +19725,7 @@
     <catalog_num>UB9920E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095751</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -19845,6 +19897,7 @@
     <catalog_num>UB9540F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040092514</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1000 W</description>
@@ -20785,7 +20838,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Маши за коса</articlekind>
     <articlekindUid>0006302420817</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CF324LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23406,6 +23459,7 @@
     <catalog_num>CV7D30E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095942</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>700 W</description>
@@ -24818,6 +24872,7 @@
     <catalog_num>HY9430E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380402782</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1800 W</description>
@@ -25499,6 +25554,7 @@
     <catalog_num>TN3011F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040082188</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Stainless steel</description>
@@ -25933,6 +25989,7 @@
     <catalog_num>RY6555WH</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614001963</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1200 W</description>
@@ -26463,6 +26520,7 @@
     <catalog_num>AC9736WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616001152</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -29652,6 +29710,7 @@
     <catalog_num>RH7A73E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616182035</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -29942,6 +30001,7 @@
     <catalog_num>RH9BC1WO</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616128637</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -30821,6 +30881,7 @@
     <catalog_num>GZ7257E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616184787</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -32414,6 +32475,7 @@
     <catalog_num>RO7C89E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616196216</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -32832,6 +32894,7 @@
     <catalog_num>RH6543WH</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614002106, 3221614002106</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Handheld</description>
@@ -33497,6 +33560,7 @@
     <catalog_num>RO3721EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616129719</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -33743,6 +33807,7 @@
     <catalog_num>RO3726EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221616129702</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -33989,6 +34054,7 @@
     <catalog_num>RO2910EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614007255</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -34247,6 +34313,7 @@
     <catalog_num>RO2933EA</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3221614006401</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Standard</description>
@@ -36573,6 +36640,7 @@
     <catalog_num>DH5250F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040093603</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>up to 38 m2</description>
@@ -37499,9 +37567,66 @@
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
     <available>очаква се</available>
+    <catalog_num>K1980534</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430386303</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Whisk</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>Silicone material</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Resistant up to 230 ° C</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Dishwasher safe</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Dimension 6.9 x 29.8 cm</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346961</id>
+    <kkprice>8.58333</kkprice>
+    <model>Tefal K1980534 Whisk Ingenio Plus Glama/Regal</model>
+    <name>Бъркалка</name>
+    <picture_name>0006307346961</picture_name>
+    <price>6.36379</price>
+    <price_dds>7.636548</price_dds>
+    <realPrice_BGL>5.727411</realPrice_BGL>
+    <realPrice_BGL_dds>6.8728932</realPrice_BGL_dds>
+    <kkprice_BGL>8.58333</kkprice_BGL>
+    <kkprice_BGL_dds>10.299996</kkprice_BGL_dds>
+    <realPrice>5.727411</realPrice>
+    <small_picture>/poly/image/0006307346961</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>39241000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346961?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346961</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412406</source_subgroup_id>
+    <source_subgroup_name>Кухненски пособия</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски прибори</articlekind>
+    <articlekindUid>0006302418414</articlekindUid>
+    <available>очаква се</available>
     <catalog_num>K1992034</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430386549</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Peeler</description>
@@ -39695,6 +39820,126 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски прибори</articlekind>
     <articlekindUid>0006302418414</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>K1980234</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430386471</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Straining spoon</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for non-stick coating</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Resistant to 230°C</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Can be washed in the dishwasher</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Nylon reinforced with 15% glass fiber</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Silicone ring allowing the spoon to rest on the rim of the vessel, protected from the heat.</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346958</id>
+    <kkprice>5.16667</kkprice>
+    <model>Tefal K1980234 Pasta Spoon Ingenio Plus Glama</model>
+    <name>Лъжица</name>
+    <picture_name>0006307346958</picture_name>
+    <price>4.74826</price>
+    <price_dds>5.697912</price_dds>
+    <realPrice_BGL>4.273434</realPrice_BGL>
+    <realPrice_BGL_dds>5.1281208</realPrice_BGL_dds>
+    <kkprice_BGL>5.16667</kkprice_BGL>
+    <kkprice_BGL_dds>6.200004</kkprice_BGL_dds>
+    <realPrice>4.273434</realPrice>
+    <small_picture>/poly/image/0006307346958</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>39241000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346958?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346958</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412406</source_subgroup_id>
+    <source_subgroup_name>Кухненски пособия</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски прибори</articlekind>
+    <articlekindUid>0006302418414</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>K1980634</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430386280</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Straining spoon</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for non-stick coating</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Resistant to 230°C</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Can be washed in the dishwasher</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Nylon reinforced with 15% glass fiber</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Silicone ring allowing the spoon to rest on the rim of the vessel, protected from the heat.</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346966</id>
+    <kkprice>5.16667</kkprice>
+    <model>Tefal K1980634 Straining Spoon Ingenio Plus Gl</model>
+    <name>Лъжица</name>
+    <picture_name>0006307346966</picture_name>
+    <price>4.74826</price>
+    <price_dds>5.697912</price_dds>
+    <realPrice_BGL>4.273434</realPrice_BGL>
+    <realPrice_BGL_dds>5.1281208</realPrice_BGL_dds>
+    <kkprice_BGL>5.16667</kkprice_BGL>
+    <kkprice_BGL_dds>6.200004</kkprice_BGL_dds>
+    <realPrice>4.273434</realPrice>
+    <small_picture>/poly/image/0006307346966</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>39241000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346966?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346966</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412406</source_subgroup_id>
+    <source_subgroup_name>Кухненски пособия</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски прибори</articlekind>
+    <articlekindUid>0006302418414</articlekindUid>
     <available>на склад</available>
     <catalog_num>K2320714</catalog_num>
     <code>PRS</code>
@@ -40795,6 +41040,58 @@
     <source_subgroup_name>Кухненски пособия</source_subgroup_name>
     <articleMainkind>Уреди за дома</articleMainkind>
     <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Кухненски прибори</articlekind>
+    <articlekindUid>0006302418414</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>K1991034</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>4000530648860</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Grater</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>Two-way stainless steel blade.</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for fine and even grating of hard and semi-hard cheeses, vegetables, fruits, chocolate, and citrus</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Dimensions: 7.3 x 28.5 cm</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346970</id>
+    <kkprice>8.66667</kkprice>
+    <model>Tefal K1991034 Grater Ingenio Plus Ss Tef</model>
+    <name>Ренде</name>
+    <picture_name>0006307346970</picture_name>
+    <price>7.97932</price>
+    <price_dds>9.575184</price_dds>
+    <realPrice_BGL>7.181388</realPrice_BGL>
+    <realPrice_BGL_dds>8.6176656</realPrice_BGL_dds>
+    <kkprice_BGL>8.66667</kkprice_BGL>
+    <kkprice_BGL_dds>10.400004</kkprice_BGL_dds>
+    <realPrice>7.181388</realPrice>
+    <small_picture>/poly/image/0006307346970</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>39241000</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346970?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346970</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412406</source_subgroup_id>
+    <source_subgroup_name>Кухненски пособия</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Термочаши</articlekind>
     <articlekindUid>0006303903870</articlekindUid>
     <available>с поръчка</available>
@@ -40868,6 +41165,7 @@
     <catalog_num>N2160210</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4168430011785</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Thermo Mug</description>
@@ -40935,6 +41233,7 @@
     <catalog_num>N2160310</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4168430011792</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Thermo Mug</description>
@@ -41426,6 +41725,7 @@
     <catalog_num>2744112</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081239</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Long spatula</description>
@@ -41540,6 +41840,7 @@
     <catalog_num>2744912</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430081277, 3168430081277</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Pancake spatula</description>
@@ -42281,61 +42582,6 @@
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
     <available>на склад</available>
-    <catalog_num>C4279132</catalog_num>
-    <currency>EUR</currency>
-    <ean_barcode>3168430347908</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Frying pans set</description>
-        <name>Вид</name>
-      </characteristic>
-      <characteristic>
-        <description>The set includes: 1 x 20 cm saucepan, 1 x 24 cm saucepan, 1x 28 cm saucepan</description>
-        <name>Х-ка 1</name>
-      </characteristic>
-      <characteristic>
-        <description>Ceramic Non-Stick Coating</description>
-        <name>Х-ка 2</name>
-      </characteristic>
-      <characteristic>
-        <description>Thermo-Signal Cooking Indicator</description>
-        <name>Х-ка 3</name>
-      </characteristic>
-      <characteristic>
-        <description>Suitable for hob types: gas, electric, glass-ceramic and induction hobs</description>
-        <name>Х-ка 4</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306125016</id>
-    <kkprice>108.5</kkprice>
-    <model>Tefal C4279132 SET 3FP CER RENEW ON HIPPO IRON</model>
-    <name>Комплект тигани и тенджери</name>
-    <picture_name>0006306125016</picture_name>
-    <price>89.78141</price>
-    <price_dds>107.737692</price_dds>
-    <realPrice_BGL>80.803269</realPrice_BGL>
-    <realPrice_BGL_dds>96.9639228</realPrice_BGL_dds>
-    <kkprice_BGL>108.5</kkprice_BGL>
-    <kkprice_BGL_dds>130.2</kkprice_BGL_dds>
-    <realPrice>80.803269</realPrice>
-    <small_picture>/poly/image/0006306125016</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>76151080</taxCode>
-    <vendorName>TEFAL</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306125016?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306125016</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412449</source_vendor_id>
-    <source_group_id>0006302412404</source_group_id>
-    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
-    <source_subgroup_id>0006302412408</source_subgroup_id>
-    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Съдове за готвене</articlekind>
-    <articlekindUid>0006302418156</articlekindUid>
-    <available>на склад</available>
     <catalog_num>L897SD74</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430339880</ean_barcode>
@@ -42434,6 +42680,121 @@
     <vendorName>TEFAL</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307334826?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307334826</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412408</source_subgroup_id>
+    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Съдове за готвене</articlekind>
+    <articlekindUid>0006302418156</articlekindUid>
+    <available>на склад</available>
+    <catalog_num>C4279132</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430347908</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Frying pans set</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>The set includes: 1 x 20 cm saucepan, 1 x 24 cm saucepan, 1x 28 cm saucepan</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Ceramic Non-Stick Coating</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Thermo-Signal Cooking Indicator</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for hob types: gas, electric, glass-ceramic and induction hobs</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306125016</id>
+    <kkprice>108.5</kkprice>
+    <model>Tefal C4279132 SET 3FP CER RENEW ON HIPPO IRON</model>
+    <name>Комплект тигани и тенджери</name>
+    <picture_name>0006306125016</picture_name>
+    <price>89.78141</price>
+    <price_dds>107.737692</price_dds>
+    <realPrice_BGL>80.803269</realPrice_BGL>
+    <realPrice_BGL_dds>96.9639228</realPrice_BGL_dds>
+    <kkprice_BGL>108.5</kkprice_BGL>
+    <kkprice_BGL_dds>130.2</kkprice_BGL_dds>
+    <realPrice>80.803269</realPrice>
+    <small_picture>/poly/image/0006306125016</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>76151080</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306125016?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306125016</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412408</source_subgroup_id>
+    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Съдове за готвене</articlekind>
+    <articlekindUid>0006302418156</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>L881S404</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430361423</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Saucepan set</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>1 x Removable handle with 3-point safety system and supports weight up to 10 kg, 1 x Frying pan- 26 cm, 1 x Frying pan- 26 cm, 1 x Ladle- 16 cm</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>The saucepans are suitable for the use of an oven</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Suitable for hob types: Gas, Electric, Halogen, Glass ceramics</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Aluminum</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+      <characteristic>
+        <description>Dishwasher safe.</description>
+        <name>Х-ка 5</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346978</id>
+    <kkprice>65.83</kkprice>
+    <model>Tefal L881S404 Set 4Pcs Ing6 Ck Eat Ind Ss Pol</model>
+    <name>Комплект тигани и тенджери</name>
+    <picture_name>0006307346978</picture_name>
+    <price>40.03708</price>
+    <price_dds>48.044496</price_dds>
+    <realPrice_BGL>36.033372</realPrice_BGL>
+    <realPrice_BGL_dds>43.2400464</realPrice_BGL_dds>
+    <kkprice_BGL>65.83</kkprice_BGL>
+    <kkprice_BGL_dds>78.996</kkprice_BGL_dds>
+    <realPrice>36.033372</realPrice>
+    <small_picture>/poly/image/0006307346978</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>76151080</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346978?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346978</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412449</source_vendor_id>
@@ -42568,6 +42929,7 @@
     <catalog_num>VZ700AE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387251789</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Milk аppliance</description>
@@ -42806,6 +43168,7 @@
     <catalog_num>B5674653</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430313347</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Stewpot</description>
@@ -45486,6 +45849,7 @@
     <catalog_num>B5694053</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430316515</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Frypan</description>
@@ -45777,6 +46141,62 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Съдове за готвене</articlekind>
     <articlekindUid>0006302418156</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>G3208232</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3168430376328</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>Wok pan 26 cm</description>
+        <name>Вид</name>
+      </characteristic>
+      <characteristic>
+        <description>100% non-stick surface (lead-free, cadmium-free)</description>
+        <name>Х-ка 1</name>
+      </characteristic>
+      <characteristic>
+        <description>Material: Aluminum</description>
+        <name>Х-ка 2</name>
+      </characteristic>
+      <characteristic>
+        <description>Temperature indicator Thermo-Spot</description>
+        <name>Х-ка 3</name>
+      </characteristic>
+      <characteristic>
+        <description>Heating source: Induction, gas, electric, ceramic</description>
+        <name>Х-ка 4</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346955</id>
+    <kkprice>48.325</kkprice>
+    <model>Tefal G3208232 Wp26Lid M Adampe2Sp Excellence</model>
+    <name>Тиган</name>
+    <picture_name>0006307346955</picture_name>
+    <price>19.52686</price>
+    <price_dds>23.432232</price_dds>
+    <realPrice_BGL>17.574174</realPrice_BGL>
+    <realPrice_BGL_dds>21.0890088</realPrice_BGL_dds>
+    <kkprice_BGL>48.325</kkprice_BGL>
+    <kkprice_BGL_dds>57.99</kkprice_BGL_dds>
+    <realPrice>17.574174</realPrice>
+    <small_picture>/poly/image/0006307346955</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>76151080</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346955?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346955</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412404</source_group_id>
+    <source_group_name>TEFAL домакински прибори и съдове</source_group_name>
+    <source_subgroup_id>0006302412408</source_subgroup_id>
+    <source_subgroup_name>Съдове за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Съдове за готвене</articlekind>
+    <articlekindUid>0006302418156</articlekindUid>
     <available>на склад</available>
     <catalog_num>J1605902</catalog_num>
     <code>PRS</code>
@@ -45960,6 +46380,7 @@
     <catalog_num>J5549702</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3168430254282</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Tray</description>
@@ -47823,6 +48244,7 @@
     <catalog_num>BC5504V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095287</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>5 kg</description>
@@ -49682,7 +50104,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Миксери</articlekind>
     <articlekindUid>0006302419790</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>HT660EE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016667201923</ean_barcode>
@@ -50348,6 +50770,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045386370474</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>25 W</description>
@@ -51779,7 +52202,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Парогенератори</articlekind>
     <articlekindUid>0006302421151</articlekindUid>
-    <available>с поръчка</available>
+    <available>oграничено количество</available>
     <catalog_num>GV9221E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -51994,6 +52417,7 @@
     <catalog_num>SV8111E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040086216</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2800 W</description>
@@ -52654,6 +53078,7 @@
     <catalog_num>DT2026E1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040088524</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -53170,6 +53595,7 @@
     <catalog_num>DT2050F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040099308</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -53273,6 +53699,7 @@
     <catalog_num>DT9920F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040097885</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1400 W</description>
@@ -53376,6 +53803,7 @@
     <catalog_num>DT7130E1</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040086933</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1400 W</description>
@@ -53475,6 +53903,7 @@
     <catalog_num>DT9814F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040092651</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1400 W</description>
@@ -55970,6 +56399,7 @@
     <catalog_num>FV2838E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2400 W</description>
@@ -57333,6 +57763,7 @@
     <catalog_num>GC724D12</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661150722</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -59452,7 +59883,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Сандвич мейкъри</articlekind>
     <articlekindUid>0006302560889</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>SM157236</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386375943, 3045386375943</ean_barcode>
@@ -60018,6 +60449,7 @@
     <catalog_num>VC145130</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386378463</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>6l</description>
@@ -60078,6 +60510,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045387246266</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -60745,6 +61178,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045387298890</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2200 W</description>
@@ -60828,6 +61262,7 @@
     <catalog_num>EY8618E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045380406018</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2020 W</description>
@@ -61078,6 +61513,7 @@
     <catalog_num>EY145810</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387291020</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1300 W</description>
@@ -61327,6 +61763,7 @@
     <catalog_num>EY2452E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387299538</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1500 W</description>
@@ -61410,6 +61847,7 @@
     <catalog_num>EY2454E0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1500 W</description>
@@ -62347,6 +62785,90 @@
     <source_subgroup_name>Уреди за готвене</source_subgroup_name>
     <articleMainkind>Уреди за дома</articleMainkind>
     <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Уреди за здравословно готвене</articlekind>
+    <articlekindUid>0006303765245</articlekindUid>
+    <available>очаква се</available>
+    <catalog_num>EY968FE0</catalog_num>
+    <currency>EUR</currency>
+    <ean_barcode>3045380408975</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
+    <characteristics>
+      <characteristic>
+        <description>2850 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>4.0 l+ 8.0 (4.5 + 3.5) l</description>
+        <name>Вместимост на купата, l</name>
+      </characteristic>
+      <characteristic>
+        <description>3.5 kg</description>
+        <name>Вместимост за храна, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Дисплей</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Автоматично изключване</name>
+      </characteristic>
+      <characteristic>
+        <description>yes, Individual timers for both zones</description>
+        <name>Таймер</name>
+      </characteristic>
+      <characteristic>
+        <description>yes</description>
+        <name>Подвижна купа</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Технология Actifry</name>
+      </characteristic>
+      <characteristic>
+        <description>38.8 x 38.8 x 49.5 cm</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>12.00 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>Black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>10 cooking modes: Fries, Chicken, Vegetables, Fish, Dessert, Dehydrate and more + Manual mode, 3-in-1 air fryer combines 3 cooking zones to cook 3 foods at once, ready at the same time.</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006307346947</id>
+    <kkprice>232.5</kkprice>
+    <model>Tefal EY968FE0 Trio Infrared Genius + Acc</model>
+    <name>Уред за здравословно готвене</name>
+    <picture_name>0006307346947</picture_name>
+    <price>211.82177</price>
+    <price_dds>254.186124</price_dds>
+    <realPrice_BGL>190.639593</realPrice_BGL>
+    <realPrice_BGL_dds>228.7675116</realPrice_BGL_dds>
+    <kkprice_BGL>232.5</kkprice_BGL>
+    <kkprice_BGL_dds>279</kkprice_BGL_dds>
+    <realPrice>190.639593</realPrice>
+    <small_picture>/poly/image/0006307346947</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>85167920</taxCode>
+    <vendorName>TEFAL</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006307346947?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006307346947</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412449</source_vendor_id>
+    <source_group_id>0006302412410</source_group_id>
+    <source_group_name>TEFAL дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412416</source_subgroup_id>
+    <source_subgroup_name>Уреди за готвене</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Фритюрници</articlekind>
     <articlekindUid>0006302420737</articlekindUid>
     <available>с поръчка</available>
@@ -62639,6 +63161,7 @@
     <catalog_num>FF215D30</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386381807</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1600 W</description>
@@ -62710,6 +63233,7 @@
     <catalog_num>FF230831</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386376711</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1000 W</description>
@@ -63079,6 +63603,7 @@
     <catalog_num>PF220838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385783404, 3045385783404</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>650 W</description>
@@ -63159,6 +63684,7 @@
     <code>PRS</code>
     <currency>EUR</currency>
     <ean_barcode>3045385783411, 3045385783411</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>720 W</description>
@@ -63238,6 +63764,7 @@
     <catalog_num>PF240E38</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385783428</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>720 W</description>
@@ -63396,6 +63923,7 @@
     <catalog_num>PF611838</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045385782988</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1600 W</description>
@@ -63475,6 +64003,7 @@
     <catalog_num>PF251835</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386379156</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>700 W</description>
@@ -63550,6 +64079,7 @@
     <catalog_num>PF250135</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386379149</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>700 W</description>
@@ -63835,6 +64365,7 @@
     <catalog_num>PP1903V0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040095430</ean_barcode>
+    <expectedDelivery>27.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
