@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-26T10:18:18Z" count="810" duplicates_skipped="0">
+<products generated_at="2026-11-27T10:24:06Z" count="810" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -215,11 +215,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Ароматизатори</articlekind>
     <articlekindUid>0006303364914</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10508_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105082</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>For a calm and soothing atmosphere at home; Micro-fine ultrasonic atomisation</description>
@@ -933,11 +932,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>75621_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125756215</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -1147,11 +1145,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10041_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100414</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Personal</description>
@@ -1576,11 +1573,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>70410_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704100</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>5 kg</description>
@@ -1648,11 +1644,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кухненски везни</articlekind>
     <articlekindUid>0006302561058</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>70415_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125704155</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>3 kg</description>
@@ -1854,11 +1849,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>73210_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125732103</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Luggage scale</description>
@@ -2604,11 +2598,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10218_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102180</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -2676,11 +2669,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10434_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104344</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Gentle trigger-point massage for all  muscle groups from head to toe</description>
@@ -2748,11 +2740,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>65003_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125650032</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Muscle massager</description>
@@ -2820,11 +2811,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>64404_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125644048</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -2963,11 +2953,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>64413_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>-</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4 Shiatsu massage heads – rotating in pairs</description>
@@ -3098,11 +3087,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>64310_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643102</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>4D Neck massager</description>
@@ -3314,11 +3302,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10268_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102685</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Muscle massager (Powerful trigger point massage with  heat and cold function)</description>
@@ -3386,11 +3373,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10265_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125102654</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu massage</description>
@@ -3458,11 +3444,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>64349_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125643492</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Yoga&amp;amp;Stretching mat</description>
@@ -3739,7 +3724,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10695_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106959</ean_barcode>
@@ -3810,11 +3795,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10556_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105563</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1: Vibration massager and foot warmer in one</description>
@@ -3953,11 +3937,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>64506_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125645069</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Shiatsu and air pressure massage</description>
@@ -4025,11 +4008,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10029_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100308</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2-in-1 Shiatsu Foot Massager combines homely design with a cosy massage</description>
@@ -4097,7 +4079,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>63205_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125632052</ean_barcode>
@@ -4164,11 +4146,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>63606_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125636067</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Vibration massage, bubble massage</description>
@@ -4378,11 +4359,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>68113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125681135</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With ultrasound humidification technology: energy-efficient and quiet</description>
@@ -4474,11 +4454,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10683_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106836</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With ultrasound humidification technology: energy-efficient and quiet</description>
@@ -4986,11 +4965,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Влагоабсорбатори</articlekind>
     <articlekindUid>0006303332239</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10316_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103163</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Environmentally refrigerant R290</description>
@@ -5212,7 +5190,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>20041_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200411</ean_barcode>
@@ -5279,11 +5257,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>26002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125260026</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5347,11 +5324,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>20043_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200435</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad</description>
@@ -5415,11 +5391,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>27501_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125275013</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated cushion</description>
@@ -5483,11 +5458,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>20045_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200459</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Fleece fibre heated pad</description>
@@ -5618,7 +5592,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>20046_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200466</ean_barcode>
@@ -5819,11 +5793,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>20080_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200800</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heat pad (cordless and flexible)</description>
@@ -6088,11 +6061,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>20049_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125200497</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Fleece fibre heated pad</description>
@@ -6156,11 +6128,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>42400_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125424008</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6291,11 +6262,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>40053_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125400538</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated overblanket</description>
@@ -6359,11 +6329,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>30083_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125300838</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Heated underblanket</description>
@@ -6727,11 +6696,10 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Аксесоари за електродомакинска техника</articlekind>
     <articlekindUid>0006302421216</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>66007_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125660079</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Air Purifiers</description>
@@ -7037,11 +7005,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електронни кантари</articlekind>
     <articlekindUid>0006302560952</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10537_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105372</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Pet scale</description>
@@ -7176,7 +7143,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10545_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105457</ean_barcode>
@@ -7243,13 +7210,12 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термоподложки</articlekind>
     <articlekindUid>0006303338355</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10544_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
     <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125105440</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Comfortable heated mat provides soothing heat for your pet</description>
@@ -7455,11 +7421,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Масажори</articlekind>
     <articlekindUid>0006303338359</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>88105_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125881054</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 in 1 EMS belt for core abdominal muscles and lower back muscles</description>
@@ -7903,11 +7868,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Термометри</articlekind>
     <articlekindUid>0006303338366</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10323_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125103231</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Contact measurement</description>
@@ -8541,11 +8505,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Принадлежности за лице и тяло</articlekind>
     <articlekindUid>0006303743678</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>57119_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125571191</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2 abrasive rollers for use with the Beurer MP 59 Wet and Dry Portable Pedicure Device.</description>
@@ -8660,7 +8623,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>59107_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591076</ean_barcode>
@@ -8897,11 +8860,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за коса</articlekind>
     <articlekindUid>0006302441140</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10685_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125106850</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>1500 W</description>
@@ -9203,11 +9165,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10490_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104900</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Electric Toothbrush</description>
@@ -9279,7 +9240,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Електрически четки за зъби</articlekind>
     <articlekindUid>0006306101776</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10515_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125105150</ean_barcode>
@@ -9504,13 +9465,12 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>57612_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
     <description>Специална цена Черен петък. Валидност до 30.11.2026г. или до изчерпване на складовите наличности.</description>
     <ean_barcode>4211125576127</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Tweezers</description>
@@ -10056,11 +10016,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10468_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104689</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With stand</description>
@@ -10187,7 +10146,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>58401_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125584016</ean_barcode>
@@ -10254,11 +10213,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Козметични огледала</articlekind>
     <articlekindUid>0006303338374</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>65486_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125654863</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>With stand</description>
@@ -10622,11 +10580,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>57002_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125570026</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Manicure/Pedicure</description>
@@ -10698,11 +10655,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за маникюр и педикюр</articlekind>
     <articlekindUid>0006303338368</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10701_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125107017</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Manicure/Pedicure</description>
@@ -11076,11 +11032,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>10074_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125100742</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>220 °C</description>
@@ -11307,7 +11262,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10409_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104092</ean_barcode>
@@ -11382,11 +11337,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Преси за коса</articlekind>
     <articlekindUid>0006302420567</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>58132_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125581329</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>Removes split ends quickly and effectively - without losing length</description>
@@ -11462,7 +11416,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>59113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125591137</ean_barcode>
@@ -11602,11 +11556,10 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>очаква се</available>
+    <available>на склад</available>
     <catalog_num>59418_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125594183</ean_barcode>
-    <expectedDelivery>28.11.2026</expectedDelivery>
     <characteristics>
       <characteristic>
         <description>2000 W</description>
@@ -11962,7 +11915,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>на склад</available>
     <catalog_num>10083_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -12346,7 +12299,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Уреди за лице и тяло</articlekind>
     <articlekindUid>0006303338370</articlekindUid>
-    <available>очаква се</available>
+    <available>oграничено количество</available>
     <catalog_num>10485_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125104856</ean_barcode>
@@ -12622,7 +12575,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Епилатори</articlekind>
     <articlekindUid>0006302420553</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>57500_BEU</catalog_num>
     <code>PRM</code>
     <currency>EUR</currency>
@@ -13469,7 +13422,7 @@
     </characteristics>
     <id>0006306042727</id>
     <kkprice>545.08333</kkprice>
-    <model>Krups EA897B10, Evidence Eco Design</model>
+    <model>Krups EA897B10, Evidence Design</model>
     <name>Кафеавтомат</name>
     <picture_name>0006306042727</picture_name>
     <price>410.93228</price>
@@ -13817,7 +13770,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>EA912B10</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3016661177378</ean_barcode>
@@ -47441,7 +47394,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Машини за сладолед</articlekind>
     <articlekindUid>0006307264472</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>IG803AE0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -53313,7 +53266,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>DT9814F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040092651</ean_barcode>
