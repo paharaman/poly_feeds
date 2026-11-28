@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated_at="2026-11-27T10:24:06Z" count="810" duplicates_skipped="0">
+<products generated_at="2026-11-28T09:41:01Z" count="810" duplicates_skipped="0">
   <product>
     <source_vendor_id>0006303338471</source_vendor_id>
     <source_group_id>0006303337959</source_group_id>
@@ -263,7 +263,7 @@
     </characteristics>
     <id>0006307344863</id>
     <kkprice>59.99167</kkprice>
-    <model>Beurer LA 45 GP</model>
+    <model>Beurer LA 45 GP Aroma diffuser; Micro-fine ultrasonic atomization; Two-level atomisation; Dimmable LED light in 9 colours; Quiet; Tank capacity: 140 ml; Rooms up to 20 m?; Energy-saving</model>
     <name>Ароматизатор</name>
     <picture_name>0006307344863</picture_name>
     <price>48.03704</price>
@@ -1118,7 +1118,7 @@
     </characteristics>
     <id>0006307344810</id>
     <kkprice>45.825</kkprice>
-    <model>Beurer GS 39</model>
+    <model>Beurer GS 39 Glass bathroom scale with voice function; 5 different languages; Blue backlit display; Automatic switch-off, overload indicator; 150 kg / 100 g</model>
     <name>Везна</name>
     <picture_name>0006307344810</picture_name>
     <price>36.42383</price>
@@ -4359,7 +4359,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Овлажнители на въздух</articlekind>
     <articlekindUid>0006303332178</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>68113_BEU</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>4211125681135</ean_barcode>
@@ -4522,7 +4522,7 @@
     </characteristics>
     <id>0006307344870</id>
     <kkprice>83.325</kkprice>
-    <model>Beurer LB 100</model>
+    <model>Beurer LB 100 Air humidifier; Hygienic humidification; Silent mode; With filter drying function; Timer; Output up to 250 ml/h1;  Rooms up to 35 m?; Water tank: 2.0 l</model>
     <name>Овлажнител на въздух</name>
     <picture_name>0006307344870</picture_name>
     <price>64.73201</price>
@@ -4847,7 +4847,7 @@
     </characteristics>
     <id>0006307344877</id>
     <kkprice>99.16667</kkprice>
-    <model>Beurer LR 215</model>
+    <model>Beurer LR 215 Compact Air purifier; HEPA H13 filter; Small size, big impact; Rooms up to 32m?; Night mode; Timer; With aroma oil compartment</model>
     <name>Пречиствател на въздух</name>
     <picture_name>0006307344877</picture_name>
     <price>79</price>
@@ -7924,7 +7924,7 @@
     </characteristics>
     <id>0006307344833</id>
     <kkprice>33.325</kkprice>
-    <model>Beurer FT 93</model>
+    <model>Beurer FT 93 TouchFree Forehead thermometer; Infrared measurement; Silent mode; 3-colour temperature indicator; For measuring forehead, surface and room temperatures; MDR</model>
     <name>Термометър</name>
     <picture_name>0006307344833</picture_name>
     <price>24.9952</price>
@@ -16965,7 +16965,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Кафемашини</articlekind>
     <articlekindUid>0006302209440</articlekindUid>
-    <available>на склад</available>
+    <available>с поръчка</available>
     <catalog_num>KP143BF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -23237,7 +23237,7 @@
     <articleMainkindUid>H_B</articleMainkindUid>
     <articlekind>Сешоари</articlekind>
     <articlekindUid>0006302417788</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>CV887LF0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -26785,6 +26785,150 @@
     <articlekind>Прахосмукачки</articlekind>
     <articlekindUid>0006302021254</articlekindUid>
     <available>на склад</available>
+    <catalog_num>RH9A73WO</catalog_num>
+    <code>PRS</code>
+    <currency>EUR</currency>
+    <ean_barcode>3221616111622</ean_barcode>
+    <characteristics>
+      <characteristic>
+        <description>Handheld</description>
+        <name>Тип</name>
+      </characteristic>
+      <characteristic>
+        <description>Dry</description>
+        <name>Почистване, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>380 W</description>
+        <name>Мощност, W</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Всмукателна мощност, AW</name>
+      </characteristic>
+      <characteristic>
+        <description>Bagless</description>
+        <name>Торбичка</name>
+      </characteristic>
+      <characteristic>
+        <description>(Pre-)motor filter, Output filter</description>
+        <name>Филтър</name>
+      </characteristic>
+      <characteristic>
+        <description>0.65 l</description>
+        <name>Капацитет на торбичката/контейнер, l</name>
+      </characteristic>
+      <characteristic>
+        <description>83 dB</description>
+        <name>Ниво на шума, dB</name>
+      </characteristic>
+      <characteristic>
+        <description>Flexible tube with integrated multi-use brush head.</description>
+        <name>Телескопична тръба</name>
+      </characteristic>
+      <characteristic>
+        <description>Handle</description>
+        <name>Регулиране на мощността</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Дължина на кабела, m</name>
+      </characteristic>
+      <characteristic>
+        <description>Rotative central brush</description>
+        <name>Основна четка</name>
+      </characteristic>
+      <characteristic>
+        <description>Mini brush with LED lighting, Flat nozzle, Long nozzle, Wall mount</description>
+        <name>Допълнителни четки</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Колела с меко покритие</name>
+      </characteristic>
+      <characteristic>
+        <description>up to 60 min</description>
+        <name>Време за работа</name>
+      </characteristic>
+      <characteristic>
+        <description>Power regulation</description>
+        <name>Степени на работа</name>
+      </characteristic>
+      <characteristic>
+        <description>3 h</description>
+        <name>Време за зареждане</name>
+      </characteristic>
+      <characteristic>
+        <description>Lithium ion</description>
+        <name>Батерия, тип</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на енергийна ефективност</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на емисии прах</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на твърди подови повърхности</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Клас на почистване на килими</name>
+      </characteristic>
+      <characteristic>
+        <description>-</description>
+        <name>Годишна консумация, kWh</name>
+      </characteristic>
+      <characteristic>
+        <description>25.2 x 26.6 x 113.0</description>
+        <name>Размери (Ш, Д, В), cm</name>
+      </characteristic>
+      <characteristic>
+        <description>Red and black</description>
+        <name>Цвят</name>
+      </characteristic>
+      <characteristic>
+        <description>2.50 kg</description>
+        <name>Тегло, kg</name>
+      </characteristic>
+      <characteristic>
+        <description>LED lighting system; Cyclonic technology</description>
+        <name>Други</name>
+      </characteristic>
+    </characteristics>
+    <id>0006306176076</id>
+    <kkprice>340.83333</kkprice>
+    <model>Rowenta RH9A73WO VERSATILE X-FORCE FLEX 13.60 AN</model>
+    <name>Прахосмукачка</name>
+    <picture_name>0006306176076</picture_name>
+    <price>321.58354</price>
+    <price_dds>385.900248</price_dds>
+    <realPrice_BGL>289.425186</realPrice_BGL>
+    <realPrice_BGL_dds>347.3102232</realPrice_BGL_dds>
+    <kkprice_BGL>340.83333</kkprice_BGL>
+    <kkprice_BGL_dds>408.999996</kkprice_BGL_dds>
+    <realPrice>289.425186</realPrice>
+    <small_picture>/poly/image/0006306176076</small_picture>
+    <stokaType>1</stokaType>
+    <taxCode>#85081100</taxCode>
+    <vendorName>ROWENTA</vendorName>
+    <picture_url>https://polycomp.bg/poly/image/0006306176076?scale=false</picture_url>
+    <document_url>https://polycomp.bg/poly/document/0006306176076</document_url>
+  </product>
+  <product>
+    <source_vendor_id>0006302412452</source_vendor_id>
+    <source_group_id>0006302412388</source_group_id>
+    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
+    <source_subgroup_id>0006302412394</source_subgroup_id>
+    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
+    <articleMainkind>Уреди за дома</articleMainkind>
+    <articleMainkindUid>SDA</articleMainkindUid>
+    <articlekind>Прахосмукачки</articlekind>
+    <articlekindUid>0006302021254</articlekindUid>
+    <available>на склад</available>
     <catalog_num>GZ2251E0</catalog_num>
     <code>PRS</code>
     <currency>EUR</currency>
@@ -26921,150 +27065,6 @@
     <vendorName>ROWENTA</vendorName>
     <picture_url>https://polycomp.bg/poly/image/0006307174898?scale=false</picture_url>
     <document_url>https://polycomp.bg/poly/document/0006307174898</document_url>
-  </product>
-  <product>
-    <source_vendor_id>0006302412452</source_vendor_id>
-    <source_group_id>0006302412388</source_group_id>
-    <source_group_name>ROWENTA дребна електродомакинска техника</source_group_name>
-    <source_subgroup_id>0006302412394</source_subgroup_id>
-    <source_subgroup_name>Прахосмукачки</source_subgroup_name>
-    <articleMainkind>Уреди за дома</articleMainkind>
-    <articleMainkindUid>SDA</articleMainkindUid>
-    <articlekind>Прахосмукачки</articlekind>
-    <articlekindUid>0006302021254</articlekindUid>
-    <available>на склад</available>
-    <catalog_num>RH9A73WO</catalog_num>
-    <code>PRS</code>
-    <currency>EUR</currency>
-    <ean_barcode>3221616111622</ean_barcode>
-    <characteristics>
-      <characteristic>
-        <description>Handheld</description>
-        <name>Тип</name>
-      </characteristic>
-      <characteristic>
-        <description>Dry</description>
-        <name>Почистване, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>380 W</description>
-        <name>Мощност, W</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Всмукателна мощност, AW</name>
-      </characteristic>
-      <characteristic>
-        <description>Bagless</description>
-        <name>Торбичка</name>
-      </characteristic>
-      <characteristic>
-        <description>(Pre-)motor filter, Output filter</description>
-        <name>Филтър</name>
-      </characteristic>
-      <characteristic>
-        <description>0.65 l</description>
-        <name>Капацитет на торбичката/контейнер, l</name>
-      </characteristic>
-      <characteristic>
-        <description>83 dB</description>
-        <name>Ниво на шума, dB</name>
-      </characteristic>
-      <characteristic>
-        <description>Flexible tube with integrated multi-use brush head.</description>
-        <name>Телескопична тръба</name>
-      </characteristic>
-      <characteristic>
-        <description>Handle</description>
-        <name>Регулиране на мощността</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Дължина на кабела, m</name>
-      </characteristic>
-      <characteristic>
-        <description>Rotative central brush</description>
-        <name>Основна четка</name>
-      </characteristic>
-      <characteristic>
-        <description>Mini brush with LED lighting, Flat nozzle, Long nozzle, Wall mount</description>
-        <name>Допълнителни четки</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Колела с меко покритие</name>
-      </characteristic>
-      <characteristic>
-        <description>up to 60 min</description>
-        <name>Време за работа</name>
-      </characteristic>
-      <characteristic>
-        <description>Power regulation</description>
-        <name>Степени на работа</name>
-      </characteristic>
-      <characteristic>
-        <description>3 h</description>
-        <name>Време за зареждане</name>
-      </characteristic>
-      <characteristic>
-        <description>Lithium ion</description>
-        <name>Батерия, тип</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на енергийна ефективност</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на емисии прах</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на твърди подови повърхности</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Клас на почистване на килими</name>
-      </characteristic>
-      <characteristic>
-        <description>-</description>
-        <name>Годишна консумация, kWh</name>
-      </characteristic>
-      <characteristic>
-        <description>25.2 x 26.6 x 113.0</description>
-        <name>Размери (Ш, Д, В), cm</name>
-      </characteristic>
-      <characteristic>
-        <description>Red and black</description>
-        <name>Цвят</name>
-      </characteristic>
-      <characteristic>
-        <description>2.50 kg</description>
-        <name>Тегло, kg</name>
-      </characteristic>
-      <characteristic>
-        <description>LED lighting system; Cyclonic technology</description>
-        <name>Други</name>
-      </characteristic>
-    </characteristics>
-    <id>0006306176076</id>
-    <kkprice>340.83333</kkprice>
-    <model>Rowenta RH9A73WO VERSATILE X-FORCE FLEX 13.60 AN</model>
-    <name>Прахосмукачка</name>
-    <picture_name>0006306176076</picture_name>
-    <price>321.58354</price>
-    <price_dds>385.900248</price_dds>
-    <realPrice_BGL>289.425186</realPrice_BGL>
-    <realPrice_BGL_dds>347.3102232</realPrice_BGL_dds>
-    <kkprice_BGL>340.83333</kkprice_BGL>
-    <kkprice_BGL_dds>408.999996</kkprice_BGL_dds>
-    <realPrice>289.425186</realPrice>
-    <small_picture>/poly/image/0006306176076</small_picture>
-    <stokaType>1</stokaType>
-    <taxCode>#85081100</taxCode>
-    <vendorName>ROWENTA</vendorName>
-    <picture_url>https://polycomp.bg/poly/image/0006306176076?scale=false</picture_url>
-    <document_url>https://polycomp.bg/poly/document/0006306176076</document_url>
   </product>
   <product>
     <source_vendor_id>0006302412452</source_vendor_id>
@@ -53064,7 +53064,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Уреди за гладене с пара</articlekind>
     <articlekindUid>0006302573679</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>DT9920F0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3121040097885</ean_barcode>
@@ -58480,7 +58480,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Мултикукъри</articlekind>
     <articlekindUid>0006302497169</articlekindUid>
-    <available>на склад</available>
+    <available>oграничено количество</available>
     <catalog_num>CY505EE0</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045387294984</ean_barcode>
@@ -62582,7 +62582,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Фритюрници</articlekind>
     <articlekindUid>0006302420737</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>FF230831</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386376711</ean_barcode>
@@ -63347,7 +63347,7 @@
     <articleMainkindUid>SDA</articleMainkindUid>
     <articlekind>Хлебопекарни</articlekind>
     <articlekindUid>0006302419748</articlekindUid>
-    <available>oграничено количество</available>
+    <available>с поръчка</available>
     <catalog_num>PF251835</catalog_num>
     <currency>EUR</currency>
     <ean_barcode>3045386379156</ean_barcode>
